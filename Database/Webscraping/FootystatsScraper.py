@@ -32,6 +32,15 @@ for team_key in teams_dict.keys():
         player_name, player_link = player_deets.text, player_deets['href']
         player_list.append((team_key, player_name, "https://footystats.org" + player_link))
 
+
+scraper2 = cloudscraper.create_scraper(delay=15, browser="chrome")
+for (_, _, link) in player_list:
+    html_text2 = scraper2.get(link).text
+    player_data_soup = BeautifulSoup(html_text2, 'html.parser')
+    info = player_data_soup.find_all('div', class_= 'w100 row cf')
+    # Need to collect salary and postion information for each player
+    
+    
     
 
 
