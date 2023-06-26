@@ -32,13 +32,28 @@ for team_key in teams_dict.keys():
         player_name, player_link = player_deets.text, player_deets['href']
         player_list.append((team_key, player_name, "https://footystats.org" + player_link))
 
+# print(player_list[0])
+# [('Manchester City FC', 'Erling Haaland', 'https://footystats.org/players/norway/erling-haaland')]
 
+results = []
+# list of (team_name, name, postion, salary)
+# ('Nottingham Forest FC', 'Willy Boly', 'Defender - Centre Back', '€2,600,000')
 scraper2 = cloudscraper.create_scraper(delay=15, browser="chrome")
-for (_, _, link) in player_list:
-    html_text2 = scraper2.get(link).text
+for (team_name, name, link) in player_list:
+    html_text2 = scraper2.get(link, allow_redirects=False).text
     player_data_soup = BeautifulSoup(html_text2, 'html.parser')
-    info = player_data_soup.find_all('div', class_= 'w100 row cf')
-    # Need to collect salary and postion information for each player
+    #w100 row cf'
+    info = player_data_soup.find_all('div', class_= 'row cf mt05e w100')
+    try:
+        postion = info[0].find_all('span', class_='semi-bold')[0].text
+        #print(info[1].find_all('span', class_='semi-bold'))
+        salary = info[1].find_all('span', class_='semi-bold')[-1].text
+        results.append((team_name, name, postion, salary))
+    except IndexError:
+        pass
+        
+
+print(results)
     
     
     
