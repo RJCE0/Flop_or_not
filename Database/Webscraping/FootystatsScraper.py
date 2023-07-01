@@ -1,5 +1,8 @@
 from bs4 import BeautifulSoup
 import cloudscraper
+import csv
+
+
 
 scraper = cloudscraper.create_scraper(delay=10, browser="chrome")
 html_text = scraper.get('https://footystats.org/england/premier-league').text
@@ -48,12 +51,18 @@ for (team_name, name, link) in player_list:
         postion = info[0].find_all('span', class_='semi-bold')[0].text
         #print(info[1].find_all('span', class_='semi-bold'))
         salary = info[1].find_all('span', class_='semi-bold')[-1].text
-        results.append((team_name, name, postion, salary))
+        results.append([team_name, name, postion, salary, link])
     except IndexError:
         pass
         
+with open('FootystatsDatabase.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(["CLub Name", "Player Name", "Position", "Salary", "FootyStats Link"])
+    writer.writerow(results)
+    
+#Or do you want to use pandas? 
 
-print(results)
+
     
     
     
