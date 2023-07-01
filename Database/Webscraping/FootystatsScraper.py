@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 import cloudscraper
-import csv
+#import csv
+import numpy as np
+import pandas as pd
 
 
 
@@ -55,12 +57,15 @@ for (team_name, name, link) in player_list:
     except IndexError:
         pass
         
-with open('FootystatsDatabase.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(["CLub Name", "Player Name", "Position", "Salary", "FootyStats Link"])
-    writer.writerow(results)
+# with open('FootystatsDatabase.csv', 'w', newline='') as file:
+#     writer = csv.writer(file)
+#     writer.writerow(["Club Name", "Player Name", "Position", "Salary", "FootyStats Link"])
+#     writer.writerow(results)
     
-#Or do you want to use pandas? 
+#Using pandas
+array = np.array(results)
+df = pd.DataFrame({'Club Name': array[:, 0], 'Player Name': array[:, 1], 'Position': array[:, 2], 'Salary': array[:, 3], 'FootyStats Link': array[:, 4]})
+df.to_csv("Database/FootystatsDatabase.csv", index=False, na_rep='Unknown')
 
 
     
