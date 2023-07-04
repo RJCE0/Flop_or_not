@@ -15,7 +15,7 @@ links = table.find('tbody').find_all('tr')
 
 for link in links:
     player_deets = link.find('th', {'data-stat' : 'team'}).find('a')
-    team_links.append((player_deets.text, "https://fbref.com"+player_deets['href']))
+    team_links.append((player_deets.text, "https://fbref.com" + player_deets['href']))
 
 # Now we have a list of team links to next extract the player stats from. 
     
@@ -28,7 +28,7 @@ for (team, link) in team_links:
     player_data_soup = BeautifulSoup(html_text2, 'html.parser')
     player_list = player_data_soup.find(id='div_stats_standard_9').find('tbody').find_all('tr')
     for player in player_list:
-        name = player.find('td', {'data-stat': 'player'}).find('a').text
+        name = player.find('th', {'data-stat': 'player'}).find('a').text
         pos = player.find('td', {'data-stat': 'position'}).text
         age = player.find('td', {'data-stat': 'age'}).text
         starts = player.find('td', {'data-stat': 'games_starts'}).text
@@ -44,6 +44,7 @@ for (team, link) in team_links:
         results.append([name, pos, team, age, starts, minutes, goals, non_pen_goals, assists, crdY, crdR, xG, npXG, xA])
     
 print(results)
+
 
 # table1 = soup.find(id="all_stats_standard").find('div', class_='table_container is_setup')
 # print(table1)
