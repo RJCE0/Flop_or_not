@@ -66,5 +66,6 @@ if __name__ == '__main__':
                            'Age': array[:, 3],'Starts': array[:, 4], 'Mins': array[:, 5], 'Goals': array[:, 6],
                            'npG': array[:, 7], 'Assists': array[:, 8], 'crdY': array[:, 9], 'crdR': array[:, 10],
                            'xG': array[:, 11], 'npXG': array[:, 12], 'xA': array[:, 13]})
+        df.dropna(inplace=True)
         file = f"Database/FBRefDatabase{year}.csv"
         df.to_csv(file, index=False, na_rep='Unknown')
