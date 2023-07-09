@@ -1,0 +1,546 @@
+Player Name,Position,Club Name,Age,Starts,Mins,Goals,npG,Assists,crdY,crdR,xG,npXG,xA
+Bukayo Saka,"FW,MF",Arsenal,19.0,36,"2,978",11.0,9.0,7.0,6.0,0.0,10.3,8.7,7.5
+Gabriel Dos Santos,DF,Arsenal,23.0,35,"3,063",5.0,5.0,0.0,8.0,1.0,3.2,3.2,0.7
+Aaron Ramsdale,GK,Arsenal,23.0,34,"3,060",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Ben White,DF,Arsenal,23.0,32,"2,880",0.0,0.0,0.0,3.0,0.0,1.0,1.0,1.3
+Martin Ødegaard,"MF,FW",Arsenal,22.0,32,"2,785",7.0,7.0,4.0,4.0,0.0,4.8,4.8,6.3
+Granit Xhaka,"MF,DF",Arsenal,28.0,27,"2,327",1.0,1.0,2.0,10.0,1.0,1.4,1.4,2.3
+Thomas Partey,MF,Arsenal,28.0,23,"2,028",2.0,2.0,1.0,6.0,0.0,2.8,2.8,1.0
+Kieran Tierney,DF,Arsenal,24.0,22,"1,915",1.0,1.0,3.0,0.0,0.0,0.6,0.6,1.8
+Emile Smith Rowe,"MF,FW",Arsenal,21.0,21,"1,921",10.0,10.0,2.0,1.0,0.0,6.0,6.0,2.0
+Martinelli,"FW,MF",Arsenal,20.0,21,"1,860",6.0,5.0,6.0,3.0,1.0,7.3,6.6,4.3
+Alexandre Lacazette,FW,Arsenal,30.0,20,"1,782",4.0,2.0,7.0,0.0,0.0,8.4,6.0,3.0
+Takehiro Tomiyasu,DF,Arsenal,22.0,20,"1,679",0.0,0.0,1.0,2.0,0.0,0.6,0.6,1.0
+Cédric Soares,DF,Arsenal,29.0,16,"1,486",1.0,1.0,1.0,3.0,0.0,0.6,0.6,1.6
+Nuno Tavares,DF,Arsenal,21.0,13,"1,176",1.0,1.0,1.0,2.0,0.0,1.9,1.9,1.1
+Albert Sambi Lokonga,MF,Arsenal,21.0,12,"1,134",0.0,0.0,0.0,5.0,0.0,0.6,0.6,1.0
+Pierre-Emerick Aubameyang,FW,Arsenal,32.0,12,"1,037",4.0,4.0,1.0,3.0,0.0,5.9,4.2,1.0
+Rob Holding,DF,Arsenal,25.0,9,845,1.0,1.0,0.0,4.0,1.0,0.4,0.4,0.0
+Eddie Nketiah,FW,Arsenal,22.0,8,835,5.0,5.0,1.0,3.0,0.0,4.4,4.4,2.0
+Mohamed Elneny,MF,Arsenal,29.0,8,806,0.0,0.0,2.0,1.0,0.0,0.2,0.2,0.4
+Nicolas Pépé,"FW,MF",Arsenal,26.0,5,696,1.0,1.0,2.0,0.0,0.0,2.6,2.6,1.7
+Bernd Leno,GK,Arsenal,29.0,4,360,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ainsley Maitland-Niles,MF,Arsenal,23.0,2,268,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.3
+Pablo Marí,DF,Arsenal,27.0,2,180,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1
+Calum Chambers,DF,Arsenal,26.0,2,170,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
+Sead Kolašinac,DF,Arsenal,28.0,1,91,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Folarin Balogun,FW,Arsenal,20.0,1,70,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0
+Reiss Nelson,FW,Arsenal,21.0,0,20,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Matty Cash,DF,Aston Villa,23.0,38,"3,377",4.0,4.0,3.0,8.0,0.0,2.7,2.7,2.8
+Emiliano Martínez,GK,Aston Villa,28.0,36,"3,240",0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+Tyrone Mings,DF,Aston Villa,28.0,35,"3,189",1.0,1.0,3.0,11.0,0.0,1.6,1.6,1.6
+John McGinn,MF,Aston Villa,26.0,35,"3,090",3.0,3.0,4.0,8.0,0.0,1.5,1.5,5.3
+Ollie Watkins,FW,Aston Villa,25.0,33,"2,952",11.0,10.0,2.0,7.0,0.0,11.6,11.0,3.4
+Douglas Luiz,MF,Aston Villa,23.0,31,"2,715",2.0,2.0,3.0,7.0,0.0,2.0,2.0,2.5
+Ezri Konsa,DF,Aston Villa,23.0,29,"2,477",2.0,2.0,0.0,6.0,2.0,1.6,1.6,0.3
+Jacob Ramsey,MF,Aston Villa,20.0,29,"2,467",6.0,6.0,1.0,6.0,0.0,4.0,4.0,1.9
+Emi Buendía,"MF,FW",Aston Villa,24.0,22,"1,899",4.0,4.0,6.0,1.0,0.0,3.4,3.4,5.8
+Danny Ings,FW,Aston Villa,29.0,22,"1,898",7.0,6.0,6.0,4.0,0.0,7.1,6.3,1.6
+Matt Targett,DF,Aston Villa,25.0,17,"1,431",1.0,1.0,1.0,2.0,0.0,0.5,0.5,1.7
+Philippe Coutinho,"MF,FW",Aston Villa,29.0,16,"1,329",5.0,5.0,3.0,0.0,0.0,3.8,3.8,2.9
+Lucas Digne,DF,Aston Villa,28.0,16,"1,269",0.0,0.0,4.0,2.0,0.0,0.5,0.5,2.2
+Ashley Young,"DF,FW",Aston Villa,36.0,10,"1,250",0.0,0.0,2.0,2.0,0.0,0.4,0.4,1.0
+Marvelous Nakamba,MF,Aston Villa,27.0,10,904,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+Calum Chambers,DF,Aston Villa,26.0,9,831,1.0,1.0,0.0,1.0,0.0,0.2,0.2,0.1
+Leon Bailey,"FW,MF",Aston Villa,23.0,7,761,1.0,1.0,2.0,3.0,0.0,1.5,1.5,0.8
+Axel Tuanzebe,DF,Aston Villa,23.0,6,508,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0
+Kortney Hause,DF,Aston Villa,26.0,4,397,1.0,1.0,0.0,0.0,0.0,0.1,0.1,0.0
+Anwar El Ghazi,"FW,MF",Aston Villa,26.0,4,386,1.0,0.0,1.0,2.0,0.0,1.1,0.3,0.4
+Morgan Sanson,MF,Aston Villa,26.0,3,356,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Carney Chukwuemeka,"MF,FW",Aston Villa,17.0,2,301,0.0,0.0,1.0,0.0,0.0,0.6,0.6,1.0
+Bertrand Traoré,"MF,FW",Aston Villa,25.0,1,220,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0
+Tim Iroegbunam,MF,Aston Villa,18.0,1,92,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0
+Robin Olsen,GK,Aston Villa,31.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jed Steer,GK,Aston Villa,28.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cameron Archer,"FW,MF",Aston Villa,20.0,0,27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Keinan Davis,FW,Aston Villa,23.0,0,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trézéguet,FW,Aston Villa,26.0,0,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jaden Philogene Bidace,FW,Aston Villa,19.0,0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wesley Moraes,FW,Aston Villa,24.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pontus Jansson,DF,Brentford,30.0,37,"3,321",3.0,3.0,1.0,7.0,0.0,3.0,3.0,0.3
+Christian Nørgaard,MF,Brentford,27.0,35,"3,054",3.0,3.0,4.0,8.0,0.0,3.8,3.8,3.3
+Bryan Mbeumo,FW,Brentford,21.0,34,"2,905",4.0,3.0,7.0,4.0,0.0,9.3,8.5,3.7
+Rico Henry,DF,Brentford,24.0,33,"2,776",3.0,3.0,0.0,2.0,0.0,1.5,1.5,1.7
+Ivan Toney,FW,Brentford,25.0,32,"2,909",12.0,7.0,5.0,8.0,0.0,11.4,7.4,5.8
+Ethan Pinnock,DF,Brentford,28.0,32,"2,694",1.0,1.0,1.0,1.0,0.0,1.2,1.2,1.2
+Vitaly Janelt,MF,Brentford,23.0,27,"2,298",4.0,4.0,0.0,3.0,0.0,2.4,2.4,1.9
+Sergi Canós,"DF,FW",Brentford,24.0,25,"2,083",3.0,3.0,2.0,8.0,1.0,3.0,3.0,1.7
+David Raya,GK,Brentford,25.0,24,"2,160",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Kristoffer Ajer,DF,Brentford,23.0,23,"1,995",1.0,1.0,3.0,5.0,0.0,0.8,0.8,1.7
+Mathias Jensen,MF,Brentford,25.0,19,"1,601",0.0,0.0,1.0,0.0,0.0,2.9,2.9,3.2
+Yoane Wissa,FW,Brentford,24.0,12,"1,284",7.0,7.0,1.0,0.0,0.0,3.1,3.1,0.9
+Mads Roerslev,DF,Brentford,22.0,12,"1,240",1.0,1.0,1.0,1.0,0.0,0.4,0.4,0.6
+Álvaro Fernández,GK,Brentford,23.0,12,"1,080",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Frank Onyeka,MF,Brentford,23.0,12,"1,045",0.0,0.0,0.0,4.0,0.0,0.8,0.8,0.2
+Christian Eriksen,MF,Brentford,29.0,10,939,1.0,1.0,4.0,1.0,0.0,1.3,1.3,3.5
+Shandon Baptiste,MF,Brentford,23.0,9,910,1.0,1.0,0.0,2.0,1.0,0.7,0.7,0.5
+Mads Bech Sørensen,DF,Brentford,22.0,9,835,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.4
+Mathias Jørgensen,DF,Brentford,31.0,6,518,1.0,1.0,0.0,2.0,0.0,0.1,0.1,0.3
+Saman Ghoddos,"MF,DF",Brentford,27.0,4,536,1.0,1.0,1.0,2.0,0.0,0.5,0.5,1.2
+Charlie Goode,DF,Brentford,25.0,4,450,0.0,0.0,0.0,3.0,0.0,0.1,0.1,1.0
+Josh Dasilva,"MF,FW",Brentford,22.0,2,257,0.0,0.0,0.0,0.0,1.0,0.1,0.1,0.1
+Jonas Lössl,GK,Brentford,32.0,2,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dominic Thompson,DF,Brentford,21.0,2,146,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Marcus Forss,"FW,MF",Brentford,22.0,1,209,0.0,0.0,1.0,0.0,0.0,0.3,0.3,0.2
+Mads Bidstrup,MF,Brentford,20.0,0,41,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tariqe Fosu,DF,Brentford,25.0,0,17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finley Stevens,DF,Brentford,18.0,0,15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Nathan Young-Coombes,MF,Brentford,18.0,0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Robert Sánchez,GK,Brighton,23.0,37,"3,329",0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.4
+Marc Cucurella,DF,Brighton,23.0,35,"3,089",1.0,1.0,1.0,6.0,0.0,0.7,0.7,2.7
+Joël Veltman,DF,Brighton,29.0,33,"2,874",1.0,1.0,1.0,6.0,0.0,0.7,0.7,1.6
+Leandro Trossard,"FW,MF",Brighton,26.0,32,"2,805",8.0,7.0,3.0,2.0,0.0,6.7,5.9,4.8
+Lewis Dunk,DF,Brighton,29.0,29,"2,573",1.0,1.0,0.0,3.0,1.0,1.3,1.3,0.4
+Neal Maupay,FW,Brighton,24.0,25,"2,276",8.0,7.0,2.0,7.0,0.0,8.7,7.1,2.4
+Yves Bissouma,MF,Brighton,24.0,25,"2,111",1.0,1.0,2.0,10.0,0.0,0.9,0.9,0.8
+Pascal Groß,"MF,DF",Brighton,30.0,24,"2,038",2.0,2.0,4.0,1.0,0.0,2.9,2.1,5.5
+Alexis Mac Allister,"MF,FW",Brighton,22.0,22,"2,123",5.0,3.0,2.0,4.0,0.0,6.3,4.0,1.9
+Jakub Moder,MF,Brighton,22.0,19,"1,701",0.0,0.0,3.0,1.0,0.0,2.6,2.6,2.2
+Adam Lallana,MF,Brighton,33.0,18,"1,561",0.0,0.0,1.0,4.0,0.0,1.1,1.1,0.9
+Solly March,"DF,FW",Brighton,27.0,17,"1,746",0.0,0.0,2.0,1.0,0.0,1.2,1.2,2.3
+Tariq Lamptey,"DF,FW",Brighton,20.0,16,"1,561",0.0,0.0,2.0,4.0,0.0,0.8,0.8,2.6
+Adam Webster,DF,Brighton,26.0,16,"1,434",2.0,2.0,0.0,5.0,0.0,0.9,0.9,0.0
+Danny Welbeck,"FW,MF",Brighton,30.0,15,"1,478",6.0,6.0,2.0,0.0,0.0,6.6,6.6,1.2
+Shane Duffy,DF,Brighton,29.0,15,"1,436",1.0,1.0,0.0,7.0,0.0,1.0,1.0,0.2
+Dan Burn,DF,Brighton,29.0,12,"1,022",1.0,1.0,0.0,4.0,0.0,1.6,1.5,0.5
+Enock Mwepu,MF,Brighton,23.0,12,996,2.0,2.0,4.0,2.0,0.0,2.1,2.1,1.6
+Moisés Caicedo,MF,Brighton,19.0,8,660,1.0,1.0,1.0,2.0,0.0,0.8,0.8,0.3
+Steven Alzate,MF,Brighton,22.0,5,404,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2
+Aaron Connolly,"FW,MF",Brighton,21.0,1,156,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1
+Jason Steele,GK,Brighton,30.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jeremy Sarmiento,"FW,MF",Brighton,19.0,1,48,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Taylor Richards,MF,Brighton,20.0,0,25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Evan Ferguson,MF,Brighton,16.0,0,23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jürgen Locadia,"MF,FW",Brighton,27.0,0,23,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0
+Nick Pope,GK,Burnley,29.0,36,"3,240",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
+Dwight McNeil,MF,Burnley,21.0,35,"3,107",0.0,0.0,1.0,1.0,0.0,2.3,2.3,4.6
+James Tarkowski,DF,Burnley,28.0,35,"3,106",1.0,1.0,2.0,11.0,0.0,2.5,2.5,0.5
+Josh Brownhill,MF,Burnley,25.0,32,"2,955",2.0,2.0,3.0,10.0,0.0,1.4,1.4,2.6
+Charlie Taylor,DF,Burnley,27.0,30,"2,731",0.0,0.0,3.0,3.0,0.0,0.2,0.2,3.8
+Ashley Westwood,MF,Burnley,31.0,26,"2,287",0.0,0.0,3.0,7.0,0.0,0.6,0.6,4.1
+Ben Mee,DF,Burnley,31.0,21,"1,839",3.0,3.0,0.0,3.0,0.0,2.3,2.3,1.0
+Maxwel Cornet,"FW,MF",Burnley,24.0,21,"1,766",9.0,9.0,1.0,2.0,0.0,6.7,5.9,1.7
+Matthew Lowton,DF,Burnley,32.0,20,"1,772",1.0,1.0,2.0,3.0,1.0,0.7,0.7,2.1
+Jack Cork,MF,Burnley,32.0,20,"1,670",1.0,1.0,0.0,4.0,0.0,0.7,0.7,0.3
+Connor Roberts,DF,Burnley,25.0,19,"1,692",1.0,1.0,1.0,2.0,0.0,0.4,0.4,1.2
+Nathan Collins,DF,Burnley,20.0,18,"1,670",2.0,2.0,0.0,2.0,1.0,1.5,1.5,1.5
+Aaron Lennon,"MF,FW",Burnley,34.0,17,"1,551",2.0,2.0,0.0,2.0,0.0,1.1,1.1,0.5
+Wout Weghorst,FW,Burnley,28.0,17,"1,450",2.0,2.0,3.0,3.0,0.0,4.8,4.8,1.5
+Chris Wood,FW,Burnley,29.0,17,"1,367",3.0,3.0,0.0,1.0,0.0,4.2,4.2,0.5
+Jay Rodriguez,FW,Burnley,32.0,13,"1,382",2.0,2.0,2.0,3.0,0.0,4.8,4.8,2.1
+Jóhann Berg Guðmundsson,MF,Burnley,30.0,13,"1,102",0.0,0.0,1.0,2.0,0.0,1.6,1.6,0.5
+Ashley Barnes,FW,Burnley,31.0,8,808,1.0,0.0,0.0,4.0,0.0,2.1,1.4,0.9
+Erik Pieters,DF,Burnley,32.0,8,730,0.0,0.0,1.0,1.0,0.0,0.2,0.2,1.0
+Matěj Vydra,FW,Burnley,29.0,5,679,2.0,2.0,3.0,1.0,0.0,2.9,2.9,0.7
+Kevin Long,DF,Burnley,30.0,4,410,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0
+Wayne Hennessey,GK,Burnley,34.0,2,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2
+Dale Stephens,MF,Burnley,32.0,1,124,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Edouard Mendy,GK,Chelsea,29.0,34,"3,060",0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+Antonio Rüdiger,DF,Chelsea,28.0,34,"3,035",3.0,3.0,0.0,9.0,0.0,2.3,2.3,0.7
+Thiago Silva,DF,Chelsea,36.0,28,"2,650",3.0,3.0,0.0,2.0,0.0,0.9,0.9,0.2
+Mason Mount,MF,Chelsea,22.0,27,"2,363",11.0,10.0,10.0,4.0,0.0,8.0,7.2,6.7
+Jorginho,MF,Chelsea,29.0,26,"2,273",6.0,0.0,2.0,5.0,0.0,5.8,0.3,2.7
+Marcos Alonso,DF,Chelsea,30.0,25,"2,167",4.0,4.0,4.0,8.0,0.0,2.8,2.8,4.5
+César Azpilicueta,DF,Chelsea,31.0,24,"2,070",1.0,1.0,2.0,3.0,0.0,0.9,0.9,1.8
+Reece James,DF,Chelsea,21.0,22,"1,864",5.0,5.0,9.0,4.0,1.0,3.1,3.1,5.9
+Kai Havertz,"FW,MF",Chelsea,22.0,22,"1,809",8.0,8.0,3.0,3.0,0.0,8.7,8.7,2.2
+N'Golo Kanté,MF,Chelsea,30.0,21,"1,773",2.0,2.0,4.0,2.0,0.0,1.5,1.5,2.1
+Andreas Christensen,DF,Chelsea,25.0,17,"1,496",0.0,0.0,0.0,2.0,0.0,0.6,0.6,0.2
+Trevoh Chalobah,DF,Chelsea,22.0,17,"1,449",3.0,3.0,1.0,2.0,0.0,1.1,1.1,0.3
+Romelu Lukaku,FW,Chelsea,28.0,16,"1,589",8.0,7.0,0.0,1.0,0.0,6.6,5.8,3.0
+Mateo Kovačić,MF,Chelsea,27.0,16,"1,558",2.0,2.0,5.0,4.0,0.0,1.6,1.6,3.2
+Timo Werner,"FW,MF",Chelsea,25.0,15,"1,283",4.0,4.0,1.0,1.0,0.0,6.8,6.8,0.3
+Hakim Ziyech,"MF,FW",Chelsea,28.0,14,"1,319",4.0,4.0,3.0,3.0,0.0,3.4,3.4,2.9
+Ruben Loftus-Cheek,"MF,DF",Chelsea,25.0,13,"1,394",0.0,0.0,2.0,1.0,0.0,1.2,1.2,2.4
+Christian Pulisic,"MF,FW",Chelsea,22.0,13,"1,290",6.0,6.0,2.0,2.0,0.0,4.9,4.9,1.3
+Callum Hudson-Odoi,"MF,FW",Chelsea,20.0,11,962,1.0,1.0,2.0,1.0,0.0,2.5,2.5,2.1
+Malang Sarr,DF,Chelsea,22.0,6,546,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.4
+Ben Chilwell,DF,Chelsea,24.0,6,542,3.0,3.0,1.0,0.0,0.0,0.9,0.9,0.8
+Saúl Ñíguez,"DF,MF",Chelsea,26.0,5,480,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.5
+Kepa Arrizabalaga,GK,Chelsea,26.0,4,360,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ross Barkley,"MF,FW",Chelsea,27.0,1,179,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.5
+Kenedy,DF,Chelsea,25.0,1,58,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.6
+Emerson Palmieri,DF,Chelsea,26.0,0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Marc Guéhi,DF,Crystal Palace,21.0,36,"3,222",2.0,2.0,1.0,4.0,0.0,2.5,2.5,1.3
+Tyrick Mitchell,DF,Crystal Palace,21.0,35,"3,101",0.0,0.0,2.0,1.0,0.0,0.2,0.2,1.7
+Conor Gallagher,MF,Crystal Palace,21.0,33,"2,845",8.0,8.0,3.0,10.0,0.0,6.3,6.3,3.1
+Joachim Andersen,DF,Crystal Palace,25.0,32,"2,916",0.0,0.0,3.0,4.0,0.0,0.7,0.7,1.7
+Wilfried Zaha,FW,Crystal Palace,28.0,31,"2,760",14.0,9.0,1.0,6.0,1.0,9.5,3.9,5.1
+Vicente Guaita,GK,Crystal Palace,34.0,30,"2,655",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+Joel Ward,DF,Crystal Palace,31.0,27,"2,487",0.0,0.0,0.0,8.0,0.0,0.3,0.3,0.5
+Jordan Ayew,FW,Crystal Palace,29.0,23,"2,019",3.0,3.0,3.0,2.0,0.0,3.1,3.1,2.8
+Cheikhou Kouyaté,MF,Crystal Palace,31.0,23,"1,974",0.0,0.0,1.0,3.0,0.0,0.5,0.5,0.8
+Jeffrey Schlupp,"MF,FW",Crystal Palace,28.0,20,"1,851",4.0,4.0,1.0,1.0,0.0,3.4,3.4,1.6
+Odsonne Édouard,FW,Crystal Palace,23.0,18,"1,564",6.0,5.0,3.0,4.0,0.0,6.4,5.6,1.9
+James McArthur,MF,Crystal Palace,33.0,15,"1,439",0.0,0.0,3.0,4.0,0.0,0.3,0.3,1.4
+Nathaniel Clyne,DF,Crystal Palace,30.0,15,"1,351",0.0,0.0,1.0,1.0,0.0,0.1,0.1,0.4
+Jean-Philippe Mateta,FW,Crystal Palace,24.0,13,"1,145",5.0,5.0,1.0,2.0,0.0,5.8,5.8,1.3
+Will Hughes,MF,Crystal Palace,26.0,13,"1,053",0.0,0.0,1.0,6.0,0.0,0.1,0.1,0.6
+Michael Olise,"FW,MF",Crystal Palace,19.0,12,"1,141",2.0,2.0,5.0,4.0,0.0,1.7,1.7,3.9
+Christian Benteke,FW,Crystal Palace,30.0,11,"1,145",4.0,4.0,1.0,3.0,0.0,4.9,4.9,1.3
+Luka Milivojević,MF,Crystal Palace,30.0,9,774,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.7
+Jack Butland,GK,Crystal Palace,28.0,8,765,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eberechi Eze,"MF,FW",Crystal Palace,23.0,6,605,1.0,1.0,1.0,1.0,0.0,0.4,0.4,0.9
+James Tomkins,DF,Crystal Palace,32.0,6,547,1.0,1.0,0.0,2.0,0.0,0.5,0.5,0.2
+Jaïro Riedewald,MF,Crystal Palace,24.0,1,118,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Jesuran Rak Sakyi,"FW,MF",Crystal Palace,18.0,1,80,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nathan Ferguson,DF,Crystal Palace,20.0,0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jordan Pickford,GK,Everton,27.0,35,"3,150",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.1
+Michael Keane,DF,Everton,28.0,31,"2,792",3.0,3.0,2.0,4.0,1.0,1.2,1.2,1.6
+Séamus Coleman,DF,Everton,32.0,30,"2,656",1.0,1.0,0.0,4.0,0.0,1.2,1.2,0.8
+Abdoulaye Doucouré,MF,Everton,28.0,29,"2,537",2.0,2.0,4.0,6.0,0.0,2.2,2.2,2.0
+Richarlison,FW,Everton,24.0,28,"2,523",10.0,7.0,5.0,9.0,0.0,9.2,6.8,3.6
+Demarai Gray,"MF,FW",Everton,25.0,28,"2,338",5.0,5.0,4.0,3.0,0.0,4.0,4.0,3.6
+Anthony Gordon,"MF,FW",Everton,20.0,25,"2,285",4.0,4.0,2.0,4.0,0.0,3.5,3.5,3.8
+Allan,MF,Everton,30.0,25,"2,183",0.0,0.0,2.0,7.0,1.0,0.2,0.2,0.8
+Mason Holgate,DF,Everton,24.0,23,"2,134",2.0,2.0,1.0,7.0,1.0,1.3,1.3,0.1
+Ben Godfrey,DF,Everton,23.0,23,"2,029",0.0,0.0,0.0,6.0,0.0,1.4,1.4,0.8
+Alex Iwobi,"MF,DF",Everton,25.0,22,"2,035",2.0,2.0,2.0,1.0,0.0,2.3,2.3,2.6
+Andros Townsend,"MF,FW",Everton,30.0,17,"1,455",3.0,2.0,2.0,3.0,0.0,2.2,1.5,3.1
+Dominic Calvert-Lewin,FW,Everton,24.0,15,"1,283",5.0,3.0,2.0,2.0,0.0,6.5,4.2,1.6
+Lucas Digne,DF,Everton,28.0,13,"1,170",0.0,0.0,0.0,4.0,0.0,0.3,0.3,1.4
+Vitaliy Mykolenko,DF,Everton,22.0,12,"1,055",1.0,1.0,0.0,0.0,0.0,0.5,0.5,0.8
+Jonjoe Kenny,DF,Everton,24.0,11,"1,018",0.0,0.0,1.0,3.0,1.0,0.2,0.2,0.8
+Yerry Mina,DF,Everton,26.0,11,846,0.0,0.0,0.0,3.0,0.0,0.3,0.3,0.0
+Salomón Rondón,FW,Everton,31.0,8,790,1.0,1.0,1.0,3.0,1.0,1.8,1.8,0.7
+Fabian Delph,MF,Everton,31.0,8,662,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.1
+André Gomes,MF,Everton,28.0,7,619,0.0,0.0,1.0,3.0,0.0,0.7,0.7,0.2
+Donny van de Beek,MF,Everton,24.0,5,483,1.0,1.0,0.0,1.0,0.0,1.1,1.1,0.1
+Jarrad Branthwaite,DF,Everton,19.0,4,388,1.0,1.0,0.0,0.0,1.0,0.5,0.5,0.0
+Asmir Begović,GK,Everton,34.0,3,270,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tom Davies,MF,Everton,23.0,2,234,1.0,1.0,0.0,1.0,0.0,0.8,0.8,0.0
+Dele Alli,"MF,FW",Everton,25.0,1,338,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.4
+Jean-Philippe Gbamin,MF,Everton,25.0,1,67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ellis Simms,FW,Everton,20.0,1,61,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lewis Dobbin,"FW,MF",Everton,18.0,0,32,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Tyler Onyango,MF,Everton,18.0,0,28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Isaac Price,MF,Everton,17.0,0,14,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Anwar El Ghazi,"FW,MF",Everton,26.0,0,13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cenk Tosun,MF,Everton,30.0,0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Moise Kean,FW,Everton,21.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Illan Meslier,GK,Leeds United,21.0,38,"3,384",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+Stuart Dallas,"DF,MF",Leeds United,30.0,34,"2,919",1.0,1.0,1.0,5.0,0.0,1.9,1.9,2.3
+Raphinha,"FW,MF",Leeds United,24.0,34,"2,915",11.0,7.0,3.0,7.0,0.0,10.2,7.0,7.5
+Jack Harrison,"FW,MF",Leeds United,24.0,32,"2,639",8.0,8.0,1.0,3.0,0.0,4.4,4.4,3.2
+Daniel James,"FW,MF",Leeds United,23.0,29,"2,366",4.0,4.0,4.0,7.0,1.0,6.1,6.1,2.9
+Diego Llorente,DF,Leeds United,27.0,28,"2,340",3.0,3.0,0.0,7.0,0.0,1.0,1.0,0.1
+Rodrigo,"MF,FW",Leeds United,30.0,27,"2,265",6.0,5.0,1.0,9.0,0.0,4.2,3.5,3.1
+Luke Ayling,DF,Leeds United,29.0,26,"2,272",2.0,2.0,2.0,4.0,1.0,1.2,1.2,1.8
+Mateusz Klich,MF,Leeds United,31.0,26,"2,073",1.0,1.0,2.0,5.0,0.0,2.8,2.8,2.2
+Pascal Struijk,"DF,MF",Leeds United,21.0,22,"2,055",1.0,1.0,0.0,6.0,1.0,1.4,1.4,0.4
+Liam Cooper,DF,Leeds United,29.0,21,"1,814",0.0,0.0,1.0,5.0,0.0,0.4,0.4,0.1
+Junior Firpo,"DF,MF",Leeds United,24.0,19,"1,711",0.0,0.0,2.0,11.0,0.0,0.9,0.9,1.9
+Kalvin Phillips,MF,Leeds United,25.0,18,"1,596",0.0,0.0,1.0,4.0,0.0,0.7,0.7,0.7
+Robin Koch,"MF,DF",Leeds United,25.0,17,"1,574",0.0,0.0,0.0,3.0,0.0,0.8,0.8,0.4
+Adam Forshaw,MF,Leeds United,29.0,17,"1,530",0.0,0.0,1.0,5.0,0.0,0.5,0.5,1.0
+Tyler Roberts,"MF,FW",Leeds United,22.0,7,987,1.0,1.0,1.0,5.0,0.0,2.4,2.4,1.0
+Jamie Shackleton,"DF,MF",Leeds United,21.0,7,709,0.0,0.0,0.0,4.0,0.0,0.2,0.2,0.0
+Patrick Bamford,FW,Leeds United,27.0,7,559,2.0,2.0,2.0,2.0,0.0,3.0,3.0,1.1
+Joe Gelhardt,"FW,MF",Leeds United,19.0,5,746,2.0,2.0,2.0,4.0,0.0,3.0,3.0,1.6
+Sam Greenwood,"MF,FW",Leeds United,19.0,1,237,0.0,0.0,2.0,0.0,0.0,0.3,0.3,0.2
+Lewis Bate,MF,Leeds United,18.0,1,146,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Charlie Cresswell,DF,Leeds United,18.0,1,141,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0
+Cody Drameh,"DF,MF",Leeds United,19.0,1,128,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Leo Fuhr Hjelde,"MF,DF",Leeds United,17.0,0,150,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crysencio Summerville,"MF,FW",Leeds United,19.0,0,130,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0
+Kristoffer Klaesson,GK,Leeds United,20.0,0,36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hélder Costa,MF,Leeds United,27.0,0,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liam McCarron,FW,Leeds United,20.0,0,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Stuart McKinstry,MF,Leeds United,18.0,0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kasper Schmeichel,GK,Leicester City,34.0,37,"3,330",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+Youri Tielemans,MF,Leicester City,24.0,29,"2,631",6.0,4.0,4.0,3.0,0.0,4.4,2.8,4.2
+Çağlar Söyüncü,DF,Leicester City,25.0,28,"2,497",1.0,1.0,0.0,5.0,0.0,1.0,1.0,0.1
+James Maddison,"MF,FW",Leicester City,24.0,28,"2,459",12.0,12.0,8.0,3.0,0.0,7.5,7.5,5.1
+Harvey Barnes,"FW,MF",Leicester City,23.0,24,"2,101",6.0,6.0,10.0,2.0,0.0,5.6,5.6,4.6
+Daniel Amartey,DF,Leicester City,26.0,23,"2,123",0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.2
+Kiernan Dewsbury-Hall,MF,Leicester City,22.0,23,"2,105",1.0,1.0,2.0,4.0,0.0,1.2,1.2,2.7
+Timothy Castagne,DF,Leicester City,25.0,22,"2,127",1.0,1.0,0.0,1.0,0.0,0.7,0.7,1.5
+Luke Thomas,DF,Leicester City,20.0,21,"1,912",0.0,0.0,1.0,2.0,0.0,0.1,0.1,1.3
+Jamie Vardy,FW,Leicester City,34.0,20,"1,806",15.0,15.0,2.0,2.0,0.0,10.8,10.8,1.4
+Wilfred Ndidi,"MF,DF",Leicester City,24.0,18,"1,618",0.0,0.0,0.0,4.0,0.0,0.7,0.7,0.0
+Ademola Lookman,"FW,MF",Leicester City,23.0,16,"1,453",6.0,6.0,0.0,2.0,0.0,4.5,4.5,1.9
+Jonny Evans,DF,Leicester City,33.0,16,"1,348",1.0,1.0,1.0,3.0,0.0,0.6,0.6,0.8
+Kelechi Iheanacho,FW,Leicester City,24.0,13,"1,264",4.0,4.0,5.0,1.0,0.0,3.6,3.6,2.5
+Patson Daka,FW,Leicester City,22.0,13,"1,159",5.0,5.0,3.0,2.0,0.0,4.2,4.2,2.0
+Ricardo Pereira,DF,Leicester City,27.0,13,991,1.0,1.0,3.0,3.0,0.0,0.7,0.7,1.3
+Boubakary Soumaré,MF,Leicester City,22.0,12,"1,102",0.0,0.0,1.0,0.0,0.0,0.4,0.4,0.4
+Nampalys Mendy,MF,Leicester City,29.0,12,"1,032",0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+Marc Albrighton,"FW,DF",Leicester City,31.0,11,"1,132",1.0,1.0,2.0,3.0,0.0,0.5,0.5,2.0
+James Justin,DF,Leicester City,23.0,11,998,0.0,0.0,0.0,0.0,0.0,0.3,0.3,1.0
+Wesley Fofana,DF,Leicester City,20.0,7,630,0.0,0.0,0.0,2.0,0.0,0.4,0.4,0.0
+Jannik Vestergaard,DF,Leicester City,28.0,6,567,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.0
+Ayoze Pérez,"MF,FW",Leicester City,28.0,6,445,2.0,2.0,3.0,0.0,1.0,1.6,1.6,1.6
+Ryan Bertrand,DF,Leicester City,31.0,4,337,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Hamza Choudhury,"DF,MF",Leicester City,23.0,4,285,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Danny Ward,GK,Leicester City,28.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lewis Brunt,MF,Leicester City,20.0,0,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kasey McAteer,FW,Leicester City,19.0,0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alisson,GK,Liverpool,28.0,36,"3,240",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2
+Virgil van Dijk,DF,Liverpool,30.0,34,"3,060",3.0,3.0,1.0,3.0,0.0,2.0,2.0,1.5
+Trent Alexander-Arnold,DF,Liverpool,22.0,32,"2,853",2.0,2.0,12.0,2.0,0.0,2.4,2.4,12.0
+Sadio Mané,FW,Liverpool,29.0,32,"2,819",16.0,16.0,2.0,5.0,0.0,17.2,17.2,5.2
+Joël Matip,DF,Liverpool,29.0,31,"2,790",3.0,3.0,3.0,2.0,0.0,3.4,3.4,1.3
+Mohamed Salah,FW,Liverpool,29.0,30,"2,762",23.0,18.0,13.0,1.0,0.0,22.7,17.8,10.0
+Jordan Henderson,MF,Liverpool,31.0,29,"2,597",2.0,2.0,5.0,3.0,0.0,1.5,1.5,3.5
+Andrew Robertson,DF,Liverpool,27.0,29,"2,537",3.0,3.0,10.0,5.0,1.0,1.4,1.4,5.6
+Diogo Jota,FW,Liverpool,24.0,27,"2,364",15.0,15.0,4.0,3.0,0.0,16.3,16.3,5.8
+Fabinho,MF,Liverpool,27.0,26,"2,314",5.0,3.0,1.0,7.0,0.0,3.9,2.4,1.3
+Thiago Alcántara,MF,Liverpool,30.0,17,"1,534",1.0,1.0,4.0,2.0,0.0,1.9,1.9,2.3
+Naby Keïta,MF,Liverpool,26.0,14,"1,173",3.0,3.0,1.0,3.0,0.0,2.2,2.2,1.9
+Ibrahima Konaté,DF,Liverpool,22.0,11,990,0.0,0.0,0.0,2.0,0.0,0.2,0.2,0.0
+Luis Díaz,FW,Liverpool,24.0,11,958,4.0,4.0,3.0,0.0,0.0,3.6,3.6,2.6
+Roberto Firmino,FW,Liverpool,29.0,10,990,5.0,5.0,4.0,3.0,0.0,4.7,4.7,1.7
+Curtis Jones,MF,Liverpool,20.0,10,851,1.0,1.0,1.0,0.0,0.0,0.9,0.9,0.6
+Kostas Tsimikas,DF,Liverpool,25.0,9,877,0.0,0.0,2.0,3.0,0.0,0.6,0.6,2.7
+James Milner,"MF,DF",Liverpool,35.0,9,853,0.0,0.0,1.0,2.0,0.0,0.4,0.4,2.2
+Alex Oxlade-Chamberlain,"MF,FW",Liverpool,27.0,9,785,2.0,2.0,1.0,0.0,0.0,1.3,1.3,1.1
+Harvey Elliott,MF,Liverpool,18.0,4,346,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.6
+Joe Gomez,DF,Liverpool,24.0,4,331,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.8
+Caoimhín Kelleher,GK,Liverpool,22.0,2,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Takumi Minamino,"FW,MF",Liverpool,26.0,1,186,3.0,3.0,0.0,1.0,0.0,1.6,1.6,0.5
+Tyler Morton,MF,Liverpool,18.0,1,66,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Divock Origi,FW,Liverpool,26.0,0,133,3.0,3.0,0.0,0.0,0.0,1.5,1.5,0.0
+Kaide Gordon,FW,Liverpool,16.0,0,9,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0
+Neco Williams,DF,Liverpool,20.0,0,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.7
+Ederson,GK,Manchester City,27.0,37,"3,330",0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+João Cancelo,DF,Manchester City,27.0,36,"3,227",1.0,1.0,7.0,7.0,0.0,4.0,4.0,5.4
+Rodri,MF,Manchester City,25.0,33,"2,884",7.0,7.0,2.0,5.0,0.0,2.3,2.3,1.4
+Bernardo Silva,"MF,FW",Manchester City,26.0,33,"2,857",8.0,8.0,4.0,6.0,0.0,6.7,6.7,6.5
+Aymeric Laporte,DF,Manchester City,27.0,33,"2,828",4.0,4.0,0.0,5.0,1.0,4.9,4.9,0.6
+Rúben Dias,DF,Manchester City,24.0,27,"2,402",2.0,2.0,4.0,5.0,0.0,2.7,2.7,3.2
+Kevin De Bruyne,MF,Manchester City,30.0,25,"2,201",15.0,15.0,8.0,2.0,0.0,5.7,5.7,10.4
+Phil Foden,FW,Manchester City,21.0,24,"2,128",9.0,9.0,5.0,1.0,0.0,9.4,9.4,6.3
+Raheem Sterling,FW,Manchester City,26.0,23,"2,128",13.0,11.0,5.0,1.0,0.0,14.0,11.5,5.5
+Jack Grealish,FW,Manchester City,25.0,22,"1,914",3.0,3.0,3.0,3.0,0.0,5.3,5.3,6.0
+Gabriel Jesus,FW,Manchester City,24.0,21,"1,877",8.0,7.0,8.0,1.0,0.0,9.8,9.0,5.7
+İlkay Gündoğan,MF,Manchester City,30.0,20,"1,857",8.0,8.0,4.0,1.0,0.0,9.0,9.0,4.9
+Kyle Walker,DF,Manchester City,31.0,20,"1,755",0.0,0.0,2.0,1.0,0.0,0.3,0.3,1.3
+Riyad Mahrez,FW,Manchester City,30.0,15,"1,498",11.0,7.0,5.0,0.0,0.0,10.1,6.2,4.2
+John Stones,DF,Manchester City,27.0,12,"1,119",1.0,1.0,0.0,0.0,0.0,0.9,0.9,0.2
+Oleksandr Zinchenko,DF,Manchester City,24.0,10,"1,047",0.0,0.0,4.0,0.0,0.0,0.5,0.5,2.7
+Fernandinho,"MF,DF",Manchester City,36.0,10,964,2.0,2.0,1.0,1.0,0.0,1.6,1.6,1.0
+Nathan Aké,DF,Manchester City,26.0,10,923,2.0,2.0,0.0,0.0,0.0,0.7,0.7,0.6
+Ferrán Torres,FW,Manchester City,21.0,4,303,2.0,2.0,1.0,0.0,0.0,2.8,2.8,0.0
+Cole Palmer,"FW,MF",Manchester City,19.0,1,123,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.2
+Zack Steffen,GK,Manchester City,26.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Benjamin Mendy,DF,Manchester City,27.0,1,78,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+James Mcatee,"MF,FW",Manchester City,18.0,0,20,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Liam Delap,FW,Manchester City,18.0,0,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kayky Chagas,FW,Manchester City,18.0,0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CJ Egan-Riley,DF,Manchester City,18.0,0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+David de Gea,GK,Manchester Utd,30.0,38,"3,420",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bruno Fernandes,MF,Manchester Utd,26.0,35,"3,111",10.0,10.0,6.0,10.0,0.0,9.7,8.1,9.0
+Harry Maguire,DF,Manchester Utd,28.0,28,"2,515",1.0,1.0,0.0,9.0,1.0,1.9,1.9,0.1
+Scott McTominay,MF,Manchester Utd,24.0,28,"2,387",1.0,1.0,1.0,9.0,0.0,1.4,1.4,1.5
+Cristiano Ronaldo,FW,Manchester Utd,36.0,27,"2,456",18.0,15.0,3.0,8.0,0.0,17.7,15.4,2.9
+Victor Lindelöf,DF,Manchester Utd,27.0,26,"2,355",0.0,0.0,2.0,4.0,0.0,0.2,0.2,0.6
+Fred,MF,Manchester Utd,28.0,24,"2,028",4.0,4.0,4.0,5.0,0.0,1.3,1.3,2.2
+Jadon Sancho,"FW,MF",Manchester Utd,21.0,20,"1,900",3.0,3.0,3.0,0.0,0.0,3.6,3.6,4.1
+Raphaël Varane,DF,Manchester Utd,28.0,20,"1,831",1.0,1.0,1.0,0.0,0.0,0.7,0.7,0.2
+Aaron Wan-Bissaka,DF,Manchester Utd,23.0,20,"1,793",0.0,0.0,0.0,2.0,0.0,0.3,0.3,0.9
+Diogo Dalot,DF,Manchester Utd,22.0,19,"1,801",0.0,0.0,0.0,4.0,0.0,0.6,0.6,1.2
+Luke Shaw,DF,Manchester Utd,26.0,19,"1,601",0.0,0.0,3.0,8.0,0.0,0.1,0.1,3.6
+Alex Telles,DF,Manchester Utd,28.0,18,"1,660",0.0,0.0,4.0,1.0,0.0,0.4,0.4,1.9
+Nemanja Matić,MF,Manchester Utd,32.0,16,"1,382",0.0,0.0,4.0,3.0,0.0,0.2,0.2,2.0
+Paul Pogba,"MF,FW",Manchester Utd,28.0,16,"1,349",1.0,1.0,9.0,7.0,1.0,2.6,2.6,3.5
+Mason Greenwood,"FW,MF",Manchester Utd,19.0,16,"1,271",5.0,5.0,1.0,1.0,0.0,4.3,4.3,1.8
+Anthony Elanga,FW,Manchester Utd,19.0,14,"1,214",2.0,2.0,2.0,0.0,0.0,2.6,2.6,2.4
+Marcus Rashford,"FW,MF",Manchester Utd,23.0,13,"1,235",4.0,4.0,2.0,2.0,0.0,2.9,2.9,2.1
+Edinson Cavani,FW,Manchester Utd,34.0,7,766,2.0,2.0,1.0,0.0,0.0,3.4,3.4,1.2
+Eric Bailly,DF,Manchester Utd,27.0,3,217,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Jesse Lingard,"FW,MF",Manchester Utd,28.0,2,367,2.0,2.0,0.0,1.0,0.0,0.6,0.6,0.3
+Juan Mata,MF,Manchester Utd,33.0,2,235,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.2
+Anthony Martial,FW,Manchester Utd,25.0,2,212,1.0,1.0,0.0,0.0,0.0,0.7,0.7,0.0
+Phil Jones,DF,Manchester Utd,29.0,2,163,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daniel James,FW,Manchester Utd,23.0,2,126,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.3
+Hannibal Mejbri,FW,Manchester Utd,18.0,1,68,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.0
+Donny van de Beek,MF,Manchester Utd,24.0,0,75,1.0,1.0,0.0,0.0,0.0,0.5,0.5,0.4
+Shola Shoretire,MF,Manchester Utd,17.0,0,16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alejandro Garnacho,"FW,MF",Manchester Utd,17.0,0,13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Allan Saint-Maximin,"FW,MF",Newcastle Utd,24.0,31,"2,804",5.0,5.0,5.0,6.0,0.0,5.2,5.2,4.3
+Joelinton,"MF,FW",Newcastle Utd,24.0,30,"2,558",4.0,4.0,1.0,8.0,0.0,3.3,3.3,1.9
+Martin Dúbravka,GK,Newcastle Utd,32.0,26,"2,340",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Fabian Schär,DF,Newcastle Utd,29.0,25,"2,158",2.0,2.0,2.0,4.0,0.0,1.2,1.2,1.1
+Joe Willock,MF,Newcastle Utd,21.0,24,"2,038",2.0,2.0,0.0,0.0,0.0,3.2,3.2,1.2
+Jamaal Lascelles,DF,Newcastle Utd,27.0,22,"2,058",1.0,1.0,0.0,5.0,0.0,0.9,0.9,0.4
+Jonjo Shelvey,MF,Newcastle Utd,29.0,22,"1,983",2.0,2.0,1.0,7.0,1.0,0.9,0.9,1.0
+Miguel Almirón,"MF,FW",Newcastle Utd,27.0,19,"1,716",1.0,1.0,0.0,2.0,0.0,1.7,1.7,0.9
+Emil Krafth,DF,Newcastle Utd,26.0,18,"1,634",0.0,0.0,1.0,5.0,0.0,0.3,0.3,1.0
+Ryan Fraser,"FW,MF",Newcastle Utd,27.0,18,"1,465",2.0,2.0,3.0,3.0,0.0,2.7,2.7,2.1
+Dan Burn,DF,Newcastle Utd,29.0,16,"1,440",0.0,0.0,1.0,4.0,0.0,0.7,0.7,0.4
+Matt Targett,DF,Newcastle Utd,25.0,16,"1,440",0.0,0.0,0.0,1.0,0.0,0.3,0.3,1.9
+Callum Wilson,FW,Newcastle Utd,29.0,16,"1,386",8.0,6.0,0.0,4.0,0.0,6.2,4.6,0.5
+Sean Longstaff,MF,Newcastle Utd,23.0,15,"1,464",1.0,1.0,1.0,1.0,0.0,0.7,0.7,0.8
+Chris Wood,FW,Newcastle Utd,29.0,15,"1,327",2.0,1.0,0.0,0.0,0.0,3.1,2.3,1.1
+Javier Manquillo,DF,Newcastle Utd,27.0,15,"1,257",1.0,1.0,2.0,5.0,0.0,0.3,0.3,0.3
+Matt Ritchie,DF,Newcastle Utd,31.0,14,"1,337",0.0,0.0,2.0,5.0,0.0,0.7,0.7,2.0
+Jacob Murphy,"FW,DF",Newcastle Utd,26.0,13,"1,473",1.0,1.0,2.0,4.0,0.0,2.2,2.2,2.6
+Ciaran Clark,DF,Newcastle Utd,31.0,12,"1,014",0.0,0.0,1.0,2.0,1.0,1.1,1.1,0.3
+Isaac Hayden,"MF,DF",Newcastle Utd,26.0,12,"1,002",1.0,1.0,0.0,5.0,0.0,0.4,0.4,0.0
+Bruno Guimarães,MF,Newcastle Utd,23.0,11,"1,034",5.0,5.0,1.0,4.0,0.0,3.1,3.1,1.1
+Karl Darlow,GK,Newcastle Utd,30.0,8,720,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Federico Fernández,DF,Newcastle Utd,32.0,5,523,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.3
+Kieran Trippier,DF,Newcastle Utd,30.0,5,429,2.0,2.0,0.0,0.0,0.0,0.2,0.2,0.3
+Freddie Woodman,GK,Newcastle Utd,24.0,4,360,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jamal Lewis,DF,Newcastle Utd,23.0,4,262,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Paul Dummett,DF,Newcastle Utd,29.0,2,198,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+Jeff Hendrick,MF,Newcastle Utd,29.0,0,72,1.0,1.0,0.0,0.0,0.0,0.1,0.1,0.0
+Dwight Gayle,"FW,DF",Newcastle Utd,30.0,0,38,0.0,0.0,0.0,1.0,0.0,0.6,0.6,0.3
+Teemu Pukki,FW,Norwich City,31.0,37,"3,253",11.0,8.0,3.0,4.0,0.0,11.4,9.1,3.8
+Grant Hanley,DF,Norwich City,29.0,33,"2,897",1.0,1.0,0.0,2.0,0.0,2.1,2.1,0.9
+Max Aarons,DF,Norwich City,21.0,32,"2,881",0.0,0.0,2.0,8.0,0.0,0.8,0.8,1.7
+Kenny McLean,MF,Norwich City,29.0,29,"2,706",1.0,1.0,0.0,3.0,0.0,1.8,1.8,0.8
+Tim Krul,GK,Norwich City,33.0,29,"2,610",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.6
+Ben Gibson,DF,Norwich City,28.0,28,"2,494",0.0,0.0,0.0,5.0,1.0,1.4,1.4,0.2
+Pierre Lees-Melou,MF,Norwich City,28.0,27,"2,265",1.0,1.0,0.0,5.0,0.0,1.6,1.6,1.9
+Milot Rashica,"FW,MF",Norwich City,25.0,25,"2,229",1.0,1.0,2.0,0.0,0.0,2.6,2.6,2.1
+Brandon Williams,DF,Norwich City,20.0,23,"2,120",0.0,0.0,1.0,8.0,0.0,0.2,0.2,1.9
+Billy Gilmour,MF,Norwich City,20.0,21,"1,855",0.0,0.0,1.0,2.0,0.0,0.9,0.9,1.4
+Mathias Normann,MF,Norwich City,25.0,20,"1,645",1.0,1.0,2.0,6.0,0.0,0.9,0.9,1.8
+Josh Sargent,"FW,MF",Norwich City,21.0,18,"1,572",2.0,2.0,1.0,1.0,0.0,2.5,2.5,0.9
+Dimitris Giannoulis,DF,Norwich City,25.0,14,"1,169",0.0,0.0,1.0,2.0,0.0,0.1,0.1,0.6
+Sam Byram,DF,Norwich City,27.0,11,"1,027",0.0,0.0,0.0,3.0,0.0,0.6,0.6,0.2
+Ozan Kabak,DF,Norwich City,21.0,11,922,0.0,0.0,0.0,2.0,0.0,0.3,0.3,0.0
+Kieran Dowell,"FW,MF",Norwich City,23.0,11,912,1.0,1.0,1.0,0.0,0.0,1.1,1.1,1.5
+Angus Gunn,GK,Norwich City,25.0,9,810,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lukas Rupp,MF,Norwich City,30.0,7,769,0.0,0.0,0.0,0.0,0.0,0.7,0.7,1.4
+Adam Idah,"FW,MF",Norwich City,20.0,6,625,1.0,1.0,1.0,0.0,0.0,2.3,2.3,0.6
+Jakob Sørensen,"MF,DF",Norwich City,23.0,6,604,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0
+Przemysław Płacheta,"FW,MF",Norwich City,23.0,6,504,0.0,0.0,0.0,1.0,0.0,0.4,0.4,0.8
+Todd Cantwell,"FW,MF",Norwich City,23.0,5,441,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.1
+Andrew Omobamidele,DF,Norwich City,19.0,4,382,1.0,1.0,0.0,1.0,0.0,0.2,0.2,0.0
+Christos Tzolis,"FW,MF",Norwich City,19.0,3,336,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.7
+Christoph Zimmermann,DF,Norwich City,28.0,2,157,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tony Springett,"MF,FW",Norwich City,18.0,1,141,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.5
+Jon Rowe,"FW,MF",Norwich City,18.0,0,223,0.0,0.0,1.0,0.0,0.0,0.3,0.3,0.5
+Bali Mumba,DF,Norwich City,19.0,0,45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+James Ward-Prowse,MF,Southampton,26.0,36,"3,215",10.0,6.0,5.0,3.0,1.0,5.4,2.2,6.5
+Oriol Romeu,MF,Southampton,29.0,34,"2,889",2.0,2.0,2.0,9.0,0.0,1.4,1.4,2.9
+Mohammed Salisu,DF,Southampton,22.0,33,"2,972",0.0,0.0,0.0,10.0,1.0,2.0,2.0,0.8
+Jan Bednarek,DF,Southampton,25.0,30,"2,629",4.0,4.0,0.0,10.0,0.0,2.2,2.2,0.4
+Kyle Walker-Peters,DF,Southampton,24.0,29,"2,633",1.0,1.0,2.0,5.0,0.0,1.1,1.1,2.7
+Valentino Livramento,DF,Southampton,18.0,25,"2,202",1.0,1.0,1.0,2.0,0.0,1.4,1.4,2.7
+Mohamed Elyounoussi,"MF,FW",Southampton,26.0,23,"2,042",4.0,4.0,2.0,4.0,0.0,5.5,5.5,2.3
+Che Adams,FW,Southampton,25.0,23,"2,039",7.0,7.0,3.0,0.0,0.0,7.1,7.1,3.0
+Armando Broja,FW,Southampton,19.0,21,"1,975",6.0,6.0,0.0,2.0,0.0,5.9,5.9,1.0
+Nathan Redmond,"MF,FW",Southampton,27.0,20,"1,833",1.0,1.0,5.0,0.0,0.0,1.7,1.7,3.9
+Fraser Forster,GK,Southampton,33.0,19,"1,710",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Romain Perraud,DF,Southampton,23.0,18,"1,623",0.0,0.0,1.0,3.0,0.0,0.5,0.5,0.7
+Alex McCarthy,GK,Southampton,31.0,17,"1,530",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Adam Armstrong,FW,Southampton,24.0,17,"1,413",2.0,2.0,2.0,1.0,0.0,4.5,4.5,1.6
+Stuart Armstrong,MF,Southampton,29.0,15,"1,473",2.0,2.0,0.0,1.0,0.0,2.5,2.5,1.5
+Ibrahima Diallo,MF,Southampton,22.0,10,"1,023",0.0,0.0,2.0,1.0,0.0,0.4,0.4,1.0
+Nathan Tella,"MF,FW",Southampton,22.0,10,804,0.0,0.0,1.0,2.0,0.0,0.6,0.6,0.6
+Lyanco,DF,Southampton,24.0,9,911,0.0,0.0,0.0,2.0,0.0,0.3,0.3,0.1
+Jack Stephens,DF,Southampton,27.0,9,811,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.3
+Moussa Djenepo,MF,Southampton,23.0,5,457,0.0,0.0,0.0,3.0,0.0,1.5,1.5,0.3
+Theo Walcott,"MF,FW",Southampton,32.0,5,379,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.0
+Yan Valery,DF,Southampton,22.0,3,370,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Shane Long,FW,Southampton,34.0,3,308,1.0,1.0,0.0,1.0,0.0,0.9,0.9,0.1
+Willy Caballero,GK,Southampton,39.0,2,180,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+William Smallbone,"MF,FW",Southampton,21.0,2,133,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Hugo Lloris,GK,Tottenham,34.0,38,"3,420",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.2
+Harry Kane,FW,Tottenham,28.0,36,"3,232",17.0,13.0,9.0,5.0,0.0,18.6,15.4,9.1
+Pierre Højbjerg,MF,Tottenham,25.0,36,"3,196",2.0,2.0,2.0,3.0,0.0,1.9,1.9,2.3
+Eric Dier,DF,Tottenham,27.0,35,"3,071",0.0,0.0,0.0,1.0,0.0,1.2,1.2,1.1
+Son Heung-min,"MF,FW",Tottenham,29.0,35,"3,006",23.0,23.0,7.0,2.0,0.0,15.9,15.9,7.5
+Ben Davies,DF,Tottenham,28.0,28,"2,538",1.0,1.0,1.0,6.0,0.0,2.3,2.3,0.5
+Emerson,"DF,MF",Tottenham,22.0,26,"2,286",1.0,1.0,1.0,5.0,0.0,1.5,1.5,2.2
+Sergio Reguilón,"DF,MF",Tottenham,24.0,22,"1,916",2.0,2.0,3.0,4.0,0.0,3.0,3.0,3.3
+Cristian Romero,DF,Tottenham,23.0,21,"1,844",1.0,1.0,0.0,8.0,0.0,0.5,0.5,0.3
+Lucas Moura,"FW,MF",Tottenham,28.0,19,"1,775",2.0,2.0,6.0,4.0,0.0,2.7,2.7,5.0
+Davinson Sánchez,DF,Tottenham,25.0,17,"1,631",2.0,2.0,0.0,4.0,0.0,2.1,2.1,0.3
+Rodrigo Bentancur,MF,Tottenham,24.0,16,"1,361",0.0,0.0,4.0,5.0,0.0,0.8,0.8,2.6
+Oliver Skipp,MF,Tottenham,20.0,14,"1,350",0.0,0.0,0.0,6.0,0.0,0.2,0.2,0.7
+Dejan Kulusevski,"MF,FW",Tottenham,21.0,14,"1,261",5.0,5.0,8.0,3.0,0.0,2.7,2.7,3.4
+Ryan Sessegnon,"DF,MF",Tottenham,21.0,13,"1,047",0.0,0.0,2.0,2.0,0.0,0.3,0.3,2.7
+Japhet Tanganga,DF,Tottenham,22.0,10,735,0.0,0.0,0.0,4.0,1.0,0.4,0.4,0.2
+Harry Winks,MF,Tottenham,25.0,9,912,0.0,0.0,1.0,2.0,0.0,0.1,0.1,1.5
+Matt Doherty,DF,Tottenham,29.0,9,875,2.0,2.0,4.0,0.0,0.0,2.5,2.5,2.0
+Dele Alli,MF,Tottenham,25.0,8,657,1.0,0.0,0.0,1.0,0.0,1.6,0.8,0.3
+Tanguy Ndombele,MF,Tottenham,24.0,6,484,1.0,1.0,1.0,1.0,0.0,0.4,0.4,0.4
+Steven Bergwijn,"FW,MF",Tottenham,23.0,4,565,3.0,3.0,1.0,1.0,0.0,2.5,2.5,0.9
+Giovani Lo Celso,"MF,FW",Tottenham,25.0,2,238,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.7
+Bryan Gil,"FW,MF",Tottenham,20.0,0,94,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
+Joe Rodon,DF,Tottenham,23.0,0,89,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dane Scarlett,MF,Tottenham,17.0,0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Moussa Sissoko,MF,Watford,31.0,36,"3,220",2.0,2.0,1.0,5.0,0.0,3.8,3.7,3.1
+Emmanuel Dennis,"FW,MF",Watford,23.0,30,"2,581",10.0,10.0,6.0,9.0,1.0,7.3,7.3,4.1
+Craig Cathcart,DF,Watford,32.0,27,"2,396",0.0,0.0,1.0,3.0,0.0,0.2,0.2,1.2
+Joshua King,FW,Watford,29.0,27,"2,248",5.0,4.0,3.0,5.0,0.0,8.9,8.1,3.8
+Ben Foster,GK,Watford,38.0,26,"2,340",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1
+Kiko Femenía,DF,Watford,30.0,26,"2,142",0.0,0.0,5.0,2.0,0.0,0.1,0.1,3.6
+Juraj Kucka,MF,Watford,34.0,22,"1,920",1.0,1.0,1.0,5.0,1.0,3.2,3.2,0.9
+Ismaila Sarr,"FW,MF",Watford,23.0,21,"1,861",5.0,5.0,2.0,2.0,0.0,4.8,4.0,2.9
+Tom Cleverley,MF,Watford,31.0,20,"1,616",0.0,0.0,2.0,2.0,0.0,0.7,0.7,2.1
+Samir Santos,DF,Watford,26.0,19,"1,673",0.0,0.0,0.0,4.0,0.0,0.5,0.5,0.1
+Hassane Kamara,DF,Watford,27.0,18,"1,623",1.0,1.0,0.0,5.0,1.0,0.2,0.2,0.6
+Imran Louza,MF,Watford,22.0,17,"1,416",0.0,0.0,0.0,6.0,0.0,1.2,1.2,1.1
+João Pedro,"FW,MF",Watford,19.0,15,"1,644",3.0,3.0,1.0,1.0,0.0,3.6,3.6,2.8
+William Troost-Ekong,DF,Watford,27.0,15,"1,390",0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.1
+Adam Masina,DF,Watford,27.0,13,"1,077",0.0,0.0,1.0,0.0,0.0,0.3,0.3,0.7
+Christian Kabasele,DF,Watford,30.0,12,"1,193",0.0,0.0,0.0,0.0,0.0,0.9,0.9,0.2
+Daniel Bachmann,GK,Watford,27.0,12,"1,080",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cucho,"FW,MF",Watford,22.0,11,"1,147",5.0,5.0,2.0,3.0,0.0,2.5,2.5,1.9
+Jeremy Ngakia,DF,Watford,20.0,9,903,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.5
+Edo Kayembe,MF,Watford,23.0,9,799,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.3
+Ken Sema,"MF,FW",Watford,27.0,7,852,0.0,0.0,0.0,1.0,0.0,0.1,0.1,1.3
+Danny Rose,DF,Watford,31.0,7,689,0.0,0.0,0.0,4.0,0.0,0.2,0.2,0.8
+Francisco Sierralta,DF,Watford,24.0,5,427,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Oghenekaro Etebo,MF,Watford,25.0,4,401,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.1
+Ozan Tufan,MF,Watford,26.0,4,334,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.3
+Samuel Kalu,FW,Watford,23.0,2,222,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1
+Nicolas Nkoulou,DF,Watford,31.0,2,168,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dan Gosling,MF,Watford,31.0,2,166,1.0,1.0,0.0,0.0,0.0,0.2,0.2,0.0
+Ashley Fletcher,FW,Watford,25.0,0,30,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.0
+Troy Deeney,FW,Watford,33.0,0,25,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
+Łukasz Fabiański,GK,West Ham,36.0,37,"3,330",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+Declan Rice,MF,West Ham,22.0,35,"3,179",1.0,1.0,4.0,8.0,0.0,1.1,1.1,1.7
+Tomáš Souček,MF,West Ham,26.0,34,"3,062",5.0,5.0,1.0,3.0,0.0,5.5,4.8,2.2
+Jarrod Bowen,FW,West Ham,24.0,34,"2,983",12.0,12.0,10.0,6.0,0.0,11.9,11.9,6.1
+Michail Antonio,FW,West Ham,31.0,34,"2,971",10.0,10.0,8.0,8.0,1.0,10.8,10.2,6.0
+Pablo Fornals,"FW,MF",West Ham,25.0,32,"2,795",6.0,6.0,3.0,4.0,0.0,4.6,4.6,6.3
+Aaron Cresswell,DF,West Ham,31.0,31,"2,726",2.0,2.0,3.0,3.0,0.0,1.1,1.1,3.2
+Craig Dawson,DF,West Ham,31.0,30,"2,754",2.0,2.0,2.0,5.0,1.0,3.0,3.0,1.0
+Saïd Benrahma,"FW,MF",West Ham,25.0,26,"2,168",8.0,8.0,6.0,0.0,0.0,4.8,4.8,3.7
+Vladimír Coufal,DF,West Ham,28.0,25,"2,209",0.0,0.0,4.0,5.0,1.0,0.8,0.8,2.1
+Kurt Zouma,DF,West Ham,26.0,24,"2,078",1.0,1.0,0.0,1.0,0.0,1.1,1.1,0.1
+Manuel Lanzini,"MF,FW",West Ham,28.0,19,"1,786",5.0,2.0,3.0,2.0,0.0,3.7,1.3,2.4
+Ben Johnson,DF,West Ham,21.0,16,"1,397",1.0,1.0,0.0,1.0,0.0,0.2,0.2,0.6
+Angelo Ogbonna,DF,West Ham,33.0,11,921,1.0,1.0,0.0,1.0,0.0,0.3,0.3,0.0
+Issa Diop,DF,West Ham,24.0,10,963,0.0,0.0,1.0,0.0,0.0,0.1,0.1,0.4
+Arthur Masuaku,"DF,FW",West Ham,27.0,6,650,1.0,1.0,1.0,1.0,0.0,0.1,0.1,0.8
+Nikola Vlašić,"FW,MF",West Ham,23.0,6,560,1.0,1.0,0.0,0.0,0.0,1.3,1.3,0.6
+Mark Noble,MF,West Ham,34.0,3,332,1.0,0.0,0.0,0.0,0.0,1.6,0.0,0.0
+Ryan Fredericks,DF,West Ham,28.0,3,307,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
+Andriy Yarmolenko,"FW,MF",West Ham,31.0,1,316,1.0,1.0,0.0,1.0,0.0,0.8,0.8,0.3
+Alphonse Areola,GK,West Ham,28.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harrison Ashby,DF,West Ham,19.0,0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daniel Chesters,MF,West Ham,19.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex Král,MF,West Ham,23.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Conor Coady,DF,Wolves,28.0,38,"3,361",4.0,4.0,0.0,4.0,0.0,2.8,2.8,0.1
+José Sá,GK,Wolves,28.0,37,"3,285",0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.9
+João Moutinho,MF,Wolves,34.0,34,"2,970",2.0,2.0,1.0,4.0,0.0,1.3,1.3,2.7
+Romain Saïss,DF,Wolves,31.0,31,"2,705",2.0,2.0,0.0,6.0,0.0,2.7,2.7,0.3
+Rúben Neves,MF,Wolves,24.0,31,"2,661",4.0,4.0,2.0,9.0,0.0,1.1,1.1,3.1
+Max Kilman,DF,Wolves,24.0,30,"2,687",1.0,1.0,0.0,3.0,0.0,1.1,1.1,0.2
+Raúl Jiménez,FW,Wolves,30.0,30,"2,631",6.0,5.0,4.0,9.0,2.0,6.1,5.4,3.1
+Nélson Semedo,"MF,DF",Wolves,27.0,25,"2,131",0.0,0.0,1.0,1.0,0.0,1.6,1.6,1.3
+Leander Dendoncker,MF,Wolves,26.0,21,"1,950",2.0,2.0,2.0,4.0,0.0,2.2,2.2,1.1
+Rayan Aït Nouri,"DF,MF",Wolves,20.0,20,"1,828",1.0,1.0,2.0,4.0,0.0,0.6,0.6,1.6
+Hwang Hee-chan,"FW,MF",Wolves,25.0,20,"1,816",5.0,5.0,1.0,2.0,0.0,4.4,4.4,1.3
+Fernando Marçal,"MF,DF",Wolves,32.0,17,"1,449",0.0,0.0,0.0,3.0,0.0,0.4,0.4,0.6
+Francisco Trincão,"FW,MF",Wolves,21.0,16,"1,336",2.0,2.0,1.0,0.0,0.0,3.7,3.7,1.6
+Daniel Podence,"FW,MF",Wolves,25.0,15,"1,484",2.0,2.0,3.0,2.0,0.0,2.0,2.0,3.9
+Adama Traoré,"FW,MF",Wolves,25.0,10,"1,067",1.0,1.0,0.0,0.0,0.0,3.0,3.0,1.4
+Jonny Castro,DF,Wolves,27.0,10,"1,024",2.0,2.0,0.0,1.0,0.0,1.0,1.0,1.3
+Willy Boly,DF,Wolves,30.0,10,900,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.1
+Fábio Silva,FW,Wolves,19.0,6,572,0.0,0.0,0.0,0.0,0.0,1.8,1.8,0.2
+Pedro Neto,"FW,MF",Wolves,21.0,5,466,1.0,1.0,1.0,3.0,0.0,1.5,1.5,1.0
+Toti Gomes,DF,Wolves,22.0,4,360,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Ki-Jana Hoever,"DF,MF",Wolves,19.0,4,308,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
+Luke Cundle,MF,Wolves,19.0,2,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2
+Chiquinho,"DF,FW",Wolves,21.0,1,208,0.0,0.0,3.0,0.0,0.0,0.6,0.6,0.7
+John Ruddy,GK,Wolves,34.0,1,135,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chem Campbell,MF,Wolves,18.0,0,13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Morgan Gibbs-White,"DF,FW",Wolves,21.0,0,9,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0
