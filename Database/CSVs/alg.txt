@@ -1,0 +1,23 @@
+1. Find a player P
+2. Find their club C, and the year Y
+3. Get all of the stats of the Starting 11 for C in the year (Y - 1)
+    You should now have player P's stats in the year Y alongside the starting
+    11 for C in the year (Y - 1). Player P should be playing for C in the year
+    Y.
+4. Organise that into 1 row in with a fixed length (NN has fixed input)
+5. From here we can do other things (PCA, Removing rows w mcl, scalling etc)
+
+Notes:
+- Ideally we would choose all players on a team, but we have to choose a fixed 
+number of players because of the NNs fixed input size
+- If a player only exists in 1 year Y and not in another year Y-1, they will 
+have to be removed from the dataset.
+
+
+---CEO COMMENTS---
+
+- use list and year -1 can be found from indexing, only using years 2022-23 -> 2019-20 because out of bound error on Y-1 for 2018-19
+- ORDER BY mins 
+- select from club
+- Take top 15 players + himself for y-1, excluding gk
+- Run for each player per club  
