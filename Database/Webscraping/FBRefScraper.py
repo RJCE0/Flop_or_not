@@ -5,11 +5,12 @@ import cloudscraper
 import numpy as np
 import pandas as pd
 
-links_dict = {"2022-23": "https://fbref.com/en/comps/9/stats/Premier-League-Stats",
-              "2021-22": "https://fbref.com/en/comps/9/2021-2022/stats/2021-2022-Premier-League-Stats",
-              "2020-21": "https://fbref.com/en/comps/9/2020-2021/stats/2020-2021-Premier-League-Stats#all_stats_standard",
-              "2019-20": "https://fbref.com/en/comps/9/2019-2020/2019-2020-Premier-League-Stats",
-              "2018-19": "https://fbref.com/en/comps/9/2018-2019/stats/2018-2019-Premier-League-Stats",
+links_dict = {
+    "2022-23": "https://fbref.com/en/comps/9/stats/Premier-League-Stats",
+    "2021-22": "https://fbref.com/en/comps/9/2021-2022/stats/2021-2022-Premier-League-Stats",
+    "2020-21": "https://fbref.com/en/comps/9/2020-2021/stats/2020-2021-Premier-League-Stats#all_stats_standard",
+    "2019-20": "https://fbref.com/en/comps/9/2019-2020/2019-2020-Premier-League-Stats",
+    "2018-19": "https://fbref.com/en/comps/9/2018-2019/stats/2018-2019-Premier-League-Stats",
               }
 
 
@@ -19,9 +20,7 @@ def scrape_squads_by_year(link):
     soup = BeautifulSoup(html_text, 'html.parser')
     # [(club, club link)]
     team_links_list = []
-
     table = soup.find(id="all_stats_squads_standard")
-
     links = table.find('tbody').find_all('tr')
 
     for link in links:
