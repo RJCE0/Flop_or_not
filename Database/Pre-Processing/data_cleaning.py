@@ -49,9 +49,13 @@ for file in list(files_dict.values()):
     df = pd.read_csv(file)
     # Remove all Keepers from the database
     df = df.query("Position != 'GK'")
+    
     # Remove second positon from all players in database
     df["Position"] = df["Position"].str[:2]
-    # df["Position"].map(lambda x: x[1:] if len(x) > 2 else x)
+    
+    #Remove commas and turn minutes to actual ints
+    df["Mins"] = df["Mins"].astype("string")
+    df['Mins'] = df['Mins'].str.replace(',', '').astype(int)
 
     # Convert positions into integers using one-hot encoding
     df = df.replace({"Position": positions_dict})
