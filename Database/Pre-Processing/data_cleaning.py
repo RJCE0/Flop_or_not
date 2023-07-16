@@ -53,10 +53,16 @@ for file in list(files_dict.values()):
     # Remove second positon from all players in database
     df["Position"] = df["Position"].str[:2]
     
-    #Remove commas and turn minutes to actual ints
+    # Remove commas and turn minutes to actual ints
     df["Mins"] = df["Mins"].astype("string")
     df['Mins'] = df['Mins'].str.replace(',', '').astype(int)
-
+    
+    # Convert ages to ints since some are floats
+    df['Age'] = df["Age"].astype(int)
+    
+    # Removing year column from dataframe
+    df = df.drop(columns=["Year"])
+    
     # Convert positions into integers using one-hot encoding
     df = df.replace({"Position": positions_dict})
     # Convert teams into integers using one-hot encoding
