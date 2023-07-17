@@ -9,9 +9,9 @@ files_dict = {
 }
 
 positions_dict = {
-    "DF": 0,
-    "MF": 1,
-    "FW": 2,
+    "DF": 3,
+    "MF": 2,
+    "FW": 1,
 }
 
 clubs_dict = {
