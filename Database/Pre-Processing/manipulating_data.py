@@ -21,17 +21,17 @@ year_pairs = [(files_dict["2022-23"], files_dict["2021-22"]),
      (files_dict["2019-20"], files_dict["2018-19"]),
     ]
 
-# Function to apply 0 padding if n largest function yields less than n size data required
+# Function to apply -1 padding if n largest function yields less than n size data required
 def n_largest_with_padding(dataFrame, n, category):
     res = dataFrame.nlargest(n, category)
     padding_needed = n - len(res)
     if padding_needed > 0:
         # print(f"This is the padding needed: {padding_needed}")
-        padding = np.zeros(shape=(padding_needed, n_features))
+        padding = np.negative(np.ones(shape=(padding_needed, n_features)))
         # print(f"This is the array of zero padding required {padding}")
-        for zero_array in padding:
+        for minus_array in padding:
             # print(f"This should get the singular row of the zero array: {zero_array}")   
-            res.loc[len(res)] = zero_array
+            res.loc[len(res)] = minus_array
     return res
 
 
