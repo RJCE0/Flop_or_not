@@ -1,533 +1,491 @@
 Player Name,Position,Club Name,Age,Starts,Mins,Goals,npG,Assists,crdY,crdR,xG,npXG,xA
-Bernd Leno,GK,Arsenal,28.0,35,"3,131",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-Bukayo Saka,"FW,MF",Arsenal,18.0,30,"2,553",5.0,5.0,3.0,1.0,0.0,6.9,6.9,4.4
-Granit Xhaka,"MF,DF",Arsenal,27.0,29,"2,522",1.0,1.0,2.0,7.0,1.0,0.9,0.9,1.5
-Rob Holding,DF,Arsenal,24.0,28,"2,558",0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.2
-Pierre-Emerick Aubameyang,FW,Arsenal,31.0,26,"2,332",10.0,8.0,3.0,2.0,0.0,10.2,8.6,2.4
-Kieran Tierney,DF,Arsenal,23.0,26,"2,299",1.0,1.0,3.0,4.0,0.0,0.5,0.5,3.5
-Héctor Bellerín,"DF,MF",Arsenal,25.0,24,"2,089",1.0,1.0,2.0,8.0,0.0,0.8,0.8,2.4
-Gabriel Dos Santos,DF,Arsenal,22.0,22,"1,996",2.0,2.0,0.0,4.0,1.0,1.3,1.3,0.1
-Alexandre Lacazette,FW,Arsenal,29.0,22,"1,923",13.0,10.0,2.0,3.0,0.0,11.7,9.3,2.2
-Thomas Partey,MF,Arsenal,27.0,18,"1,534",0.0,0.0,2.0,5.0,0.0,1.3,1.3,1.0
-Emile Smith Rowe,"MF,FW",Arsenal,20.0,18,"1,440",2.0,2.0,4.0,0.0,0.0,1.8,1.8,3.4
-Dani Ceballos,MF,Arsenal,23.0,17,"1,615",0.0,0.0,3.0,4.0,0.0,0.6,0.6,2.6
-Mohamed Elneny,MF,Arsenal,28.0,17,"1,544",1.0,1.0,0.0,3.0,0.0,0.4,0.4,0.2
-David Luiz,DF,Arsenal,33.0,17,"1,396",1.0,1.0,0.0,1.0,1.0,0.9,0.9,0.5
-Nicolas Pépé,FW,Arsenal,25.0,16,"1,616",10.0,9.0,1.0,1.0,1.0,5.8,5.0,1.0
-Willian,FW,Arsenal,31.0,16,"1,406",1.0,1.0,5.0,0.0,0.0,1.9,1.9,3.0
-Pablo Marí,DF,Arsenal,26.0,10,900,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.3
-Martin Ødegaard,MF,Arsenal,21.0,9,866,1.0,1.0,2.0,0.0,0.0,0.7,0.7,2.0
-Calum Chambers,DF,Arsenal,25.0,8,753,0.0,0.0,2.0,0.0,0.0,0.4,0.4,1.1
-Cédric Soares,DF,Arsenal,28.0,8,746,0.0,0.0,1.0,1.0,0.0,0.3,0.3,0.9
-Martinelli,FW,Arsenal,19.0,7,589,2.0,2.0,1.0,0.0,0.0,3.3,3.3,1.8
-Ainsley Maitland-Niles,"MF,DF",Arsenal,22.0,5,490,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
-Eddie Nketiah,FW,Arsenal,21.0,4,423,2.0,2.0,1.0,0.0,0.0,1.8,1.8,0.6
-Mathew Ryan,GK,Arsenal,28.0,3,270,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
-Joe Willock,MF,Arsenal,20.0,2,238,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.1
-Sead Kolašinac,DF,Arsenal,27.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Reiss Nelson,"FW,MF",Arsenal,20.0,0,71,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Shkodran Mustafi,DF,Arsenal,28.0,0,47,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Rúnar Alex Rúnarsson,GK,Arsenal,25.0,0,16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Emiliano Martínez,GK,Aston Villa,27.0,38,"3,420",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
-Matt Targett,DF,Aston Villa,24.0,38,"3,404",0.0,0.0,2.0,7.0,0.0,0.3,0.3,2.5
-John McGinn,MF,Aston Villa,25.0,37,"3,330",3.0,3.0,5.0,12.0,0.0,2.5,2.5,3.6
-Ollie Watkins,FW,Aston Villa,24.0,37,"3,328",14.0,13.0,5.0,4.0,1.0,14.5,13.0,5.3
-Tyrone Mings,DF,Aston Villa,27.0,36,"3,194",2.0,2.0,2.0,6.0,1.0,1.9,1.9,0.4
-Ezri Konsa,DF,Aston Villa,22.0,35,"3,196",2.0,2.0,0.0,3.0,0.0,2.4,2.4,0.1
-Douglas Luiz,MF,Aston Villa,22.0,32,"2,781",0.0,0.0,2.0,10.0,1.0,1.2,1.2,1.6
-Bertrand Traoré,FW,Aston Villa,24.0,29,"2,317",7.0,7.0,6.0,1.0,0.0,6.6,6.6,4.3
-Matty Cash,DF,Aston Villa,22.0,28,"2,372",0.0,0.0,2.0,8.0,1.0,0.3,0.3,1.7
-Jack Grealish,"FW,MF",Aston Villa,24.0,24,"2,185",6.0,6.0,10.0,6.0,0.0,4.6,4.6,7.4
-Ross Barkley,MF,Aston Villa,26.0,18,"1,531",3.0,3.0,1.0,0.0,0.0,3.1,3.1,4.2
-Anwar El Ghazi,FW,Aston Villa,25.0,17,"1,613",10.0,6.0,0.0,2.0,0.0,8.4,5.3,1.8
-Trézéguet,FW,Aston Villa,25.0,12,"1,166",2.0,2.0,1.0,0.0,0.0,3.8,3.8,2.1
-Marvelous Nakamba,MF,Aston Villa,26.0,9,749,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.1
-Ahmed Elmohamady,DF,Aston Villa,32.0,8,839,0.0,0.0,0.0,2.0,0.0,0.4,0.4,1.0
-Kortney Hause,DF,Aston Villa,25.0,7,630,1.0,1.0,0.0,2.0,0.0,1.0,1.0,0.0
-Jacob Ramsey,MF,Aston Villa,19.0,6,626,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.3
-Morgan Sanson,MF,Aston Villa,25.0,3,294,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.1
-Conor Hourihane,MF,Aston Villa,29.0,3,225,1.0,1.0,1.0,0.0,0.0,0.7,0.7,0.6
-Keinan Davis,"FW,MF",Aston Villa,22.0,1,277,1.0,1.0,1.0,0.0,0.0,1.5,1.5,0.6
-Carney Chukwuemeka,"MF,FW",Aston Villa,16.0,0,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Wesley Moraes,FW,Aston Villa,23.0,0,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Neil Taylor,DF,Aston Villa,31.0,0,16,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Jaden Philogene Bidace,FW,Aston Villa,18.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Ben White,"DF,MF",Brighton,22.0,36,"3,191",0.0,0.0,0.0,5.0,1.0,0.5,0.5,0.9
-Yves Bissouma,MF,Brighton,23.0,35,"3,111",1.0,1.0,0.0,8.0,1.0,1.4,1.4,0.9
-Lewis Dunk,DF,Brighton,28.0,33,"2,931",5.0,5.0,0.0,5.0,2.0,2.2,2.2,1.2
-Leandro Trossard,"MF,FW",Brighton,25.0,30,"2,607",5.0,5.0,5.0,2.0,0.0,4.6,4.6,4.9
-Adam Webster,DF,Brighton,25.0,29,"2,594",1.0,1.0,0.0,4.0,0.0,2.0,2.0,0.2
-Neal Maupay,"FW,MF",Brighton,23.0,29,"2,512",8.0,5.0,2.0,1.0,1.0,13.2,10.1,3.9
-Pascal Groß,"MF,DF",Brighton,29.0,27,"2,484",3.0,0.0,8.0,3.0,0.0,4.9,1.7,5.2
-Robert Sánchez,GK,Brighton,22.0,27,"2,430",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-Joël Veltman,DF,Brighton,28.0,25,"2,281",1.0,1.0,1.0,3.0,0.0,1.1,1.1,1.7
-Dan Burn,DF,Brighton,28.0,23,"2,061",1.0,1.0,0.0,5.0,0.0,1.5,1.5,0.8
-Solly March,"DF,MF",Brighton,26.0,19,"1,672",2.0,2.0,1.0,0.0,0.0,1.7,1.7,1.5
-Danny Welbeck,FW,Brighton,29.0,17,"1,545",6.0,6.0,1.0,0.0,0.0,6.6,5.8,2.8
-Adam Lallana,"MF,FW",Brighton,32.0,16,"1,596",1.0,1.0,1.0,0.0,0.0,1.6,1.6,2.6
-Alexis Mac Allister,"MF,FW",Brighton,21.0,13,"1,115",1.0,1.0,1.0,1.0,0.0,1.3,1.3,1.5
-Mathew Ryan,GK,Brighton,28.0,11,990,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Tariq Lamptey,"DF,MF",Brighton,19.0,11,886,1.0,1.0,1.0,4.0,1.0,0.7,0.7,0.8
-Steven Alzate,MF,Brighton,21.0,10,896,1.0,1.0,0.0,2.0,0.0,0.8,0.8,0.6
-Aaron Connolly,FW,Brighton,20.0,9,791,2.0,2.0,1.0,0.0,0.0,4.0,4.0,0.2
-Jakub Moder,"DF,MF",Brighton,21.0,7,647,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.2
-Alireza Jahanbakhsh,"FW,MF",Brighton,26.0,6,528,0.0,0.0,1.0,3.0,0.0,1.5,1.5,3.0
-Davy Pröpper,MF,Brighton,28.0,2,213,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0
-Bernardo,"DF,MF",Brighton,25.0,2,206,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1
-Percy Tau,FW,Brighton,26.0,1,103,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.4
-Andi Zeqiri,"FW,DF",Brighton,21.0,0,171,0.0,0.0,0.0,0.0,0.0,0.7,0.7,0.1
-José Izquierdo,DF,Brighton,28.0,0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Reda Khadra,MF,Brighton,19.0,0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Jayson Molumby,MF,Brighton,20.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Ashley Westwood,MF,Burnley,30.0,38,"3,410",3.0,3.0,3.0,7.0,0.0,1.2,1.2,6.8
-James Tarkowski,DF,Burnley,27.0,36,"3,240",1.0,1.0,0.0,6.0,0.0,3.4,3.4,1.2
-Dwight McNeil,MF,Burnley,20.0,34,"3,069",2.0,2.0,5.0,1.0,0.0,1.1,1.1,6.2
-Matthew Lowton,DF,Burnley,31.0,34,"3,060",1.0,1.0,1.0,5.0,0.0,0.8,0.8,3.1
-Nick Pope,GK,Burnley,28.0,32,"2,880",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
-Josh Brownhill,MF,Burnley,24.0,32,"2,813",0.0,0.0,1.0,2.0,0.0,1.9,1.9,0.7
-Chris Wood,FW,Burnley,28.0,32,"2,741",12.0,10.0,3.0,0.0,0.0,13.0,11.4,1.9
-Ben Mee,DF,Burnley,30.0,30,"2,693",2.0,2.0,0.0,3.0,0.0,2.3,2.3,0.3
-Charlie Taylor,DF,Burnley,26.0,28,"2,426",0.0,0.0,1.0,1.0,0.0,0.1,0.1,1.4
-Jóhann Berg Guðmundsson,MF,Burnley,29.0,16,"1,363",2.0,2.0,0.0,2.0,0.0,1.2,1.2,0.5
-Matěj Vydra,FW,Burnley,28.0,15,"1,371",3.0,3.0,2.0,0.0,0.0,5.2,5.2,1.8
-Jack Cork,MF,Burnley,31.0,15,"1,350",0.0,0.0,0.0,2.0,0.0,0.2,0.2,0.6
-Ashley Barnes,FW,Burnley,30.0,15,"1,331",3.0,2.0,0.0,4.0,0.0,4.1,3.3,0.8
-Erik Pieters,"DF,MF",Burnley,31.0,13,"1,266",0.0,0.0,1.0,1.0,0.0,0.2,0.2,0.4
-Jay Rodriguez,FW,Burnley,31.0,12,"1,265",1.0,1.0,2.0,3.0,0.0,3.0,3.0,1.1
-Robbie Brady,MF,Burnley,28.0,12,"1,052",1.0,1.0,1.0,3.0,0.0,0.8,0.8,0.9
-Kevin Long,DF,Burnley,29.0,7,637,0.0,0.0,0.0,2.0,0.0,0.4,0.4,0.0
-Bailey Peacock-Farrell,GK,Burnley,23.0,4,360,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Phil Bardsley,DF,Burnley,35.0,3,274,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.0
-Jimmy Dunne,DF,Burnley,22.0,3,270,1.0,1.0,0.0,1.0,0.0,0.5,0.5,0.1
-Dale Stephens,MF,Burnley,31.0,3,261,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0
-Josh Benson,MF,Burnley,20.0,2,264,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0
-Will Norris,GK,Burnley,26.0,2,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Joel Mumbongo,FW,Burnley,21.0,0,40,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Lewis Richardson,"FW,MF",Burnley,17.0,0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Mason Mount,MF,Chelsea,21.0,32,"2,890",6.0,5.0,5.0,2.0,0.0,6.3,5.5,8.2
-Edouard Mendy,GK,Chelsea,28.0,31,"2,745",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-Timo Werner,"FW,MF",Chelsea,24.0,29,"2,602",6.0,6.0,8.0,2.0,0.0,11.4,11.4,5.6
-Ben Chilwell,DF,Chelsea,23.0,27,"2,286",3.0,3.0,5.0,3.0,0.0,2.4,2.4,2.4
-Reece James,DF,Chelsea,20.0,25,"2,373",1.0,1.0,2.0,3.0,0.0,1.6,1.6,3.5
-César Azpilicueta,DF,Chelsea,30.0,24,"2,188",1.0,1.0,2.0,5.0,1.0,0.7,0.7,2.5
-N'Golo Kanté,MF,Chelsea,29.0,24,"2,146",0.0,0.0,2.0,7.0,0.0,0.6,0.6,1.3
-Jorginho,MF,Chelsea,28.0,23,"2,010",7.0,0.0,1.0,2.0,0.0,7.3,0.2,1.7
-Thiago Silva,DF,Chelsea,35.0,23,"1,935",2.0,2.0,0.0,5.0,1.0,1.7,1.7,0.3
-Kurt Zouma,DF,Chelsea,25.0,22,"2,029",5.0,5.0,0.0,3.0,0.0,2.0,2.0,0.1
-Mateo Kovačić,MF,Chelsea,26.0,21,"1,815",0.0,0.0,1.0,4.0,0.0,1.0,1.0,1.7
-Antonio Rüdiger,DF,Chelsea,27.0,19,"1,710",1.0,1.0,0.0,0.0,0.0,1.3,1.3,0.4
-Christian Pulisic,"FW,MF",Chelsea,21.0,18,"1,738",4.0,4.0,2.0,2.0,0.0,6.1,6.1,2.8
-Kai Havertz,"MF,FW",Chelsea,21.0,18,"1,520",4.0,4.0,3.0,2.0,0.0,5.5,5.5,1.3
-Andreas Christensen,DF,Chelsea,24.0,15,"1,371",0.0,0.0,0.0,2.0,1.0,0.1,0.1,0.3
-Hakim Ziyech,"MF,FW",Chelsea,27.0,15,"1,172",2.0,2.0,3.0,3.0,0.0,1.9,1.9,3.6
-Tammy Abraham,FW,Chelsea,22.0,12,"1,040",6.0,6.0,1.0,0.0,0.0,5.9,5.9,0.7
-Marcos Alonso,DF,Chelsea,29.0,11,960,2.0,2.0,0.0,2.0,0.0,1.8,1.8,1.3
-Callum Hudson-Odoi,"FW,DF",Chelsea,19.0,10,"1,059",2.0,2.0,3.0,0.0,0.0,1.3,1.3,2.8
-Olivier Giroud,FW,Chelsea,33.0,8,748,4.0,4.0,0.0,1.0,0.0,4.2,4.2,1.1
-Kepa Arrizabalaga,GK,Chelsea,25.0,6,585,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Billy Gilmour,MF,Chelsea,19.0,3,261,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2
-Willy Caballero,GK,Chelsea,38.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Ruben Loftus-Cheek,FW,Chelsea,24.0,1,60,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Emerson Palmieri,DF,Chelsea,25.0,0,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Fikayo Tomori,DF,Chelsea,22.0,0,45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Ross Barkley,"FW,MF",Chelsea,26.0,0,42,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
-Vicente Guaita,GK,Crystal Palace,33.0,37,"3,330",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-Cheikhou Kouyaté,DF,Crystal Palace,30.0,35,"3,121",1.0,1.0,0.0,4.0,0.0,0.7,0.7,1.0
-Wilfried Zaha,FW,Crystal Palace,27.0,29,"2,612",11.0,9.0,2.0,6.0,0.0,8.1,6.5,3.1
-Eberechi Eze,MF,Crystal Palace,22.0,29,"2,559",4.0,4.0,6.0,3.0,0.0,2.2,2.2,3.9
-Luka Milivojević,MF,Crystal Palace,29.0,27,"2,359",1.0,0.0,1.0,8.0,1.0,2.4,0.8,1.7
-Andros Townsend,"MF,FW",Crystal Palace,29.0,25,"2,258",1.0,1.0,5.0,0.0,0.0,2.3,2.3,4.0
-Joel Ward,DF,Crystal Palace,30.0,25,"2,256",0.0,0.0,1.0,5.0,0.0,0.1,0.1,0.6
-Jordan Ayew,"FW,MF",Crystal Palace,28.0,23,"2,096",1.0,1.0,3.0,4.0,0.0,2.2,2.2,0.7
-Christian Benteke,FW,Crystal Palace,29.0,21,"1,816",10.0,10.0,1.0,3.0,1.0,8.3,8.3,0.9
-Gary Cahill,DF,Crystal Palace,34.0,20,"1,800",1.0,1.0,1.0,3.0,0.0,0.7,0.7,0.6
-Patrick van Aanholt,DF,Crystal Palace,29.0,20,"1,777",0.0,0.0,1.0,2.0,0.0,1.4,1.4,0.7
-Jaïro Riedewald,MF,Crystal Palace,23.0,19,"1,820",2.0,2.0,0.0,4.0,0.0,0.6,0.6,0.8
-Tyrick Mitchell,DF,Crystal Palace,20.0,19,"1,710",1.0,1.0,1.0,1.0,0.0,0.8,0.8,0.2
-James McArthur,MF,Crystal Palace,32.0,17,"1,466",0.0,0.0,2.0,3.0,0.0,0.3,0.3,1.2
-Jeffrey Schlupp,MF,Crystal Palace,27.0,15,"1,428",2.0,2.0,3.0,3.0,0.0,1.9,1.9,2.0
-Scott Dann,DF,Crystal Palace,33.0,15,"1,350",1.0,1.0,0.0,1.0,0.0,0.3,0.3,0.0
-Nathaniel Clyne,DF,Crystal Palace,29.0,13,"1,145",0.0,0.0,1.0,2.0,0.0,0.2,0.2,0.2
-James McCarthy,MF,Crystal Palace,29.0,10,821,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3
-Michy Batshuayi,FW,Crystal Palace,26.0,7,728,2.0,2.0,1.0,0.0,0.0,1.6,1.6,1.6
-James Tomkins,DF,Crystal Palace,31.0,6,553,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.3
-Mamadou Sakho,DF,Crystal Palace,30.0,3,276,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Jean-Philippe Mateta,FW,Crystal Palace,23.0,2,221,1.0,1.0,0.0,0.0,0.0,0.3,0.3,0.0
-Jack Butland,GK,Crystal Palace,27.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Martin Kelly,DF,Crystal Palace,30.0,0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Michael Keane,DF,Everton,27.0,33,"2,991",3.0,3.0,1.0,4.0,0.0,1.5,1.5,1.1
-Richarlison,FW,Everton,23.0,33,"2,861",7.0,6.0,3.0,4.0,1.0,9.7,8.8,3.3
-Dominic Calvert-Lewin,FW,Everton,23.0,32,"2,871",16.0,16.0,0.0,3.0,0.0,16.3,16.3,2.0
-Jordan Pickford,GK,Everton,26.0,31,"2,742",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Lucas Digne,"DF,MF",Everton,27.0,30,"2,681",0.0,0.0,7.0,2.0,1.0,0.5,0.5,5.2
-Ben Godfrey,DF,Everton,22.0,29,"2,685",0.0,0.0,2.0,4.0,0.0,1.0,1.0,0.8
-Abdoulaye Doucouré,MF,Everton,27.0,29,"2,443",2.0,2.0,3.0,6.0,0.0,2.3,2.3,2.0
-Mason Holgate,DF,Everton,23.0,26,"2,287",1.0,1.0,0.0,9.0,0.0,1.0,1.0,0.7
-Gylfi Sigurðsson,"MF,FW",Everton,30.0,24,"2,253",6.0,3.0,5.0,2.0,0.0,6.5,3.4,3.8
-Allan,MF,Everton,29.0,23,"2,051",0.0,0.0,0.0,6.0,0.0,0.3,0.3,0.8
-Yerry Mina,DF,Everton,25.0,23,"1,937",2.0,2.0,0.0,2.0,0.0,1.6,1.6,0.0
-James Rodríguez,"FW,MF",Everton,29.0,21,"1,764",6.0,6.0,4.0,4.0,0.0,2.8,2.8,4.8
-Séamus Coleman,"DF,MF",Everton,31.0,18,"1,613",0.0,0.0,3.0,0.0,0.0,0.9,0.9,1.8
-André Gomes,MF,Everton,27.0,17,"1,570",0.0,0.0,1.0,3.0,0.0,0.5,0.5,1.0
-Alex Iwobi,"FW,MF",Everton,24.0,17,"1,542",1.0,1.0,2.0,0.0,0.0,0.9,0.9,1.9
-Tom Davies,MF,Everton,22.0,17,"1,423",0.0,0.0,1.0,3.0,0.0,0.2,0.2,0.9
-Robin Olsen,GK,Everton,30.0,7,630,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Bernard,"MF,FW",Everton,27.0,3,455,1.0,1.0,0.0,2.0,0.0,0.3,0.3,0.6
-Fabian Delph,"MF,DF",Everton,30.0,2,266,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
-Anthony Gordon,"FW,MF",Everton,19.0,1,88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Niels Nkounkou,"DF,FW",Everton,19.0,1,81,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Jonjoe Kenny,DF,Everton,23.0,1,79,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Joshua King,"MF,FW",Everton,28.0,0,148,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.0
-Cenk Tosun,FW,Everton,29.0,0,48,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
-João Virgínia,GK,Everton,20.0,0,48,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Moise Kean,"FW,MF",Everton,20.0,0,15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Theo Walcott,FW,Everton,31.0,0,13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Jean-Philippe Gbamin,MF,Everton,24.0,0,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Nathan Broadhead,FW,Everton,22.0,0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Alphonse Areola,GK,Fulham,27.0,36,"3,240",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-Tosin Adarabioyo,DF,Fulham,22.0,33,"2,953",0.0,0.0,0.0,1.0,0.0,1.1,1.1,0.3
-Ademola Lookman,"FW,MF",Fulham,22.0,31,"2,747",4.0,4.0,4.0,5.0,0.0,6.3,5.5,5.2
-Ola Aina,DF,Fulham,23.0,31,"2,664",2.0,2.0,1.0,3.0,0.0,1.2,1.2,1.5
-Joachim Andersen,DF,Fulham,24.0,30,"2,730",1.0,1.0,1.0,7.0,1.0,1.2,1.2,0.4
-Andre-Frank Zambo Anguissa,MF,Fulham,24.0,29,"2,587",0.0,0.0,3.0,6.0,0.0,1.6,1.6,2.5
-Bobby Reid,"MF,FW",Fulham,27.0,28,"2,372",5.0,5.0,2.0,7.0,0.0,3.8,3.8,1.1
-Ivan Cavaleiro,FW,Fulham,26.0,27,"2,472",3.0,2.0,0.0,2.0,0.0,6.4,4.8,2.7
-Harrison Reed,MF,Fulham,25.0,26,"2,247",0.0,0.0,2.0,5.0,0.0,0.4,0.4,1.7
-Antonee Robinson,DF,Fulham,22.0,24,"2,162",0.0,0.0,0.0,4.0,1.0,0.4,0.4,1.9
-Ruben Loftus-Cheek,"MF,FW",Fulham,24.0,21,"1,909",1.0,1.0,0.0,3.0,0.0,3.4,3.4,1.2
-Mario Lemina,MF,Fulham,26.0,19,"1,703",1.0,1.0,0.0,5.0,0.0,0.7,0.7,0.8
-Kenny Tete,"DF,MF",Fulham,24.0,18,"1,481",0.0,0.0,1.0,3.0,0.0,0.3,0.3,1.4
-Aleksandar Mitrović,FW,Fulham,25.0,13,"1,402",3.0,2.0,3.0,3.0,0.0,6.2,4.6,2.7
-Josh Maja,FW,Fulham,21.0,9,810,3.0,2.0,0.0,0.0,0.0,4.5,3.7,0.5
-Tom Cairney,MF,Fulham,29.0,9,759,1.0,1.0,1.0,2.0,0.0,0.5,0.5,1.1
-Joe Bryan,"DF,MF",Fulham,26.0,7,669,1.0,1.0,0.0,2.0,0.0,0.6,0.6,0.3
-Tim Ream,DF,Fulham,32.0,7,630,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Josh Onomah,MF,Fulham,23.0,4,374,0.0,0.0,0.0,1.0,0.0,0.4,0.4,0.0
-Denis Odoi,DF,Fulham,32.0,3,270,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1
-Michael Hector,DF,Fulham,28.0,3,263,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.0
-Fabio Carvalho,"MF,FW",Fulham,17.0,3,255,1.0,1.0,0.0,0.0,0.0,1.2,1.2,0.4
-Aboubakar Kamara,"FW,MF",Fulham,25.0,2,315,0.0,0.0,0.0,1.0,1.0,0.5,0.5,0.3
-Marek Rodák,GK,Fulham,23.0,2,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Maxime Le Marchand,DF,Fulham,30.0,1,123,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-Neeskens Kebano,"FW,MF",Fulham,28.0,1,119,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0
-Terence Kongolo,DF,Fulham,26.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Tyrese Francois,DF,Fulham,20.0,0,15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Stuart Dallas,"MF,DF",Leeds United,29.0,38,"3,409",8.0,8.0,2.0,7.0,0.0,4.2,4.2,1.8
-Luke Ayling,DF,Leeds United,28.0,38,"3,399",0.0,0.0,0.0,7.0,0.0,1.7,1.7,3.2
-Patrick Bamford,FW,Leeds United,26.0,37,"3,050",17.0,15.0,7.0,3.0,0.0,18.2,16.6,3.5
-Illan Meslier,GK,Leeds United,20.0,35,"3,150",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Jack Harrison,"MF,FW",Leeds United,23.0,34,"2,847",8.0,8.0,8.0,2.0,0.0,5.8,5.8,6.5
-Ezgjan Alioski,"DF,MF",Leeds United,28.0,29,"2,461",2.0,2.0,3.0,7.0,0.0,1.6,1.6,3.3
-Kalvin Phillips,MF,Leeds United,24.0,28,"2,428",1.0,1.0,2.0,10.0,0.0,0.5,0.5,3.4
-Mateusz Klich,MF,Leeds United,30.0,28,"2,393",4.0,2.0,5.0,6.0,0.0,3.0,1.4,3.4
-Raphinha,"MF,FW",Leeds United,23.0,26,"2,360",6.0,6.0,9.0,3.0,0.0,5.7,5.7,7.9
-Liam Cooper,DF,Leeds United,28.0,25,"2,185",1.0,1.0,0.0,4.0,1.0,1.8,1.8,0.0
-Pascal Struijk,"DF,MF",Leeds United,20.0,22,"2,075",1.0,1.0,0.0,3.0,0.0,1.7,1.7,0.1
-Tyler Roberts,"MF,FW",Leeds United,21.0,14,"1,340",1.0,1.0,2.0,3.0,0.0,1.8,1.8,2.3
-Rodrigo,"MF,FW",Leeds United,29.0,14,"1,288",7.0,7.0,2.0,3.0,0.0,5.1,5.1,3.5
-Diego Llorente,DF,Leeds United,26.0,14,"1,204",1.0,1.0,0.0,1.0,0.0,0.8,0.8,0.5
-Hélder Costa,"MF,FW",Leeds United,26.0,13,"1,156",3.0,3.0,3.0,0.0,0.0,2.2,2.2,0.6
-Robin Koch,"DF,MF",Leeds United,24.0,13,"1,132",0.0,0.0,0.0,1.0,0.0,0.7,0.7,0.1
-Jamie Shackleton,"MF,DF",Leeds United,20.0,3,461,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
-Pablo Hernández,MF,Leeds United,35.0,3,427,0.0,0.0,2.0,1.0,0.0,1.1,1.1,0.7
-Kiko Casilla,GK,Leeds United,33.0,3,270,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Gaetano Berardi,DF,Leeds United,31.0,1,113,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Ian Carlo Poveda,MF,Leeds United,20.0,0,355,0.0,0.0,0.0,0.0,0.0,0.3,0.3,1.1
-Niall Huggins,DF,Leeds United,19.0,0,38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Leif Davis,DF,Leeds United,20.0,0,33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Kasper Schmeichel,GK,Leicester City,33.0,38,"3,420",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Youri Tielemans,MF,Leicester City,23.0,37,"3,357",6.0,4.0,4.0,6.0,0.0,4.4,2.8,3.1
-Jamie Vardy,FW,Leicester City,33.0,31,"2,840",15.0,7.0,9.0,1.0,0.0,19.9,12.8,4.7
-Jonny Evans,DF,Leicester City,32.0,28,"2,473",2.0,2.0,2.0,7.0,0.0,1.7,1.7,0.4
-Timothy Castagne,DF,Leicester City,24.0,27,"2,345",2.0,2.0,3.0,1.0,0.0,1.1,1.1,2.2
-Wesley Fofana,DF,Leicester City,19.0,27,"2,262",0.0,0.0,0.0,7.0,0.0,1.0,1.0,0.3
-Wilfred Ndidi,"MF,DF",Leicester City,23.0,25,"2,176",1.0,1.0,4.0,6.0,0.0,0.7,0.7,1.3
-James Maddison,MF,Leicester City,23.0,24,"2,099",8.0,8.0,5.0,4.0,0.0,3.8,3.8,5.1
-James Justin,DF,Leicester City,22.0,23,"2,070",2.0,2.0,1.0,4.0,0.0,2.2,2.2,2.0
-Harvey Barnes,"FW,MF",Leicester City,22.0,22,"1,945",9.0,9.0,4.0,0.0,0.0,5.9,5.9,1.6
-Çağlar Söyüncü,DF,Leicester City,24.0,19,"1,819",1.0,1.0,0.0,2.0,0.0,0.7,0.7,0.5
-Marc Albrighton,"DF,FW",Leicester City,30.0,17,"1,746",1.0,1.0,5.0,2.0,0.0,1.2,1.2,3.5
-Kelechi Iheanacho,FW,Leicester City,23.0,16,"1,459",12.0,12.0,2.0,1.0,0.0,8.2,7.4,3.7
-Nampalys Mendy,MF,Leicester City,28.0,15,"1,459",0.0,0.0,1.0,5.0,0.0,0.1,0.1,0.2
-Ayoze Pérez,"MF,FW",Leicester City,27.0,15,"1,331",2.0,2.0,1.0,2.0,0.0,3.3,3.3,1.3
-Luke Thomas,DF,Leicester City,19.0,12,969,1.0,1.0,0.0,2.0,0.0,0.3,0.3,0.7
-Ricardo Pereira,"DF,FW",Leicester City,26.0,10,959,0.0,0.0,1.0,3.0,0.0,0.3,0.3,0.6
-Dennis Praet,MF,Leicester City,26.0,10,718,1.0,1.0,1.0,0.0,0.0,0.4,0.4,1.1
-Daniel Amartey,DF,Leicester City,25.0,8,722,1.0,1.0,0.0,3.0,0.0,0.4,0.4,0.0
-Christian Fuchs,DF,Leicester City,34.0,8,702,0.0,0.0,0.0,4.0,0.0,0.1,0.1,0.0
-Hamza Choudhury,MF,Leicester City,22.0,4,316,0.0,0.0,0.0,1.0,0.0,0.4,0.4,0.0
-Cengiz Ünder,"FW,MF",Leicester City,23.0,1,281,0.0,0.0,2.0,0.0,0.0,0.3,0.3,1.6
-Sidnei Tavares,MF,Leicester City,18.0,1,85,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Islam Slimani,FW,Leicester City,32.0,0,20,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
-Demarai Gray,FW,Leicester City,24.0,0,19,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Wes Morgan,DF,Leicester City,36.0,0,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Khanya Leshabela,MF,Leicester City,20.0,0,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Andrew Robertson,DF,Liverpool,26.0,38,"3,383",1.0,1.0,7.0,2.0,0.0,1.5,1.5,6.6
-Mohamed Salah,FW,Liverpool,28.0,34,"3,078",22.0,16.0,5.0,0.0,0.0,19.3,14.6,6.2
-Trent Alexander-Arnold,DF,Liverpool,21.0,34,"3,031",2.0,2.0,7.0,2.0,0.0,2.6,2.6,8.6
-Georginio Wijnaldum,MF,Liverpool,29.0,34,"2,941",2.0,2.0,0.0,1.0,0.0,2.6,2.6,1.4
-Alisson,GK,Liverpool,27.0,33,"2,970",1.0,1.0,0.0,1.0,0.0,0.1,0.1,0.0
-Roberto Firmino,FW,Liverpool,28.0,33,"2,838",9.0,9.0,7.0,2.0,0.0,11.3,11.3,5.6
-Sadio Mané,FW,Liverpool,28.0,31,"2,810",11.0,11.0,7.0,3.0,0.0,14.1,14.1,7.0
-Fabinho,"DF,MF",Liverpool,26.0,28,"2,567",0.0,0.0,0.0,6.0,0.0,0.3,0.3,0.3
-Thiago Alcántara,MF,Liverpool,29.0,20,"1,854",1.0,1.0,0.0,4.0,0.0,1.2,1.2,2.3
-Jordan Henderson,"MF,DF",Liverpool,30.0,20,"1,704",1.0,1.0,1.0,0.0,0.0,1.3,1.3,1.5
-Nathaniel Phillips,DF,Liverpool,23.0,15,"1,456",1.0,1.0,1.0,2.0,0.0,1.0,1.0,0.6
-Curtis Jones,MF,Liverpool,19.0,13,"1,179",1.0,1.0,2.0,2.0,0.0,1.7,1.7,1.5
-Diogo Jota,FW,Liverpool,23.0,12,"1,112",9.0,9.0,0.0,2.0,0.0,6.4,6.4,1.6
-James Milner,"MF,DF",Liverpool,34.0,11,"1,070",0.0,0.0,1.0,3.0,0.0,0.4,0.4,0.8
-Ozan Kabak,DF,Liverpool,20.0,9,801,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.0
-Joël Matip,DF,Liverpool,28.0,9,691,1.0,1.0,2.0,2.0,0.0,0.8,0.8,0.9
-Rhys Williams,DF,Liverpool,19.0,7,661,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.2
-Naby Keïta,MF,Liverpool,25.0,7,520,0.0,0.0,0.0,1.0,0.0,0.4,0.4,0.6
-Joe Gomez,DF,Liverpool,23.0,6,590,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Xherdan Shaqiri,"MF,FW",Liverpool,28.0,5,556,0.0,0.0,2.0,2.0,0.0,0.5,0.5,2.5
-Virgil van Dijk,DF,Liverpool,29.0,5,370,1.0,1.0,0.0,1.0,0.0,0.2,0.2,0.0
-Adrián,GK,Liverpool,33.0,3,270,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Neco Williams,DF,Liverpool,19.0,3,249,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2
-Takumi Minamino,"MF,FW",Liverpool,25.0,2,293,1.0,1.0,0.0,0.0,0.0,1.1,1.1,0.0
-Alex Oxlade-Chamberlain,"MF,FW",Liverpool,26.0,2,253,1.0,1.0,1.0,0.0,0.0,0.3,0.3,0.3
-Divock Origi,FW,Liverpool,25.0,2,186,0.0,0.0,0.0,0.0,0.0,1.1,1.1,0.2
-Caoimhín Kelleher,GK,Liverpool,21.0,2,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Kostas Tsimikas,"DF,FW",Liverpool,24.0,0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Ederson,GK,Manchester City,26.0,36,"3,240",0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.3
-Rúben Dias,DF,Manchester City,23.0,32,"2,843",1.0,1.0,0.0,4.0,0.0,1.9,1.9,0.1
-Rodri,MF,Manchester City,24.0,31,"2,748",2.0,1.0,2.0,6.0,0.0,2.4,1.6,1.4
-Raheem Sterling,FW,Manchester City,25.0,28,"2,536",10.0,10.0,7.0,4.0,0.0,11.0,10.2,5.7
-João Cancelo,"DF,MF",Manchester City,26.0,27,"2,299",2.0,2.0,3.0,5.0,1.0,1.6,1.6,4.6
-Bernardo Silva,"MF,FW",Manchester City,25.0,24,"2,065",2.0,2.0,6.0,5.0,0.0,2.8,2.8,3.8
-İlkay Gündoğan,MF,Manchester City,29.0,23,"2,029",13.0,12.0,2.0,1.0,0.0,9.0,7.4,3.5
-Kevin De Bruyne,MF,Manchester City,29.0,23,"1,997",6.0,4.0,12.0,1.0,0.0,9.3,6.9,8.0
-Riyad Mahrez,FW,Manchester City,29.0,23,"1,949",9.0,9.0,6.0,0.0,0.0,4.7,4.7,5.0
-Gabriel Jesus,FW,Manchester City,23.0,22,"2,063",9.0,9.0,4.0,2.0,0.0,8.7,8.7,2.7
-Kyle Walker,DF,Manchester City,30.0,22,"1,946",1.0,1.0,1.0,1.0,0.0,0.3,0.3,0.6
-John Stones,DF,Manchester City,26.0,22,"1,933",4.0,4.0,0.0,0.0,1.0,1.8,1.8,0.1
-Phil Foden,"FW,MF",Manchester City,20.0,17,"1,616",9.0,9.0,5.0,0.0,0.0,5.0,5.0,3.6
-Oleksandr Zinchenko,DF,Manchester City,23.0,15,"1,478",0.0,0.0,0.0,0.0,0.0,0.7,0.7,0.9
-Ferrán Torres,"FW,MF",Manchester City,20.0,15,"1,306",7.0,7.0,2.0,1.0,0.0,4.9,4.9,2.2
-Aymeric Laporte,DF,Manchester City,26.0,14,"1,344",0.0,0.0,0.0,1.0,0.0,0.8,0.8,0.4
-Fernandinho,MF,Manchester City,35.0,12,"1,188",0.0,0.0,2.0,6.0,0.0,0.7,0.7,1.3
-Benjamin Mendy,DF,Manchester City,26.0,11,953,2.0,2.0,1.0,2.0,0.0,0.3,0.3,0.2
-Nathan Aké,DF,Manchester City,25.0,9,797,1.0,1.0,0.0,4.0,0.0,0.3,0.3,0.0
-Sergio Agüero,FW,Manchester City,32.0,7,559,4.0,3.0,1.0,0.0,0.0,3.5,1.9,1.2
-Eric García,DF,Manchester City,19.0,3,383,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Scott Carson,GK,Manchester City,34.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Zack Steffen,GK,Manchester City,25.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Liam Delap,FW,Manchester City,17.0,0,40,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Bruno Fernandes,MF,Manchester Utd,25.0,35,"3,099",18.0,9.0,12.0,6.0,0.0,16.1,8.2,11.4
-Aaron Wan-Bissaka,DF,Manchester Utd,22.0,34,"3,060",2.0,2.0,4.0,3.0,0.0,0.9,0.9,2.3
-Harry Maguire,DF,Manchester Utd,27.0,34,"3,047",2.0,2.0,1.0,11.0,0.0,2.3,2.2,0.3
-Marcus Rashford,FW,Manchester Utd,22.0,33,"2,920",11.0,11.0,9.0,4.0,0.0,8.9,8.9,3.8
-Luke Shaw,DF,Manchester Utd,25.0,30,"2,654",1.0,1.0,5.0,8.0,0.0,0.6,0.6,6.4
-Victor Lindelöf,DF,Manchester Utd,26.0,29,"2,585",1.0,1.0,1.0,0.0,0.0,0.6,0.6,0.3
-Fred,MF,Manchester Utd,27.0,27,"2,390",1.0,1.0,0.0,5.0,0.0,1.8,1.8,1.9
-David de Gea,GK,Manchester Utd,29.0,26,"2,295",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Scott McTominay,MF,Manchester Utd,23.0,24,"2,129",4.0,4.0,1.0,3.0,0.0,2.1,2.1,1.7
-Paul Pogba,"MF,FW",Manchester Utd,27.0,21,"1,897",3.0,3.0,3.0,3.0,0.0,2.8,2.8,2.4
-Mason Greenwood,FW,Manchester Utd,18.0,21,"1,822",7.0,7.0,2.0,2.0,0.0,6.0,6.0,2.2
-Anthony Martial,FW,Manchester Utd,24.0,17,"1,480",4.0,4.0,3.0,0.0,1.0,6.5,6.5,2.0
-Edinson Cavani,FW,Manchester Utd,33.0,13,"1,375",10.0,10.0,3.0,4.0,0.0,8.0,8.0,2.2
-Dean Henderson,GK,Manchester Utd,23.0,12,"1,125",0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
-Nemanja Matić,MF,Manchester Utd,31.0,12,"1,106",0.0,0.0,0.0,2.0,0.0,0.3,0.3,0.7
-Daniel James,FW,Manchester Utd,22.0,11,910,3.0,3.0,1.0,3.0,0.0,2.2,2.2,0.9
-Eric Bailly,DF,Manchester Utd,26.0,10,916,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.0
-Alex Telles,DF,Manchester Utd,27.0,8,690,0.0,0.0,2.0,0.0,0.0,0.2,0.2,0.9
-Juan Mata,"FW,MF",Manchester Utd,32.0,6,509,1.0,0.0,2.0,0.0,0.0,1.0,0.2,0.8
-Donny van de Beek,"MF,FW",Manchester Utd,23.0,4,524,1.0,1.0,1.0,1.0,0.0,0.4,0.4,0.9
-Axel Tuanzebe,DF,Manchester Utd,22.0,4,404,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-Brandon Williams,DF,Manchester Utd,19.0,2,188,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0
-Amad Diallo,FW,Manchester Utd,18.0,2,166,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.5
-Anthony Elanga,FW,Manchester Utd,18.0,2,155,1.0,1.0,0.0,0.0,0.0,0.4,0.4,0.0
-Timothy Fosu-Mensah,DF,Manchester Utd,22.0,1,80,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3
-Shola Shoretire,FW,Manchester Utd,16.0,0,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Odion Ighalo,FW,Manchester Utd,31.0,0,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Hannibal Mejbri,MF,Manchester Utd,17.0,0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-William Thomas Fish,FW,Manchester Utd,17.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Jonjo Shelvey,MF,Newcastle Utd,28.0,29,"2,617",1.0,1.0,3.0,7.0,0.0,2.5,2.5,3.0
-Miguel Almirón,"MF,FW",Newcastle Utd,26.0,28,"2,429",4.0,4.0,1.0,3.0,0.0,3.2,3.2,2.9
-Karl Darlow,GK,Newcastle Utd,29.0,25,"2,250",0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
-Federico Fernández,DF,Newcastle Utd,31.0,24,"2,079",0.0,0.0,0.0,4.0,0.0,0.3,0.3,0.6
-Callum Wilson,FW,Newcastle Utd,28.0,23,"2,084",12.0,8.0,5.0,2.0,0.0,12.4,9.3,2.8
-Joelinton,"FW,MF",Newcastle Utd,23.0,23,"1,983",4.0,3.0,2.0,3.0,0.0,5.4,4.6,2.4
-Isaac Hayden,"MF,DF",Newcastle Utd,25.0,22,"1,942",0.0,0.0,0.0,8.0,0.0,0.7,0.7,0.3
-Ciaran Clark,DF,Newcastle Utd,30.0,21,"1,891",1.0,1.0,0.0,3.0,0.0,0.7,0.7,0.1
-Jamal Lewis,DF,Newcastle Utd,22.0,20,"1,837",0.0,0.0,1.0,4.0,0.0,0.1,0.1,1.0
-Jamaal Lascelles,DF,Newcastle Utd,26.0,19,"1,625",2.0,2.0,0.0,4.0,0.0,1.3,1.3,0.1
-Allan Saint-Maximin,"FW,MF",Newcastle Utd,23.0,19,"1,560",3.0,3.0,4.0,0.0,0.0,2.6,2.6,3.7
-Jacob Murphy,"DF,MF",Newcastle Utd,25.0,17,"1,626",2.0,2.0,3.0,3.0,0.0,1.7,1.7,3.8
-Jeff Hendrick,MF,Newcastle Utd,28.0,17,"1,422",2.0,2.0,1.0,3.0,1.0,1.1,1.1,1.1
-Sean Longstaff,MF,Newcastle Utd,22.0,15,"1,412",0.0,0.0,1.0,2.0,0.0,1.4,1.4,1.0
-Matt Ritchie,"DF,MF",Newcastle Utd,30.0,15,"1,350",0.0,0.0,2.0,2.0,0.0,0.4,0.4,2.2
-Emil Krafth,DF,Newcastle Utd,25.0,14,"1,288",1.0,1.0,0.0,4.0,0.0,0.3,0.3,0.4
-Paul Dummett,DF,Newcastle Utd,28.0,14,"1,255",1.0,1.0,0.0,2.0,0.0,0.3,0.3,0.2
-Fabian Schär,DF,Newcastle Utd,28.0,13,"1,246",1.0,0.0,0.0,4.0,1.0,1.3,0.5,0.0
-Martin Dúbravka,GK,Newcastle Utd,31.0,13,"1,170",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Joe Willock,MF,Newcastle Utd,20.0,11,978,8.0,8.0,0.0,0.0,0.0,3.9,3.0,0.5
-Javier Manquillo,DF,Newcastle Utd,26.0,10,825,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3
-Ryan Fraser,"FW,MF",Newcastle Utd,26.0,9,928,0.0,0.0,2.0,2.0,1.0,0.9,0.9,2.0
-DeAndre Yedlin,DF,Newcastle Utd,27.0,5,436,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
-Dwight Gayle,"FW,MF",Newcastle Utd,29.0,4,514,1.0,1.0,1.0,0.0,0.0,2.9,2.9,0.3
-Andy Carroll,FW,Newcastle Utd,31.0,4,392,1.0,1.0,0.0,1.0,0.0,0.8,0.8,0.1
-Matthew Longstaff,MF,Newcastle Utd,20.0,4,377,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2
-Elliot Anderson,MF,Newcastle Utd,17.0,0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Aaron Ramsdale,GK,Sheffield Utd,22.0,38,"3,420",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
-George Baldock,DF,Sheffield Utd,27.0,32,"2,787",0.0,0.0,2.0,7.0,0.0,1.2,1.2,2.9
-Chris Basham,"DF,MF",Sheffield Utd,32.0,31,"2,576",0.0,0.0,1.0,5.0,0.0,0.7,0.7,0.9
-Enda Stevens,DF,Sheffield Utd,30.0,30,"2,700",0.0,0.0,1.0,6.0,0.0,1.3,1.3,1.6
-John Egan,DF,Sheffield Utd,27.0,30,"2,629",0.0,0.0,1.0,7.0,1.0,0.8,0.8,0.6
-John Fleck,MF,Sheffield Utd,28.0,29,"2,575",0.0,0.0,2.0,4.0,0.0,0.6,0.6,2.9
-David McGoldrick,"FW,MF",Sheffield Utd,32.0,28,"2,397",8.0,8.0,1.0,7.0,0.0,6.9,6.9,1.1
-Oliver Norwood,MF,Sheffield Utd,29.0,26,"2,220",0.0,0.0,0.0,6.0,0.0,0.5,0.5,2.0
-Ethan Ampadu,"DF,MF",Sheffield Utd,19.0,23,"2,089",0.0,0.0,0.0,3.0,0.0,0.3,0.3,1.2
-John Lundstram,MF,Sheffield Utd,26.0,23,"2,032",0.0,0.0,2.0,8.0,1.0,1.9,1.1,1.3
-Ben Osborn,"MF,DF",Sheffield Utd,25.0,17,"1,604",1.0,1.0,0.0,1.0,0.0,1.1,1.1,2.0
-Oliver Burke,FW,Sheffield Utd,23.0,14,"1,269",1.0,1.0,1.0,2.0,0.0,2.1,2.1,2.2
-Sander Berge,MF,Sheffield Utd,22.0,13,"1,120",1.0,0.0,1.0,4.0,0.0,1.2,0.4,1.1
-Oliver McBurnie,FW,Sheffield Utd,24.0,12,"1,324",1.0,1.0,0.0,2.0,0.0,3.9,3.9,1.1
-Rhian Brewster,"FW,MF",Sheffield Utd,20.0,12,"1,128",0.0,0.0,0.0,1.0,0.0,1.8,1.8,1.6
-Jayden Bogle,"DF,MF",Sheffield Utd,20.0,12,"1,110",2.0,2.0,0.0,2.0,0.0,1.9,1.9,0.2
-Kean Bryan,DF,Sheffield Utd,23.0,12,"1,004",1.0,1.0,0.0,1.0,0.0,0.9,0.9,0.6
-Jack Robinson,DF,Sheffield Utd,26.0,9,877,0.0,0.0,1.0,3.0,0.0,0.7,0.7,0.6
-Billy Sharp,FW,Sheffield Utd,34.0,7,735,3.0,1.0,0.0,1.0,0.0,3.0,1.5,0.5
-Max Lowe,DF,Sheffield Utd,23.0,7,550,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1
-Phil Jagielka,DF,Sheffield Utd,37.0,6,526,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
-Daniel Jebbison,FW,Sheffield Utd,16.0,3,284,1.0,1.0,0.0,0.0,0.0,1.1,1.1,0.0
-Lys Mousset,"FW,MF",Sheffield Utd,24.0,2,296,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3
-Jack O'Connell,DF,Sheffield Utd,26.0,2,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Iliman Ndiaye,MF,Sheffield Utd,20.0,0,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Antwoine Hackford,DF,Sheffield Utd,16.0,0,11,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Femi Seriki,MF,Sheffield Utd,18.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-James Ward-Prowse,MF,Southampton,25.0,38,"3,420",8.0,5.0,7.0,5.0,0.0,5.7,2.5,3.9
-Jan Bednarek,DF,Southampton,24.0,36,"3,100",1.0,1.0,1.0,5.0,1.0,0.7,0.7,0.6
-Stuart Armstrong,MF,Southampton,28.0,32,"2,764",4.0,4.0,5.0,3.0,0.0,2.7,2.7,2.6
-Alex McCarthy,GK,Southampton,30.0,30,"2,700",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-Che Adams,FW,Southampton,24.0,30,"2,667",9.0,9.0,5.0,1.0,0.0,9.8,9.8,5.0
-Kyle Walker-Peters,DF,Southampton,23.0,30,"2,645",0.0,0.0,2.0,4.0,0.0,1.0,1.0,1.2
-Ryan Bertrand,DF,Southampton,30.0,29,"2,598",0.0,0.0,1.0,5.0,0.0,0.4,0.4,1.3
-Jannik Vestergaard,DF,Southampton,27.0,29,"2,574",3.0,3.0,0.0,3.0,1.0,1.5,1.5,0.5
-Danny Ings,FW,Southampton,28.0,26,"2,173",12.0,10.0,4.0,1.0,0.0,8.5,6.9,2.1
-Oriol Romeu,MF,Southampton,28.0,20,"1,763",1.0,1.0,1.0,6.0,0.0,0.5,0.5,1.4
-Theo Walcott,"MF,FW",Southampton,31.0,20,"1,618",3.0,3.0,3.0,0.0,0.0,2.3,2.3,1.0
-Nathan Redmond,"MF,FW",Southampton,26.0,17,"1,738",2.0,2.0,3.0,1.0,0.0,3.1,3.1,3.2
-Jack Stephens,DF,Southampton,26.0,17,"1,537",0.0,0.0,0.0,2.0,0.0,0.8,0.8,0.3
-Moussa Djenepo,MF,Southampton,22.0,15,"1,240",1.0,1.0,0.0,5.0,0.0,0.8,0.8,0.4
-Ibrahima Diallo,MF,Southampton,21.0,10,"1,020",0.0,0.0,0.0,3.0,0.0,0.5,0.5,0.6
-Takumi Minamino,MF,Southampton,25.0,9,711,2.0,2.0,0.0,1.0,0.0,1.5,1.5,0.5
-Mohammed Salisu,DF,Southampton,21.0,8,844,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.4
-Fraser Forster,GK,Southampton,32.0,8,720,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Nathan Tella,"FW,MF",Southampton,21.0,7,745,1.0,1.0,1.0,2.0,0.0,1.6,1.6,0.8
-William Smallbone,MF,Southampton,20.0,2,172,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Shane Long,FW,Southampton,33.0,1,210,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Yan Valery,"DF,MF",Southampton,21.0,1,103,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.1
-Kayne Ramsey,DF,Southampton,19.0,1,90,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Jake Vokins,DF,Southampton,20.0,1,66,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
-Alexandre Jankewitz,MF,Southampton,18.0,1,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
-Dan Nlundulu,"FW,MF",Southampton,21.0,0,111,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Michael Obafemi,FW,Southampton,20.0,0,61,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
-Caleb Watts,MF,Southampton,18.0,0,39,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Allan Tchaptchet,DF,Southampton,18.0,0,13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Pierre Højbjerg,MF,Tottenham,24.0,38,"3,420",2.0,2.0,4.0,9.0,0.0,1.1,1.1,1.6
-Hugo Lloris,GK,Tottenham,33.0,38,"3,420",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Son Heung-min,FW,Tottenham,28.0,36,"3,114",17.0,16.0,10.0,0.0,0.0,9.7,8.9,8.4
-Harry Kane,FW,Tottenham,27.0,35,"3,082",23.0,19.0,14.0,1.0,0.0,20.1,16.9,7.1
-Eric Dier,DF,Tottenham,26.0,28,"2,520",0.0,0.0,0.0,3.0,0.0,1.2,1.2,0.3
-Tanguy Ndombele,MF,Tottenham,23.0,28,"2,091",3.0,3.0,2.0,3.0,0.0,1.6,1.6,1.8
-Sergio Reguilón,DF,Tottenham,23.0,26,"2,244",0.0,0.0,3.0,5.0,0.0,1.0,1.0,2.0
-Toby Alderweireld,DF,Tottenham,31.0,25,"2,240",1.0,1.0,0.0,2.0,0.0,0.7,0.7,0.7
-Serge Aurier,DF,Tottenham,27.0,19,"1,605",2.0,2.0,3.0,0.0,0.0,1.1,1.1,3.4
-Davinson Sánchez,DF,Tottenham,24.0,17,"1,486",0.0,0.0,0.0,1.0,0.0,0.8,0.8,0.0
-Moussa Sissoko,MF,Tottenham,30.0,15,"1,585",0.0,0.0,0.0,3.0,0.0,0.2,0.2,0.1
-Lucas Moura,"FW,MF",Tottenham,27.0,14,"1,411",3.0,3.0,4.0,1.0,0.0,1.9,1.9,2.0
-Ben Davies,DF,Tottenham,27.0,14,"1,346",0.0,0.0,1.0,1.0,0.0,0.2,0.2,0.6
-Matt Doherty,DF,Tottenham,28.0,13,"1,240",0.0,0.0,2.0,4.0,1.0,0.4,0.4,0.7
-Steven Bergwijn,"FW,MF",Tottenham,22.0,13,"1,208",1.0,1.0,3.0,3.0,0.0,2.0,2.0,0.9
-Giovani Lo Celso,MF,Tottenham,24.0,11,945,1.0,1.0,1.0,5.0,0.0,1.4,1.4,1.0
-Gareth Bale,FW,Tottenham,31.0,10,920,11.0,11.0,2.0,1.0,0.0,5.8,5.8,1.8
-Harry Winks,MF,Tottenham,24.0,9,861,0.0,0.0,0.0,5.0,0.0,0.1,0.1,0.2
-Joe Rodon,DF,Tottenham,22.0,8,733,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Dele Alli,MF,Tottenham,24.0,7,620,0.0,0.0,1.0,0.0,0.0,2.0,2.0,1.2
-Japhet Tanganga,DF,Tottenham,21.0,6,487,0.0,0.0,0.0,2.0,0.0,0.4,0.4,0.6
-Érik Lamela,"FW,MF",Tottenham,28.0,5,717,1.0,1.0,0.0,6.0,1.0,1.1,1.1,1.0
-Carlos Vinícius,FW,Tottenham,25.0,3,308,1.0,1.0,0.0,2.0,0.0,1.2,1.2,0.1
-Dane Scarlett,FW,Tottenham,16.0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Sam Johnstone,GK,West Brom,27.0,37,"3,330",0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.2
-Darnell Furlong,DF,West Brom,24.0,32,"2,932",1.0,1.0,3.0,5.0,0.0,2.0,2.0,1.9
-Semi Ajayi,DF,West Brom,26.0,31,"2,780",2.0,2.0,0.0,3.0,1.0,1.9,1.9,0.5
-Matheus Pereira,"MF,FW",West Brom,24.0,30,"2,577",11.0,7.0,6.0,2.0,1.0,7.3,4.2,6.3
-Kyle Bartley,DF,West Brom,29.0,28,"2,584",3.0,3.0,1.0,4.0,0.0,2.5,2.5,1.4
-Conor Gallagher,MF,West Brom,20.0,28,"2,531",2.0,2.0,2.0,11.0,0.0,1.5,1.5,1.8
-Conor Townsend,DF,West Brom,27.0,25,"2,234",0.0,0.0,2.0,0.0,0.0,1.1,1.1,2.7
-Dara O'Shea,DF,West Brom,21.0,25,"2,102",0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.2
-Matt Phillips,MF,West Brom,29.0,20,"1,828",2.0,2.0,1.0,1.0,0.0,2.8,2.8,3.4
-Callum Robinson,"FW,MF",West Brom,25.0,20,"1,560",5.0,5.0,0.0,0.0,0.0,3.1,3.1,1.0
-Romaine Sawyers,MF,West Brom,28.0,17,"1,487",0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.6
-Okay Yokuşlu,MF,West Brom,26.0,15,"1,317",0.0,0.0,1.0,4.0,0.0,0.9,0.9,0.7
-Jake Livermore,MF,West Brom,30.0,15,"1,242",0.0,0.0,0.0,2.0,1.0,0.3,0.3,0.2
-Grady Diangana,"MF,FW",West Brom,22.0,15,"1,235",1.0,1.0,0.0,0.0,0.0,1.1,1.1,0.2
-Ainsley Maitland-Niles,MF,West Brom,22.0,14,"1,230",0.0,0.0,0.0,2.0,0.0,0.6,0.6,0.7
-Mbaye Diagne,FW,West Brom,28.0,14,"1,189",3.0,3.0,2.0,2.0,0.0,6.6,6.6,1.0
-Karlan Grant,"FW,MF",West Brom,22.0,14,"1,127",1.0,1.0,0.0,1.0,0.0,1.8,1.8,0.2
-Kieran Gibbs,DF,West Brom,30.0,9,809,0.0,0.0,0.0,1.0,1.0,0.1,0.1,0.4
-Branislav Ivanović,DF,West Brom,36.0,8,767,0.0,0.0,0.0,2.0,0.0,0.5,0.5,0.1
-Robert Snodgrass,"MF,FW",West Brom,32.0,6,526,0.0,0.0,0.0,2.0,0.0,0.2,0.2,0.4
-Filip Krovinović,MF,West Brom,24.0,5,546,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.2
-Lee Peltier,DF,West Brom,33.0,3,229,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Hal Robson-Kanu,FW,West Brom,31.0,2,561,2.0,2.0,0.0,2.0,0.0,1.2,1.2,0.2
-Kamil Grosicki,"MF,FW",West Brom,32.0,2,148,0.0,0.0,1.0,0.0,0.0,0.1,0.1,0.3
-Kyle Edwards,"MF,FW",West Brom,22.0,1,118,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-David Button,GK,West Brom,31.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Ahmed Hegazi,DF,West Brom,29.0,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Charlie Austin,"FW,MF",West Brom,31.0,0,138,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0
-Sam Field,MF,West Brom,22.0,0,62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Rekeem Harper,MF,West Brom,20.0,0,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Tomáš Souček,MF,West Ham,25.0,38,"3,419",10.0,10.0,1.0,7.0,1.0,8.4,8.4,2.0
-Aaron Cresswell,DF,West Ham,30.0,36,"3,170",0.0,0.0,8.0,3.0,0.0,1.0,1.0,6.5
-Łukasz Fabiański,GK,West Ham,35.0,35,"3,150",0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
-Vladimír Coufal,DF,West Ham,27.0,34,"3,054",0.0,0.0,7.0,3.0,0.0,1.3,1.3,5.5
-Declan Rice,MF,West Ham,21.0,32,"2,879",2.0,1.0,1.0,2.0,0.0,3.2,1.6,1.8
-Pablo Fornals,"FW,MF",West Ham,24.0,31,"2,572",5.0,5.0,4.0,3.0,0.0,6.0,6.0,2.3
-Jarrod Bowen,"FW,MF",West Ham,23.0,30,"2,562",8.0,8.0,5.0,0.0,0.0,7.1,7.1,5.0
-Angelo Ogbonna,DF,West Ham,32.0,28,"2,492",3.0,3.0,0.0,5.0,0.0,1.7,1.7,0.8
-Michail Antonio,FW,West Ham,30.0,24,"1,974",10.0,10.0,5.0,3.0,0.0,12.9,12.9,3.0
-Craig Dawson,DF,West Ham,30.0,22,"1,925",3.0,3.0,0.0,5.0,1.0,1.9,1.9,0.1
-Jesse Lingard,"MF,FW",West Ham,27.0,16,"1,421",9.0,8.0,4.0,3.0,0.0,4.5,2.8,2.1
-Issa Diop,DF,West Ham,23.0,15,"1,381",2.0,2.0,0.0,3.0,0.0,0.5,0.5,0.0
-Saïd Benrahma,"FW,MF",West Ham,24.0,14,"1,391",1.0,1.0,6.0,0.0,0.0,2.6,2.6,4.1
-Fabián Balbuena,DF,West Ham,28.0,13,"1,198",1.0,1.0,0.0,1.0,1.0,0.7,0.7,0.0
-Arthur Masuaku,"DF,MF",West Ham,26.0,12,"1,006",0.0,0.0,2.0,2.0,0.0,0.5,0.5,2.2
-Sébastien Haller,FW,West Ham,26.0,10,937,3.0,3.0,0.0,0.0,0.0,2.9,2.9,1.4
-Mark Noble,MF,West Ham,33.0,8,712,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3
-Ryan Fredericks,"DF,FW",West Ham,27.0,6,569,1.0,1.0,1.0,2.0,0.0,0.3,0.3,1.2
-Manuel Lanzini,"MF,FW",West Ham,27.0,5,566,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.9
-Ben Johnson,"DF,FW",West Ham,20.0,5,523,1.0,1.0,0.0,1.0,0.0,0.4,0.4,0.4
-Darren Randolph,GK,West Ham,33.0,3,270,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Andriy Yarmolenko,"FW,MF",West Ham,30.0,1,375,0.0,0.0,1.0,3.0,0.0,0.3,0.3,0.8
-Robert Snodgrass,"FW,MF",West Ham,32.0,0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Felipe Anderson,"FW,MF",West Ham,27.0,0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Rui Patrício,GK,Wolves,32.0,37,"3,329",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
-Conor Coady,DF,Wolves,27.0,37,"3,303",1.0,1.0,0.0,5.0,0.0,1.0,1.0,0.2
-Nélson Semedo,"DF,MF",Wolves,26.0,34,"2,983",1.0,1.0,1.0,5.0,0.0,1.3,1.3,1.3
-Rúben Neves,MF,Wolves,23.0,31,"2,675",5.0,2.0,1.0,8.0,0.0,5.1,2.7,1.9
-Pedro Neto,"FW,MF",Wolves,20.0,30,"2,550",5.0,5.0,6.0,4.0,0.0,5.1,5.1,5.4
-Adama Traoré,"FW,MF",Wolves,24.0,28,"2,649",2.0,2.0,2.0,4.0,0.0,2.0,2.0,4.8
-João Moutinho,MF,Wolves,33.0,28,"2,528",1.0,1.0,1.0,5.0,1.0,0.6,0.6,2.4
-Leander Dendoncker,"MF,DF",Wolves,25.0,28,"2,503",1.0,1.0,0.0,4.0,0.0,3.1,3.1,0.7
-Romain Saïss,DF,Wolves,30.0,27,"2,407",3.0,3.0,0.0,2.0,0.0,3.0,3.0,0.2
-Daniel Podence,"MF,FW",Wolves,24.0,22,"1,661",3.0,3.0,2.0,3.0,0.0,2.5,2.5,1.7
-Willy Boly,DF,Wolves,29.0,21,"1,879",1.0,1.0,1.0,2.0,0.0,1.1,1.1,0.3
-Rayan Aït Nouri,DF,Wolves,19.0,16,"1,404",1.0,1.0,1.0,1.0,0.0,0.6,0.6,0.6
-Max Kilman,DF,Wolves,23.0,14,"1,310",0.0,0.0,1.0,4.0,0.0,0.8,0.8,0.5
-Willian José,FW,Wolves,28.0,12,"1,110",1.0,1.0,0.0,0.0,0.0,1.6,1.6,1.2
-Fábio Silva,FW,Wolves,18.0,11,"1,369",4.0,3.0,3.0,2.0,0.0,5.3,4.5,1.0
-Raúl Jiménez,FW,Wolves,29.0,10,823,4.0,4.0,0.0,0.0,0.0,2.4,2.4,0.3
-Fernando Marçal,"DF,MF",Wolves,31.0,7,623,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.1
-Jonny Castro,"MF,DF",Wolves,26.0,7,495,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
-Ki-Jana Hoever,"DF,MF",Wolves,18.0,5,577,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.2
-Vitinha,MF,Wolves,20.0,5,520,0.0,0.0,1.0,0.0,0.0,0.5,0.5,0.6
-Morgan Gibbs-White,"MF,FW",Wolves,20.0,4,414,1.0,1.0,0.0,1.0,0.0,0.8,0.8,0.4
-Owen Otasowie,"MF,FW",Wolves,19.0,2,187,0.0,0.0,1.0,1.0,0.0,0.5,0.5,0.1
-Rúben Vinagre,"MF,DF",Wolves,21.0,1,173,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
-John Ruddy,GK,Wolves,33.0,1,91,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Patrick Cutrone,FW,Wolves,22.0,0,25,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
-Oskar Buur,DF,Wolves,22.0,0,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-Theo Corbeanu,FW,Wolves,18.0,0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bukayo Saka,1,0,18,30,2553,5.0,5.0,3.0,1.0,0.0,6.9,6.9,4.4
+Granit Xhaka,2,0,27,29,2522,1.0,1.0,2.0,7.0,1.0,0.9,0.9,1.5
+Rob Holding,3,0,24,28,2558,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.2
+Pierre-Emerick Aubameyang,1,0,31,26,2332,10.0,8.0,3.0,2.0,0.0,10.2,8.6,2.4
+Kieran Tierney,3,0,23,26,2299,1.0,1.0,3.0,4.0,0.0,0.5,0.5,3.5
+Héctor Bellerín,3,0,25,24,2089,1.0,1.0,2.0,8.0,0.0,0.8,0.8,2.4
+Gabriel Dos Santos,3,0,22,22,1996,2.0,2.0,0.0,4.0,1.0,1.3,1.3,0.1
+Alexandre Lacazette,1,0,29,22,1923,13.0,10.0,2.0,3.0,0.0,11.7,9.3,2.2
+Thomas Partey,2,0,27,18,1534,0.0,0.0,2.0,5.0,0.0,1.3,1.3,1.0
+Emile Smith Rowe,2,0,20,18,1440,2.0,2.0,4.0,0.0,0.0,1.8,1.8,3.4
+Dani Ceballos,2,0,23,17,1615,0.0,0.0,3.0,4.0,0.0,0.6,0.6,2.6
+Mohamed Elneny,2,0,28,17,1544,1.0,1.0,0.0,3.0,0.0,0.4,0.4,0.2
+David Luiz,3,0,33,17,1396,1.0,1.0,0.0,1.0,1.0,0.9,0.9,0.5
+Nicolas Pépé,1,0,25,16,1616,10.0,9.0,1.0,1.0,1.0,5.8,5.0,1.0
+Willian,1,0,31,16,1406,1.0,1.0,5.0,0.0,0.0,1.9,1.9,3.0
+Pablo Marí,3,0,26,10,900,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.3
+Martin Ødegaard,2,0,21,9,866,1.0,1.0,2.0,0.0,0.0,0.7,0.7,2.0
+Calum Chambers,3,0,25,8,753,0.0,0.0,2.0,0.0,0.0,0.4,0.4,1.1
+Cédric Soares,3,0,28,8,746,0.0,0.0,1.0,1.0,0.0,0.3,0.3,0.9
+Martinelli,1,0,19,7,589,2.0,2.0,1.0,0.0,0.0,3.3,3.3,1.8
+Ainsley Maitland-Niles,2,0,22,5,490,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
+Eddie Nketiah,1,0,21,4,423,2.0,2.0,1.0,0.0,0.0,1.8,1.8,0.6
+Joe Willock,2,0,20,2,238,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.1
+Sead Kolašinac,3,0,27,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Reiss Nelson,1,0,20,0,71,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Shkodran Mustafi,3,0,28,0,47,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Matt Targett,3,1,24,38,3404,0.0,0.0,2.0,7.0,0.0,0.3,0.3,2.5
+John McGinn,2,1,25,37,3330,3.0,3.0,5.0,12.0,0.0,2.5,2.5,3.6
+Ollie Watkins,1,1,24,37,3328,14.0,13.0,5.0,4.0,1.0,14.5,13.0,5.3
+Tyrone Mings,3,1,27,36,3194,2.0,2.0,2.0,6.0,1.0,1.9,1.9,0.4
+Ezri Konsa,3,1,22,35,3196,2.0,2.0,0.0,3.0,0.0,2.4,2.4,0.1
+Douglas Luiz,2,1,22,32,2781,0.0,0.0,2.0,10.0,1.0,1.2,1.2,1.6
+Bertrand Traoré,1,1,24,29,2317,7.0,7.0,6.0,1.0,0.0,6.6,6.6,4.3
+Matty Cash,3,1,22,28,2372,0.0,0.0,2.0,8.0,1.0,0.3,0.3,1.7
+Jack Grealish,1,1,24,24,2185,6.0,6.0,10.0,6.0,0.0,4.6,4.6,7.4
+Ross Barkley,2,1,26,18,1531,3.0,3.0,1.0,0.0,0.0,3.1,3.1,4.2
+Anwar El Ghazi,1,1,25,17,1613,10.0,6.0,0.0,2.0,0.0,8.4,5.3,1.8
+Trézéguet,1,1,25,12,1166,2.0,2.0,1.0,0.0,0.0,3.8,3.8,2.1
+Marvelous Nakamba,2,1,26,9,749,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.1
+Ahmed Elmohamady,3,1,32,8,839,0.0,0.0,0.0,2.0,0.0,0.4,0.4,1.0
+Kortney Hause,3,1,25,7,630,1.0,1.0,0.0,2.0,0.0,1.0,1.0,0.0
+Jacob Ramsey,2,1,19,6,626,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.3
+Morgan Sanson,2,1,25,3,294,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.1
+Conor Hourihane,2,1,29,3,225,1.0,1.0,1.0,0.0,0.0,0.7,0.7,0.6
+Keinan Davis,1,1,22,1,277,1.0,1.0,1.0,0.0,0.0,1.5,1.5,0.6
+Carney Chukwuemeka,2,1,16,0,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wesley Moraes,1,1,23,0,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Neil Taylor,3,1,31,0,16,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Jaden Philogene Bidace,1,1,18,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ben White,3,4,22,36,3191,0.0,0.0,0.0,5.0,1.0,0.5,0.5,0.9
+Yves Bissouma,2,4,23,35,3111,1.0,1.0,0.0,8.0,1.0,1.4,1.4,0.9
+Lewis Dunk,3,4,28,33,2931,5.0,5.0,0.0,5.0,2.0,2.2,2.2,1.2
+Leandro Trossard,2,4,25,30,2607,5.0,5.0,5.0,2.0,0.0,4.6,4.6,4.9
+Adam Webster,3,4,25,29,2594,1.0,1.0,0.0,4.0,0.0,2.0,2.0,0.2
+Neal Maupay,1,4,23,29,2512,8.0,5.0,2.0,1.0,1.0,13.2,10.1,3.9
+Pascal Groß,2,4,29,27,2484,3.0,0.0,8.0,3.0,0.0,4.9,1.7,5.2
+Joël Veltman,3,4,28,25,2281,1.0,1.0,1.0,3.0,0.0,1.1,1.1,1.7
+Dan Burn,3,4,28,23,2061,1.0,1.0,0.0,5.0,0.0,1.5,1.5,0.8
+Solly March,3,4,26,19,1672,2.0,2.0,1.0,0.0,0.0,1.7,1.7,1.5
+Danny Welbeck,1,4,29,17,1545,6.0,6.0,1.0,0.0,0.0,6.6,5.8,2.8
+Adam Lallana,2,4,32,16,1596,1.0,1.0,1.0,0.0,0.0,1.6,1.6,2.6
+Alexis Mac Allister,2,4,21,13,1115,1.0,1.0,1.0,1.0,0.0,1.3,1.3,1.5
+Tariq Lamptey,3,4,19,11,886,1.0,1.0,1.0,4.0,1.0,0.7,0.7,0.8
+Steven Alzate,2,4,21,10,896,1.0,1.0,0.0,2.0,0.0,0.8,0.8,0.6
+Aaron Connolly,1,4,20,9,791,2.0,2.0,1.0,0.0,0.0,4.0,4.0,0.2
+Jakub Moder,3,4,21,7,647,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.2
+Alireza Jahanbakhsh,1,4,26,6,528,0.0,0.0,1.0,3.0,0.0,1.5,1.5,3.0
+Davy Pröpper,2,4,28,2,213,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0
+Bernardo,3,4,25,2,206,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1
+Percy Tau,1,4,26,1,103,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.4
+Andi Zeqiri,1,4,21,0,171,0.0,0.0,0.0,0.0,0.0,0.7,0.7,0.1
+José Izquierdo,3,4,28,0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Reda Khadra,2,4,19,0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jayson Molumby,2,4,20,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ashley Westwood,2,5,30,38,3410,3.0,3.0,3.0,7.0,0.0,1.2,1.2,6.8
+James Tarkowski,3,5,27,36,3240,1.0,1.0,0.0,6.0,0.0,3.4,3.4,1.2
+Dwight McNeil,2,5,20,34,3069,2.0,2.0,5.0,1.0,0.0,1.1,1.1,6.2
+Matthew Lowton,3,5,31,34,3060,1.0,1.0,1.0,5.0,0.0,0.8,0.8,3.1
+Josh Brownhill,2,5,24,32,2813,0.0,0.0,1.0,2.0,0.0,1.9,1.9,0.7
+Chris Wood,1,5,28,32,2741,12.0,10.0,3.0,0.0,0.0,13.0,11.4,1.9
+Ben Mee,3,5,30,30,2693,2.0,2.0,0.0,3.0,0.0,2.3,2.3,0.3
+Charlie Taylor,3,5,26,28,2426,0.0,0.0,1.0,1.0,0.0,0.1,0.1,1.4
+Jóhann Berg Guðmundsson,2,5,29,16,1363,2.0,2.0,0.0,2.0,0.0,1.2,1.2,0.5
+Matěj Vydra,1,5,28,15,1371,3.0,3.0,2.0,0.0,0.0,5.2,5.2,1.8
+Jack Cork,2,5,31,15,1350,0.0,0.0,0.0,2.0,0.0,0.2,0.2,0.6
+Ashley Barnes,1,5,30,15,1331,3.0,2.0,0.0,4.0,0.0,4.1,3.3,0.8
+Erik Pieters,3,5,31,13,1266,0.0,0.0,1.0,1.0,0.0,0.2,0.2,0.4
+Jay Rodriguez,1,5,31,12,1265,1.0,1.0,2.0,3.0,0.0,3.0,3.0,1.1
+Robbie Brady,2,5,28,12,1052,1.0,1.0,1.0,3.0,0.0,0.8,0.8,0.9
+Kevin Long,3,5,29,7,637,0.0,0.0,0.0,2.0,0.0,0.4,0.4,0.0
+Phil Bardsley,3,5,35,3,274,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.0
+Jimmy Dunne,3,5,22,3,270,1.0,1.0,0.0,1.0,0.0,0.5,0.5,0.1
+Dale Stephens,2,5,31,3,261,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0
+Josh Benson,2,5,20,2,264,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0
+Joel Mumbongo,1,5,21,0,40,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Lewis Richardson,1,5,17,0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mason Mount,2,7,21,32,2890,6.0,5.0,5.0,2.0,0.0,6.3,5.5,8.2
+Timo Werner,1,7,24,29,2602,6.0,6.0,8.0,2.0,0.0,11.4,11.4,5.6
+Ben Chilwell,3,7,23,27,2286,3.0,3.0,5.0,3.0,0.0,2.4,2.4,2.4
+Reece James,3,7,20,25,2373,1.0,1.0,2.0,3.0,0.0,1.6,1.6,3.5
+César Azpilicueta,3,7,30,24,2188,1.0,1.0,2.0,5.0,1.0,0.7,0.7,2.5
+N'Golo Kanté,2,7,29,24,2146,0.0,0.0,2.0,7.0,0.0,0.6,0.6,1.3
+Jorginho,2,7,28,23,2010,7.0,0.0,1.0,2.0,0.0,7.3,0.2,1.7
+Thiago Silva,3,7,35,23,1935,2.0,2.0,0.0,5.0,1.0,1.7,1.7,0.3
+Kurt Zouma,3,7,25,22,2029,5.0,5.0,0.0,3.0,0.0,2.0,2.0,0.1
+Mateo Kovačić,2,7,26,21,1815,0.0,0.0,1.0,4.0,0.0,1.0,1.0,1.7
+Antonio Rüdiger,3,7,27,19,1710,1.0,1.0,0.0,0.0,0.0,1.3,1.3,0.4
+Christian Pulisic,1,7,21,18,1738,4.0,4.0,2.0,2.0,0.0,6.1,6.1,2.8
+Kai Havertz,2,7,21,18,1520,4.0,4.0,3.0,2.0,0.0,5.5,5.5,1.3
+Andreas Christensen,3,7,24,15,1371,0.0,0.0,0.0,2.0,1.0,0.1,0.1,0.3
+Hakim Ziyech,2,7,27,15,1172,2.0,2.0,3.0,3.0,0.0,1.9,1.9,3.6
+Tammy Abraham,1,7,22,12,1040,6.0,6.0,1.0,0.0,0.0,5.9,5.9,0.7
+Marcos Alonso,3,7,29,11,960,2.0,2.0,0.0,2.0,0.0,1.8,1.8,1.3
+Callum Hudson-Odoi,1,7,19,10,1059,2.0,2.0,3.0,0.0,0.0,1.3,1.3,2.8
+Olivier Giroud,1,7,33,8,748,4.0,4.0,0.0,1.0,0.0,4.2,4.2,1.1
+Billy Gilmour,2,7,19,3,261,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.2
+Ruben Loftus-Cheek,1,7,24,1,60,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Emerson Palmieri,3,7,25,0,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fikayo Tomori,3,7,22,0,45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ross Barkley,1,7,26,0,42,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Cheikhou Kouyaté,3,8,30,35,3121,1.0,1.0,0.0,4.0,0.0,0.7,0.7,1.0
+Wilfried Zaha,1,8,27,29,2612,11.0,9.0,2.0,6.0,0.0,8.1,6.5,3.1
+Eberechi Eze,2,8,22,29,2559,4.0,4.0,6.0,3.0,0.0,2.2,2.2,3.9
+Luka Milivojević,2,8,29,27,2359,1.0,0.0,1.0,8.0,1.0,2.4,0.8,1.7
+Andros Townsend,2,8,29,25,2258,1.0,1.0,5.0,0.0,0.0,2.3,2.3,4.0
+Joel Ward,3,8,30,25,2256,0.0,0.0,1.0,5.0,0.0,0.1,0.1,0.6
+Jordan Ayew,1,8,28,23,2096,1.0,1.0,3.0,4.0,0.0,2.2,2.2,0.7
+Christian Benteke,1,8,29,21,1816,10.0,10.0,1.0,3.0,1.0,8.3,8.3,0.9
+Gary Cahill,3,8,34,20,1800,1.0,1.0,1.0,3.0,0.0,0.7,0.7,0.6
+Patrick van Aanholt,3,8,29,20,1777,0.0,0.0,1.0,2.0,0.0,1.4,1.4,0.7
+Jaïro Riedewald,2,8,23,19,1820,2.0,2.0,0.0,4.0,0.0,0.6,0.6,0.8
+Tyrick Mitchell,3,8,20,19,1710,1.0,1.0,1.0,1.0,0.0,0.8,0.8,0.2
+James McArthur,2,8,32,17,1466,0.0,0.0,2.0,3.0,0.0,0.3,0.3,1.2
+Jeffrey Schlupp,2,8,27,15,1428,2.0,2.0,3.0,3.0,0.0,1.9,1.9,2.0
+Scott Dann,3,8,33,15,1350,1.0,1.0,0.0,1.0,0.0,0.3,0.3,0.0
+Nathaniel Clyne,3,8,29,13,1145,0.0,0.0,1.0,2.0,0.0,0.2,0.2,0.2
+James McCarthy,2,8,29,10,821,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3
+Michy Batshuayi,1,8,26,7,728,2.0,2.0,1.0,0.0,0.0,1.6,1.6,1.6
+James Tomkins,3,8,31,6,553,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.3
+Mamadou Sakho,3,8,30,3,276,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Jean-Philippe Mateta,1,8,23,2,221,1.0,1.0,0.0,0.0,0.0,0.3,0.3,0.0
+Martin Kelly,3,8,30,0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Michael Keane,3,9,27,33,2991,3.0,3.0,1.0,4.0,0.0,1.5,1.5,1.1
+Richarlison,1,9,23,33,2861,7.0,6.0,3.0,4.0,1.0,9.7,8.8,3.3
+Dominic Calvert-Lewin,1,9,23,32,2871,16.0,16.0,0.0,3.0,0.0,16.3,16.3,2.0
+Lucas Digne,3,9,27,30,2681,0.0,0.0,7.0,2.0,1.0,0.5,0.5,5.2
+Ben Godfrey,3,9,22,29,2685,0.0,0.0,2.0,4.0,0.0,1.0,1.0,0.8
+Abdoulaye Doucouré,2,9,27,29,2443,2.0,2.0,3.0,6.0,0.0,2.3,2.3,2.0
+Mason Holgate,3,9,23,26,2287,1.0,1.0,0.0,9.0,0.0,1.0,1.0,0.7
+Gylfi Sigurðsson,2,9,30,24,2253,6.0,3.0,5.0,2.0,0.0,6.5,3.4,3.8
+Allan,2,9,29,23,2051,0.0,0.0,0.0,6.0,0.0,0.3,0.3,0.8
+Yerry Mina,3,9,25,23,1937,2.0,2.0,0.0,2.0,0.0,1.6,1.6,0.0
+James Rodríguez,1,9,29,21,1764,6.0,6.0,4.0,4.0,0.0,2.8,2.8,4.8
+Séamus Coleman,3,9,31,18,1613,0.0,0.0,3.0,0.0,0.0,0.9,0.9,1.8
+André Gomes,2,9,27,17,1570,0.0,0.0,1.0,3.0,0.0,0.5,0.5,1.0
+Alex Iwobi,1,9,24,17,1542,1.0,1.0,2.0,0.0,0.0,0.9,0.9,1.9
+Tom Davies,2,9,22,17,1423,0.0,0.0,1.0,3.0,0.0,0.2,0.2,0.9
+Bernard,2,9,27,3,455,1.0,1.0,0.0,2.0,0.0,0.3,0.3,0.6
+Fabian Delph,2,9,30,2,266,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
+Anthony Gordon,1,9,19,1,88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Niels Nkounkou,3,9,19,1,81,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Jonjoe Kenny,3,9,23,1,79,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Joshua King,2,9,28,0,148,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0.0
+Cenk Tosun,1,9,29,0,48,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1
+Moise Kean,1,9,20,0,15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Theo Walcott,1,9,31,0,13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jean-Philippe Gbamin,2,9,24,0,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nathan Broadhead,1,9,22,0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tosin Adarabioyo,3,10,22,33,2953,0.0,0.0,0.0,1.0,0.0,1.1,1.1,0.3
+Ademola Lookman,1,10,22,31,2747,4.0,4.0,4.0,5.0,0.0,6.3,5.5,5.2
+Ola Aina,3,10,23,31,2664,2.0,2.0,1.0,3.0,0.0,1.2,1.2,1.5
+Joachim Andersen,3,10,24,30,2730,1.0,1.0,1.0,7.0,1.0,1.2,1.2,0.4
+Andre-Frank Zambo Anguissa,2,10,24,29,2587,0.0,0.0,3.0,6.0,0.0,1.6,1.6,2.5
+Bobby Reid,2,10,27,28,2372,5.0,5.0,2.0,7.0,0.0,3.8,3.8,1.1
+Ivan Cavaleiro,1,10,26,27,2472,3.0,2.0,0.0,2.0,0.0,6.4,4.8,2.7
+Harrison Reed,2,10,25,26,2247,0.0,0.0,2.0,5.0,0.0,0.4,0.4,1.7
+Antonee Robinson,3,10,22,24,2162,0.0,0.0,0.0,4.0,1.0,0.4,0.4,1.9
+Ruben Loftus-Cheek,2,10,24,21,1909,1.0,1.0,0.0,3.0,0.0,3.4,3.4,1.2
+Mario Lemina,2,10,26,19,1703,1.0,1.0,0.0,5.0,0.0,0.7,0.7,0.8
+Kenny Tete,3,10,24,18,1481,0.0,0.0,1.0,3.0,0.0,0.3,0.3,1.4
+Aleksandar Mitrović,1,10,25,13,1402,3.0,2.0,3.0,3.0,0.0,6.2,4.6,2.7
+Josh Maja,1,10,21,9,810,3.0,2.0,0.0,0.0,0.0,4.5,3.7,0.5
+Tom Cairney,2,10,29,9,759,1.0,1.0,1.0,2.0,0.0,0.5,0.5,1.1
+Joe Bryan,3,10,26,7,669,1.0,1.0,0.0,2.0,0.0,0.6,0.6,0.3
+Tim Ream,3,10,32,7,630,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Josh Onomah,2,10,23,4,374,0.0,0.0,0.0,1.0,0.0,0.4,0.4,0.0
+Denis Odoi,3,10,32,3,270,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1
+Michael Hector,3,10,28,3,263,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.0
+Fabio Carvalho,2,10,17,3,255,1.0,1.0,0.0,0.0,0.0,1.2,1.2,0.4
+Aboubakar Kamara,1,10,25,2,315,0.0,0.0,0.0,1.0,1.0,0.5,0.5,0.3
+Maxime Le Marchand,3,10,30,1,123,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+Neeskens Kebano,1,10,28,1,119,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0
+Terence Kongolo,3,10,26,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tyrese Francois,3,10,20,0,15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Stuart Dallas,2,12,29,38,3409,8.0,8.0,2.0,7.0,0.0,4.2,4.2,1.8
+Luke Ayling,3,12,28,38,3399,0.0,0.0,0.0,7.0,0.0,1.7,1.7,3.2
+Patrick Bamford,1,12,26,37,3050,17.0,15.0,7.0,3.0,0.0,18.2,16.6,3.5
+Jack Harrison,2,12,23,34,2847,8.0,8.0,8.0,2.0,0.0,5.8,5.8,6.5
+Ezgjan Alioski,3,12,28,29,2461,2.0,2.0,3.0,7.0,0.0,1.6,1.6,3.3
+Kalvin Phillips,2,12,24,28,2428,1.0,1.0,2.0,10.0,0.0,0.5,0.5,3.4
+Mateusz Klich,2,12,30,28,2393,4.0,2.0,5.0,6.0,0.0,3.0,1.4,3.4
+Raphinha,2,12,23,26,2360,6.0,6.0,9.0,3.0,0.0,5.7,5.7,7.9
+Liam Cooper,3,12,28,25,2185,1.0,1.0,0.0,4.0,1.0,1.8,1.8,0.0
+Pascal Struijk,3,12,20,22,2075,1.0,1.0,0.0,3.0,0.0,1.7,1.7,0.1
+Tyler Roberts,2,12,21,14,1340,1.0,1.0,2.0,3.0,0.0,1.8,1.8,2.3
+Rodrigo,2,12,29,14,1288,7.0,7.0,2.0,3.0,0.0,5.1,5.1,3.5
+Diego Llorente,3,12,26,14,1204,1.0,1.0,0.0,1.0,0.0,0.8,0.8,0.5
+Hélder Costa,2,12,26,13,1156,3.0,3.0,3.0,0.0,0.0,2.2,2.2,0.6
+Robin Koch,3,12,24,13,1132,0.0,0.0,0.0,1.0,0.0,0.7,0.7,0.1
+Jamie Shackleton,2,12,20,3,461,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Pablo Hernández,2,12,35,3,427,0.0,0.0,2.0,1.0,0.0,1.1,1.1,0.7
+Gaetano Berardi,3,12,31,1,113,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Ian Carlo Poveda,2,12,20,0,355,0.0,0.0,0.0,0.0,0.0,0.3,0.3,1.1
+Niall Huggins,3,12,19,0,38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leif Davis,3,12,20,0,33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Youri Tielemans,2,13,23,37,3357,6.0,4.0,4.0,6.0,0.0,4.4,2.8,3.1
+Jamie Vardy,1,13,33,31,2840,15.0,7.0,9.0,1.0,0.0,19.9,12.8,4.7
+Jonny Evans,3,13,32,28,2473,2.0,2.0,2.0,7.0,0.0,1.7,1.7,0.4
+Timothy Castagne,3,13,24,27,2345,2.0,2.0,3.0,1.0,0.0,1.1,1.1,2.2
+Wesley Fofana,3,13,19,27,2262,0.0,0.0,0.0,7.0,0.0,1.0,1.0,0.3
+Wilfred Ndidi,2,13,23,25,2176,1.0,1.0,4.0,6.0,0.0,0.7,0.7,1.3
+James Maddison,2,13,23,24,2099,8.0,8.0,5.0,4.0,0.0,3.8,3.8,5.1
+James Justin,3,13,22,23,2070,2.0,2.0,1.0,4.0,0.0,2.2,2.2,2.0
+Harvey Barnes,1,13,22,22,1945,9.0,9.0,4.0,0.0,0.0,5.9,5.9,1.6
+Çağlar Söyüncü,3,13,24,19,1819,1.0,1.0,0.0,2.0,0.0,0.7,0.7,0.5
+Marc Albrighton,3,13,30,17,1746,1.0,1.0,5.0,2.0,0.0,1.2,1.2,3.5
+Kelechi Iheanacho,1,13,23,16,1459,12.0,12.0,2.0,1.0,0.0,8.2,7.4,3.7
+Nampalys Mendy,2,13,28,15,1459,0.0,0.0,1.0,5.0,0.0,0.1,0.1,0.2
+Ayoze Pérez,2,13,27,15,1331,2.0,2.0,1.0,2.0,0.0,3.3,3.3,1.3
+Luke Thomas,3,13,19,12,969,1.0,1.0,0.0,2.0,0.0,0.3,0.3,0.7
+Ricardo Pereira,3,13,26,10,959,0.0,0.0,1.0,3.0,0.0,0.3,0.3,0.6
+Dennis Praet,2,13,26,10,718,1.0,1.0,1.0,0.0,0.0,0.4,0.4,1.1
+Daniel Amartey,3,13,25,8,722,1.0,1.0,0.0,3.0,0.0,0.4,0.4,0.0
+Christian Fuchs,3,13,34,8,702,0.0,0.0,0.0,4.0,0.0,0.1,0.1,0.0
+Hamza Choudhury,2,13,22,4,316,0.0,0.0,0.0,1.0,0.0,0.4,0.4,0.0
+Cengiz Ünder,1,13,23,1,281,0.0,0.0,2.0,0.0,0.0,0.3,0.3,1.6
+Sidnei Tavares,2,13,18,1,85,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Islam Slimani,1,13,32,0,20,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
+Demarai Gray,1,13,24,0,19,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Wes Morgan,3,13,36,0,18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Khanya Leshabela,2,13,20,0,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andrew Robertson,3,14,26,38,3383,1.0,1.0,7.0,2.0,0.0,1.5,1.5,6.6
+Mohamed Salah,1,14,28,34,3078,22.0,16.0,5.0,0.0,0.0,19.3,14.6,6.2
+Trent Alexander-Arnold,3,14,21,34,3031,2.0,2.0,7.0,2.0,0.0,2.6,2.6,8.6
+Georginio Wijnaldum,2,14,29,34,2941,2.0,2.0,0.0,1.0,0.0,2.6,2.6,1.4
+Roberto Firmino,1,14,28,33,2838,9.0,9.0,7.0,2.0,0.0,11.3,11.3,5.6
+Sadio Mané,1,14,28,31,2810,11.0,11.0,7.0,3.0,0.0,14.1,14.1,7.0
+Fabinho,3,14,26,28,2567,0.0,0.0,0.0,6.0,0.0,0.3,0.3,0.3
+Thiago Alcántara,2,14,29,20,1854,1.0,1.0,0.0,4.0,0.0,1.2,1.2,2.3
+Jordan Henderson,2,14,30,20,1704,1.0,1.0,1.0,0.0,0.0,1.3,1.3,1.5
+Nathaniel Phillips,3,14,23,15,1456,1.0,1.0,1.0,2.0,0.0,1.0,1.0,0.6
+Curtis Jones,2,14,19,13,1179,1.0,1.0,2.0,2.0,0.0,1.7,1.7,1.5
+Diogo Jota,1,14,23,12,1112,9.0,9.0,0.0,2.0,0.0,6.4,6.4,1.6
+James Milner,2,14,34,11,1070,0.0,0.0,1.0,3.0,0.0,0.4,0.4,0.8
+Ozan Kabak,3,14,20,9,801,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.0
+Joël Matip,3,14,28,9,691,1.0,1.0,2.0,2.0,0.0,0.8,0.8,0.9
+Rhys Williams,3,14,19,7,661,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.2
+Naby Keïta,2,14,25,7,520,0.0,0.0,0.0,1.0,0.0,0.4,0.4,0.6
+Joe Gomez,3,14,23,6,590,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Xherdan Shaqiri,2,14,28,5,556,0.0,0.0,2.0,2.0,0.0,0.5,0.5,2.5
+Virgil van Dijk,3,14,29,5,370,1.0,1.0,0.0,1.0,0.0,0.2,0.2,0.0
+Neco Williams,3,14,19,3,249,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.2
+Takumi Minamino,2,14,25,2,293,1.0,1.0,0.0,0.0,0.0,1.1,1.1,0.0
+Alex Oxlade-Chamberlain,2,14,26,2,253,1.0,1.0,1.0,0.0,0.0,0.3,0.3,0.3
+Divock Origi,1,14,25,2,186,0.0,0.0,0.0,0.0,0.0,1.1,1.1,0.2
+Kostas Tsimikas,3,14,24,0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rúben Dias,3,15,23,32,2843,1.0,1.0,0.0,4.0,0.0,1.9,1.9,0.1
+Rodri,2,15,24,31,2748,2.0,1.0,2.0,6.0,0.0,2.4,1.6,1.4
+Raheem Sterling,1,15,25,28,2536,10.0,10.0,7.0,4.0,0.0,11.0,10.2,5.7
+João Cancelo,3,15,26,27,2299,2.0,2.0,3.0,5.0,1.0,1.6,1.6,4.6
+Bernardo Silva,2,15,25,24,2065,2.0,2.0,6.0,5.0,0.0,2.8,2.8,3.8
+İlkay Gündoğan,2,15,29,23,2029,13.0,12.0,2.0,1.0,0.0,9.0,7.4,3.5
+Kevin De Bruyne,2,15,29,23,1997,6.0,4.0,12.0,1.0,0.0,9.3,6.9,8.0
+Riyad Mahrez,1,15,29,23,1949,9.0,9.0,6.0,0.0,0.0,4.7,4.7,5.0
+Gabriel Jesus,1,15,23,22,2063,9.0,9.0,4.0,2.0,0.0,8.7,8.7,2.7
+Kyle Walker,3,15,30,22,1946,1.0,1.0,1.0,1.0,0.0,0.3,0.3,0.6
+John Stones,3,15,26,22,1933,4.0,4.0,0.0,0.0,1.0,1.8,1.8,0.1
+Phil Foden,1,15,20,17,1616,9.0,9.0,5.0,0.0,0.0,5.0,5.0,3.6
+Oleksandr Zinchenko,3,15,23,15,1478,0.0,0.0,0.0,0.0,0.0,0.7,0.7,0.9
+Ferrán Torres,1,15,20,15,1306,7.0,7.0,2.0,1.0,0.0,4.9,4.9,2.2
+Aymeric Laporte,3,15,26,14,1344,0.0,0.0,0.0,1.0,0.0,0.8,0.8,0.4
+Fernandinho,2,15,35,12,1188,0.0,0.0,2.0,6.0,0.0,0.7,0.7,1.3
+Benjamin Mendy,3,15,26,11,953,2.0,2.0,1.0,2.0,0.0,0.3,0.3,0.2
+Nathan Aké,3,15,25,9,797,1.0,1.0,0.0,4.0,0.0,0.3,0.3,0.0
+Sergio Agüero,1,15,32,7,559,4.0,3.0,1.0,0.0,0.0,3.5,1.9,1.2
+Eric García,3,15,19,3,383,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Liam Delap,1,15,17,0,40,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bruno Fernandes,2,16,25,35,3099,18.0,9.0,12.0,6.0,0.0,16.1,8.2,11.4
+Aaron Wan-Bissaka,3,16,22,34,3060,2.0,2.0,4.0,3.0,0.0,0.9,0.9,2.3
+Harry Maguire,3,16,27,34,3047,2.0,2.0,1.0,11.0,0.0,2.3,2.2,0.3
+Marcus Rashford,1,16,22,33,2920,11.0,11.0,9.0,4.0,0.0,8.9,8.9,3.8
+Luke Shaw,3,16,25,30,2654,1.0,1.0,5.0,8.0,0.0,0.6,0.6,6.4
+Victor Lindelöf,3,16,26,29,2585,1.0,1.0,1.0,0.0,0.0,0.6,0.6,0.3
+Fred,2,16,27,27,2390,1.0,1.0,0.0,5.0,0.0,1.8,1.8,1.9
+Scott McTominay,2,16,23,24,2129,4.0,4.0,1.0,3.0,0.0,2.1,2.1,1.7
+Paul Pogba,2,16,27,21,1897,3.0,3.0,3.0,3.0,0.0,2.8,2.8,2.4
+Mason Greenwood,1,16,18,21,1822,7.0,7.0,2.0,2.0,0.0,6.0,6.0,2.2
+Anthony Martial,1,16,24,17,1480,4.0,4.0,3.0,0.0,1.0,6.5,6.5,2.0
+Edinson Cavani,1,16,33,13,1375,10.0,10.0,3.0,4.0,0.0,8.0,8.0,2.2
+Nemanja Matić,2,16,31,12,1106,0.0,0.0,0.0,2.0,0.0,0.3,0.3,0.7
+Daniel James,1,16,22,11,910,3.0,3.0,1.0,3.0,0.0,2.2,2.2,0.9
+Eric Bailly,3,16,26,10,916,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.0
+Alex Telles,3,16,27,8,690,0.0,0.0,2.0,0.0,0.0,0.2,0.2,0.9
+Juan Mata,1,16,32,6,509,1.0,0.0,2.0,0.0,0.0,1.0,0.2,0.8
+Donny van de Beek,2,16,23,4,524,1.0,1.0,1.0,1.0,0.0,0.4,0.4,0.9
+Axel Tuanzebe,3,16,22,4,404,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+Brandon Williams,3,16,19,2,188,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0
+Amad Diallo,1,16,18,2,166,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.5
+Anthony Elanga,1,16,18,2,155,1.0,1.0,0.0,0.0,0.0,0.4,0.4,0.0
+Timothy Fosu-Mensah,3,16,22,1,80,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3
+Shola Shoretire,1,16,16,0,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odion Ighalo,1,16,31,0,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannibal Mejbri,2,16,17,0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+William Thomas Fish,1,16,17,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jonjo Shelvey,2,17,28,29,2617,1.0,1.0,3.0,7.0,0.0,2.5,2.5,3.0
+Miguel Almirón,2,17,26,28,2429,4.0,4.0,1.0,3.0,0.0,3.2,3.2,2.9
+Federico Fernández,3,17,31,24,2079,0.0,0.0,0.0,4.0,0.0,0.3,0.3,0.6
+Callum Wilson,1,17,28,23,2084,12.0,8.0,5.0,2.0,0.0,12.4,9.3,2.8
+Joelinton,1,17,23,23,1983,4.0,3.0,2.0,3.0,0.0,5.4,4.6,2.4
+Isaac Hayden,2,17,25,22,1942,0.0,0.0,0.0,8.0,0.0,0.7,0.7,0.3
+Ciaran Clark,3,17,30,21,1891,1.0,1.0,0.0,3.0,0.0,0.7,0.7,0.1
+Jamal Lewis,3,17,22,20,1837,0.0,0.0,1.0,4.0,0.0,0.1,0.1,1.0
+Jamaal Lascelles,3,17,26,19,1625,2.0,2.0,0.0,4.0,0.0,1.3,1.3,0.1
+Allan Saint-Maximin,1,17,23,19,1560,3.0,3.0,4.0,0.0,0.0,2.6,2.6,3.7
+Jacob Murphy,3,17,25,17,1626,2.0,2.0,3.0,3.0,0.0,1.7,1.7,3.8
+Jeff Hendrick,2,17,28,17,1422,2.0,2.0,1.0,3.0,1.0,1.1,1.1,1.1
+Sean Longstaff,2,17,22,15,1412,0.0,0.0,1.0,2.0,0.0,1.4,1.4,1.0
+Matt Ritchie,3,17,30,15,1350,0.0,0.0,2.0,2.0,0.0,0.4,0.4,2.2
+Emil Krafth,3,17,25,14,1288,1.0,1.0,0.0,4.0,0.0,0.3,0.3,0.4
+Paul Dummett,3,17,28,14,1255,1.0,1.0,0.0,2.0,0.0,0.3,0.3,0.2
+Fabian Schär,3,17,28,13,1246,1.0,0.0,0.0,4.0,1.0,1.3,0.5,0.0
+Joe Willock,2,17,20,11,978,8.0,8.0,0.0,0.0,0.0,3.9,3.0,0.5
+Javier Manquillo,3,17,26,10,825,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3
+Ryan Fraser,1,17,26,9,928,0.0,0.0,2.0,2.0,1.0,0.9,0.9,2.0
+DeAndre Yedlin,3,17,27,5,436,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
+Dwight Gayle,1,17,29,4,514,1.0,1.0,1.0,0.0,0.0,2.9,2.9,0.3
+Andy Carroll,1,17,31,4,392,1.0,1.0,0.0,1.0,0.0,0.8,0.8,0.1
+Matthew Longstaff,2,17,20,4,377,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2
+Elliot Anderson,2,17,17,0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+George Baldock,3,20,27,32,2787,0.0,0.0,2.0,7.0,0.0,1.2,1.2,2.9
+Chris Basham,3,20,32,31,2576,0.0,0.0,1.0,5.0,0.0,0.7,0.7,0.9
+Enda Stevens,3,20,30,30,2700,0.0,0.0,1.0,6.0,0.0,1.3,1.3,1.6
+John Egan,3,20,27,30,2629,0.0,0.0,1.0,7.0,1.0,0.8,0.8,0.6
+John Fleck,2,20,28,29,2575,0.0,0.0,2.0,4.0,0.0,0.6,0.6,2.9
+David McGoldrick,1,20,32,28,2397,8.0,8.0,1.0,7.0,0.0,6.9,6.9,1.1
+Oliver Norwood,2,20,29,26,2220,0.0,0.0,0.0,6.0,0.0,0.5,0.5,2.0
+Ethan Ampadu,3,20,19,23,2089,0.0,0.0,0.0,3.0,0.0,0.3,0.3,1.2
+John Lundstram,2,20,26,23,2032,0.0,0.0,2.0,8.0,1.0,1.9,1.1,1.3
+Ben Osborn,2,20,25,17,1604,1.0,1.0,0.0,1.0,0.0,1.1,1.1,2.0
+Oliver Burke,1,20,23,14,1269,1.0,1.0,1.0,2.0,0.0,2.1,2.1,2.2
+Sander Berge,2,20,22,13,1120,1.0,0.0,1.0,4.0,0.0,1.2,0.4,1.1
+Oliver McBurnie,1,20,24,12,1324,1.0,1.0,0.0,2.0,0.0,3.9,3.9,1.1
+Rhian Brewster,1,20,20,12,1128,0.0,0.0,0.0,1.0,0.0,1.8,1.8,1.6
+Jayden Bogle,3,20,20,12,1110,2.0,2.0,0.0,2.0,0.0,1.9,1.9,0.2
+Kean Bryan,3,20,23,12,1004,1.0,1.0,0.0,1.0,0.0,0.9,0.9,0.6
+Jack Robinson,3,20,26,9,877,0.0,0.0,1.0,3.0,0.0,0.7,0.7,0.6
+Billy Sharp,1,20,34,7,735,3.0,1.0,0.0,1.0,0.0,3.0,1.5,0.5
+Max Lowe,3,20,23,7,550,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.1
+Phil Jagielka,3,20,37,6,526,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+Daniel Jebbison,1,20,16,3,284,1.0,1.0,0.0,0.0,0.0,1.1,1.1,0.0
+Lys Mousset,1,20,24,2,296,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3
+Jack O'Connell,3,20,26,2,180,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Iliman Ndiaye,2,20,20,0,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Antwoine Hackford,3,20,16,0,11,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Femi Seriki,2,20,18,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+James Ward-Prowse,2,21,25,38,3420,8.0,5.0,7.0,5.0,0.0,5.7,2.5,3.9
+Jan Bednarek,3,21,24,36,3100,1.0,1.0,1.0,5.0,1.0,0.7,0.7,0.6
+Stuart Armstrong,2,21,28,32,2764,4.0,4.0,5.0,3.0,0.0,2.7,2.7,2.6
+Che Adams,1,21,24,30,2667,9.0,9.0,5.0,1.0,0.0,9.8,9.8,5.0
+Kyle Walker-Peters,3,21,23,30,2645,0.0,0.0,2.0,4.0,0.0,1.0,1.0,1.2
+Ryan Bertrand,3,21,30,29,2598,0.0,0.0,1.0,5.0,0.0,0.4,0.4,1.3
+Jannik Vestergaard,3,21,27,29,2574,3.0,3.0,0.0,3.0,1.0,1.5,1.5,0.5
+Danny Ings,1,21,28,26,2173,12.0,10.0,4.0,1.0,0.0,8.5,6.9,2.1
+Oriol Romeu,2,21,28,20,1763,1.0,1.0,1.0,6.0,0.0,0.5,0.5,1.4
+Theo Walcott,2,21,31,20,1618,3.0,3.0,3.0,0.0,0.0,2.3,2.3,1.0
+Nathan Redmond,2,21,26,17,1738,2.0,2.0,3.0,1.0,0.0,3.1,3.1,3.2
+Jack Stephens,3,21,26,17,1537,0.0,0.0,0.0,2.0,0.0,0.8,0.8,0.3
+Moussa Djenepo,2,21,22,15,1240,1.0,1.0,0.0,5.0,0.0,0.8,0.8,0.4
+Ibrahima Diallo,2,21,21,10,1020,0.0,0.0,0.0,3.0,0.0,0.5,0.5,0.6
+Takumi Minamino,2,21,25,9,711,2.0,2.0,0.0,1.0,0.0,1.5,1.5,0.5
+Mohammed Salisu,3,21,21,8,844,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.4
+Nathan Tella,1,21,21,7,745,1.0,1.0,1.0,2.0,0.0,1.6,1.6,0.8
+William Smallbone,2,21,20,2,172,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Shane Long,1,21,33,1,210,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Yan Valery,3,21,21,1,103,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.1
+Kayne Ramsey,3,21,19,1,90,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Jake Vokins,3,21,20,1,66,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Alexandre Jankewitz,2,21,18,1,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Dan Nlundulu,1,21,21,0,111,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Michael Obafemi,1,21,20,0,61,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Caleb Watts,2,21,18,0,39,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Allan Tchaptchet,3,21,18,0,13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pierre Højbjerg,2,22,24,38,3420,2.0,2.0,4.0,9.0,0.0,1.1,1.1,1.6
+Son Heung-min,1,22,28,36,3114,17.0,16.0,10.0,0.0,0.0,9.7,8.9,8.4
+Harry Kane,1,22,27,35,3082,23.0,19.0,14.0,1.0,0.0,20.1,16.9,7.1
+Eric Dier,3,22,26,28,2520,0.0,0.0,0.0,3.0,0.0,1.2,1.2,0.3
+Tanguy Ndombele,2,22,23,28,2091,3.0,3.0,2.0,3.0,0.0,1.6,1.6,1.8
+Sergio Reguilón,3,22,23,26,2244,0.0,0.0,3.0,5.0,0.0,1.0,1.0,2.0
+Toby Alderweireld,3,22,31,25,2240,1.0,1.0,0.0,2.0,0.0,0.7,0.7,0.7
+Serge Aurier,3,22,27,19,1605,2.0,2.0,3.0,0.0,0.0,1.1,1.1,3.4
+Davinson Sánchez,3,22,24,17,1486,0.0,0.0,0.0,1.0,0.0,0.8,0.8,0.0
+Moussa Sissoko,2,22,30,15,1585,0.0,0.0,0.0,3.0,0.0,0.2,0.2,0.1
+Lucas Moura,1,22,27,14,1411,3.0,3.0,4.0,1.0,0.0,1.9,1.9,2.0
+Ben Davies,3,22,27,14,1346,0.0,0.0,1.0,1.0,0.0,0.2,0.2,0.6
+Matt Doherty,3,22,28,13,1240,0.0,0.0,2.0,4.0,1.0,0.4,0.4,0.7
+Steven Bergwijn,1,22,22,13,1208,1.0,1.0,3.0,3.0,0.0,2.0,2.0,0.9
+Giovani Lo Celso,2,22,24,11,945,1.0,1.0,1.0,5.0,0.0,1.4,1.4,1.0
+Gareth Bale,1,22,31,10,920,11.0,11.0,2.0,1.0,0.0,5.8,5.8,1.8
+Harry Winks,2,22,24,9,861,0.0,0.0,0.0,5.0,0.0,0.1,0.1,0.2
+Joe Rodon,3,22,22,8,733,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dele Alli,2,22,24,7,620,0.0,0.0,1.0,0.0,0.0,2.0,2.0,1.2
+Japhet Tanganga,3,22,21,6,487,0.0,0.0,0.0,2.0,0.0,0.4,0.4,0.6
+Érik Lamela,1,22,28,5,717,1.0,1.0,0.0,6.0,1.0,1.1,1.1,1.0
+Carlos Vinícius,1,22,25,3,308,1.0,1.0,0.0,2.0,0.0,1.2,1.2,0.1
+Dane Scarlett,1,22,16,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Darnell Furlong,3,24,24,32,2932,1.0,1.0,3.0,5.0,0.0,2.0,2.0,1.9
+Semi Ajayi,3,24,26,31,2780,2.0,2.0,0.0,3.0,1.0,1.9,1.9,0.5
+Matheus Pereira,2,24,24,30,2577,11.0,7.0,6.0,2.0,1.0,7.3,4.2,6.3
+Kyle Bartley,3,24,29,28,2584,3.0,3.0,1.0,4.0,0.0,2.5,2.5,1.4
+Conor Gallagher,2,24,20,28,2531,2.0,2.0,2.0,11.0,0.0,1.5,1.5,1.8
+Conor Townsend,3,24,27,25,2234,0.0,0.0,2.0,0.0,0.0,1.1,1.1,2.7
+Dara O'Shea,3,24,21,25,2102,0.0,0.0,0.0,3.0,0.0,0.1,0.1,0.2
+Matt Phillips,2,24,29,20,1828,2.0,2.0,1.0,1.0,0.0,2.8,2.8,3.4
+Callum Robinson,1,24,25,20,1560,5.0,5.0,0.0,0.0,0.0,3.1,3.1,1.0
+Romaine Sawyers,2,24,28,17,1487,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.6
+Okay Yokuşlu,2,24,26,15,1317,0.0,0.0,1.0,4.0,0.0,0.9,0.9,0.7
+Jake Livermore,2,24,30,15,1242,0.0,0.0,0.0,2.0,1.0,0.3,0.3,0.2
+Grady Diangana,2,24,22,15,1235,1.0,1.0,0.0,0.0,0.0,1.1,1.1,0.2
+Ainsley Maitland-Niles,2,24,22,14,1230,0.0,0.0,0.0,2.0,0.0,0.6,0.6,0.7
+Mbaye Diagne,1,24,28,14,1189,3.0,3.0,2.0,2.0,0.0,6.6,6.6,1.0
+Karlan Grant,1,24,22,14,1127,1.0,1.0,0.0,1.0,0.0,1.8,1.8,0.2
+Kieran Gibbs,3,24,30,9,809,0.0,0.0,0.0,1.0,1.0,0.1,0.1,0.4
+Branislav Ivanović,3,24,36,8,767,0.0,0.0,0.0,2.0,0.0,0.5,0.5,0.1
+Robert Snodgrass,2,24,32,6,526,0.0,0.0,0.0,2.0,0.0,0.2,0.2,0.4
+Filip Krovinović,2,24,24,5,546,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.2
+Lee Peltier,3,24,33,3,229,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Hal Robson-Kanu,1,24,31,2,561,2.0,2.0,0.0,2.0,0.0,1.2,1.2,0.2
+Kamil Grosicki,2,24,32,2,148,0.0,0.0,1.0,0.0,0.0,0.1,0.1,0.3
+Kyle Edwards,2,24,22,1,118,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Ahmed Hegazi,3,24,29,1,90,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Charlie Austin,1,24,31,0,138,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.0
+Sam Field,2,24,22,0,62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rekeem Harper,2,24,20,0,32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tomáš Souček,2,25,25,38,3419,10.0,10.0,1.0,7.0,1.0,8.4,8.4,2.0
+Aaron Cresswell,3,25,30,36,3170,0.0,0.0,8.0,3.0,0.0,1.0,1.0,6.5
+Vladimír Coufal,3,25,27,34,3054,0.0,0.0,7.0,3.0,0.0,1.3,1.3,5.5
+Declan Rice,2,25,21,32,2879,2.0,1.0,1.0,2.0,0.0,3.2,1.6,1.8
+Pablo Fornals,1,25,24,31,2572,5.0,5.0,4.0,3.0,0.0,6.0,6.0,2.3
+Jarrod Bowen,1,25,23,30,2562,8.0,8.0,5.0,0.0,0.0,7.1,7.1,5.0
+Angelo Ogbonna,3,25,32,28,2492,3.0,3.0,0.0,5.0,0.0,1.7,1.7,0.8
+Michail Antonio,1,25,30,24,1974,10.0,10.0,5.0,3.0,0.0,12.9,12.9,3.0
+Craig Dawson,3,25,30,22,1925,3.0,3.0,0.0,5.0,1.0,1.9,1.9,0.1
+Jesse Lingard,2,25,27,16,1421,9.0,8.0,4.0,3.0,0.0,4.5,2.8,2.1
+Issa Diop,3,25,23,15,1381,2.0,2.0,0.0,3.0,0.0,0.5,0.5,0.0
+Saïd Benrahma,1,25,24,14,1391,1.0,1.0,6.0,0.0,0.0,2.6,2.6,4.1
+Fabián Balbuena,3,25,28,13,1198,1.0,1.0,0.0,1.0,1.0,0.7,0.7,0.0
+Arthur Masuaku,3,25,26,12,1006,0.0,0.0,2.0,2.0,0.0,0.5,0.5,2.2
+Sébastien Haller,1,25,26,10,937,3.0,3.0,0.0,0.0,0.0,2.9,2.9,1.4
+Mark Noble,2,25,33,8,712,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.3
+Ryan Fredericks,3,25,27,6,569,1.0,1.0,1.0,2.0,0.0,0.3,0.3,1.2
+Manuel Lanzini,2,25,27,5,566,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.9
+Ben Johnson,3,25,20,5,523,1.0,1.0,0.0,1.0,0.0,0.4,0.4,0.4
+Andriy Yarmolenko,1,25,30,1,375,0.0,0.0,1.0,3.0,0.0,0.3,0.3,0.8
+Robert Snodgrass,1,25,32,0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Felipe Anderson,1,25,27,0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Conor Coady,3,26,27,37,3303,1.0,1.0,0.0,5.0,0.0,1.0,1.0,0.2
+Nélson Semedo,3,26,26,34,2983,1.0,1.0,1.0,5.0,0.0,1.3,1.3,1.3
+Rúben Neves,2,26,23,31,2675,5.0,2.0,1.0,8.0,0.0,5.1,2.7,1.9
+Pedro Neto,1,26,20,30,2550,5.0,5.0,6.0,4.0,0.0,5.1,5.1,5.4
+Adama Traoré,1,26,24,28,2649,2.0,2.0,2.0,4.0,0.0,2.0,2.0,4.8
+João Moutinho,2,26,33,28,2528,1.0,1.0,1.0,5.0,1.0,0.6,0.6,2.4
+Leander Dendoncker,2,26,25,28,2503,1.0,1.0,0.0,4.0,0.0,3.1,3.1,0.7
+Romain Saïss,3,26,30,27,2407,3.0,3.0,0.0,2.0,0.0,3.0,3.0,0.2
+Daniel Podence,2,26,24,22,1661,3.0,3.0,2.0,3.0,0.0,2.5,2.5,1.7
+Willy Boly,3,26,29,21,1879,1.0,1.0,1.0,2.0,0.0,1.1,1.1,0.3
+Rayan Aït Nouri,3,26,19,16,1404,1.0,1.0,1.0,1.0,0.0,0.6,0.6,0.6
+Max Kilman,3,26,23,14,1310,0.0,0.0,1.0,4.0,0.0,0.8,0.8,0.5
+Willian José,1,26,28,12,1110,1.0,1.0,0.0,0.0,0.0,1.6,1.6,1.2
+Fábio Silva,1,26,18,11,1369,4.0,3.0,3.0,2.0,0.0,5.3,4.5,1.0
+Raúl Jiménez,1,26,29,10,823,4.0,4.0,0.0,0.0,0.0,2.4,2.4,0.3
+Fernando Marçal,3,26,31,7,623,0.0,0.0,0.0,2.0,0.0,0.1,0.1,0.1
+Jonny Castro,2,26,26,7,495,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.1
+Ki-Jana Hoever,3,26,18,5,577,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.2
+Vitinha,2,26,20,5,520,0.0,0.0,1.0,0.0,0.0,0.5,0.5,0.6
+Morgan Gibbs-White,2,26,20,4,414,1.0,1.0,0.0,1.0,0.0,0.8,0.8,0.4
+Owen Otasowie,2,26,19,2,187,0.0,0.0,1.0,1.0,0.0,0.5,0.5,0.1
+Rúben Vinagre,2,26,21,1,173,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1
+Patrick Cutrone,1,26,22,0,25,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+Oskar Buur,3,26,22,0,22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Theo Corbeanu,1,26,18,0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
