@@ -34,9 +34,25 @@ For our prediction model we focused primarily on data in relation to goal scorin
 14. Expected Assists, xA
 
 ## Data Cleaning
-
+In the data cleaning phase, we transform the raw data extracted from the CSV and turn them into Pandas dataframes.
+These are the following transformations performed to the data:
+* `Removed` all *Goalkeepers* from the data (Very few are goal scorers lol)
+* `One-Hot encoding` to the *Clubs* to turn them into quantitative data
+* `Removed` the second and subsequent *Positions* for players that had multiple positions
+* `One-Hot encoding` for *Positions*
+* Turn *Minutes Played* data into `int` values
+* Turn *Age* data into `int` values
+  
 
 ## Data Manipulating
+In the data manipulating phase, the focus was on formatting the data into tensors for the model. We format each row of the tensor as the following. The first 13 columns contain the 14 scraped data entries minus the name for the current season. The next 13 columns are for the same player, only data for the season prior. We also supply each row with 13 other player data split into the following: 
+
+5. Forwards
+5. Midfielders
+3. Defenders   
+
+The players are ordered by *Minutes Played* since the players with the most minutes contribute most to the general stats of the team.
+**This process is then repeated for all the season pairs that exist for the 2018/19 to 2022/23 Premier League seasons.**
 
 ## Data Loading
 ### Normalisation
