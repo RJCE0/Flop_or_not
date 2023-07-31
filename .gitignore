@@ -2,3 +2,6 @@ venv/
 /venv
 test.py
 .vscode/
+__init__.py
+__pycache__
+testingimports.py

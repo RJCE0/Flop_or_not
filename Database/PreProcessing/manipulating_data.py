@@ -1,37 +1,27 @@
 import pandas as pd
 import numpy as np
 import csv
-
+from utils.common import year_pairs
 data = []
 n_features = 14
 
 # Begin with tuples of (y, y-1) where y is the dtabase from year y 
-files_dict = {
-    "2022-23": "Database/CSVs/FBRefDatabase2022-23.csv",
-    "2021-22": "Database/CSVs/FBRefDatabase2021-22.csv",
-    "2020-21": "Database/CSVs/FBRefDatabase2020-21.csv",
-    "2019-20": "Database/CSVs/FBRefDatabase2019-20.csv",
-    "2018-19": "Database/CSVs/FBRefDatabase2018-19.csv",
-}
 
 # List = (Y, Y-1)
-year_pairs = [(files_dict["2022-23"], files_dict["2021-22"]), 
-     (files_dict["2021-22"], files_dict["2020-21"]),
-     (files_dict["2020-21"], files_dict["2019-20"]),
-     (files_dict["2019-20"], files_dict["2018-19"]),
-    ]
 
-# Function to apply 0 padding if n largest function yields less than n size data required
+# Function to apply -1 padding if n largest function yields less than n size data required
 def n_largest_with_padding(dataFrame, n, category):
     res = dataFrame.nlargest(n, category)
     padding_needed = n - len(res)
     if padding_needed > 0:
+        
         # print(f"This is the padding needed: {padding_needed}")
-        padding = np.zeros(shape=(padding_needed, n_features))
+        padding = np.negative(np.ones(shape=(padding_needed, n_features)))
         # print(f"This is the array of zero padding required {padding}")
-        for zero_array in padding:
+        
+        for minus_array in padding:
             # print(f"This should get the singular row of the zero array: {zero_array}")   
-            res.loc[len(res)] = zero_array
+            res.loc[len(res)] = minus_array
     return res
 
 
