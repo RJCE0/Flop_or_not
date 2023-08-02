@@ -22,6 +22,6 @@ def scree_plot(X):
     plt.title("PCA Eigenvalues")
     plt.style.context('seaborn-whitegrid')
     plt.axhline(y=1, color='r', linestyle='--')
-    plt.plot(covMat.explained_variance)
+    plt.plot(covMat.explained_variance_)
     plt.show()
 

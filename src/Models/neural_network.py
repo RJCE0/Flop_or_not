@@ -8,6 +8,7 @@ import numpy as np
 from ...Database.PreProcessing.data_loading import X, y, unseparated_data, FBRefDataset, seperate_labels_and_inputs
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
+from sklearn.metrics import mean_squared_error
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -15,12 +16,14 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 # hyperparameters
 # dimensions = [182, 310, 80, 13]
 dimensions = [182, 310, 210, 110, 13]
+dimensions = [38, 310, 210, 110, 13]
 
 # num_epochs = 10
 # batch_size = 32
 # learning_rate = 0.01
 
 num_epochs = 2_500
+# num_epochs = 1
 # num_epochs = 6_000
 # num_epochs = 1
 batch_size = 32
@@ -146,6 +149,9 @@ tolerence = 2
 valid = 0
 total = 0
 # Test the model 3
+predictions = []
+actual = []
+
 for batch_data, batch_labels in testloader:
     
     batch_data, batch_labels = batch_data.to(device), batch_labels.to(device)
@@ -166,59 +172,30 @@ for batch_data, batch_labels in testloader:
         # once you get to the end, divide the valid variable by the total to get accuracy
 
         for i in range(len(batch_labels)):
-            
+
             single_label = batch_labels[i]
             single_prediction = outputs[i]
             
             print(single_prediction[5])
+
+            b = single_prediction[5].to(device).item()
+            a = single_label[5].to(device).item()
+            predictions.append(a)
+            actual.append(b)
 
             if single_label[5] - tolerence < single_prediction[5] < single_label[5] + tolerence:
                 valid += 1 
             
             total += 1            
 
+
+
+
 print(valid)
 print(total)
 print(valid/total)
 print(f"The accuracy of the model with {num_epochs} epochs and target range of {tolerence} goal is: {valid/total}")
-
-# % ----------------------------------------------------------------
-# tolerence = .2
-# valid = 0
-# total = 0
-# # Test the model 3
-# for batch_data, batch_labels in testloader:
-    
-#     batch_data, batch_labels = batch_data.to(device), batch_labels.to(device)
-#     neural_newtork.eval()
-    
-#     with torch.no_grad():
-#         i = 0
-
-#         # print the predicted outputs
-#         outputs = neural_newtork(batch_data)
-#         outputs = outputs.to(device)
-        
-#         # Algo----------------
-#         # get a batch 
-#         # loop through it
-#         # for every prediction in the batch, compare to the corresponding label
-#         # if its within a certain threshold, iterate a "valid" variable
-#         # once you get to the end, divide the valid variable by the total to get accuracy
-
-#         for i in range(len(batch_labels)):
-            
-#             single_label = batch_labels[i]
-#             single_prediction = outputs[i]
-            
-#             print(single_prediction[5])
-
-#             if single_label[5] * (1 - tolerence) < single_prediction[5] < single_label[5] * (1 + tolerence):
-#                 valid += 1 
-            
-#             total += 1            
-
-# print(valid)
-# print(total)
-# print(f"The accuracy of the model with {num_epochs} epochs and goal threshold of {tolerence*100}% is: {valid/total}")
-
+rmse = np.sqrt(mean_squared_error(predictions, actual))
+print(f"Teh RMSE is {rmse}")
+# print(predictions)
+# print(actual)

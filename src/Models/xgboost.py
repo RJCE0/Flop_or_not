@@ -6,40 +6,21 @@ from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import cross_val_score, KFold, RandomizedSearchCV, train_test_split
 import xgboost as xgb
 import matplotlib.pyplot as plt
+from ...Database.PreProcessing.apply_pca import *
 
 scaler = StandardScaler()
 X = scaler.fit_transform(X)
+X = apply_pca_with_n_components(X, 38)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 train = xgb.DMatrix(X_train,  label=y_train)
 test = xgb.DMatrix(X_test, label=y_test)
-# K_fold = KFold(n_splits=5, shuffle=True, random_state=42)
-
-# scores = []
-
-# def display_scores(scores):
-#     print("Scores: {0}\nMean: {1:.3f}\nStd: {2:.3f}".format(scores, np.mean(scores), np.std(scores)))
-
-# for train_index, test_index in K_fold.split(X):
-#     print(train_index)
-#     print(test_index)
-#     X_train, X_test = X[train_index], X[test_index]
-#     y_train, y_test = y[train_index], y[test_index]
-    
-#     xgb_model = xgb.XGBRegressor(objective="reg:squarederror")
-#     xgb_model.fit(X_train, y_train)
-    
-#     y_pred = xgb_model.predict(X_test)
-    
-#     scores.append(mean_squared_error(y_test, y_pred))
-
-
-# display_scores(np.sqrt(scores))
 
 xgb_model = xgb.XGBRegressor(objective="reg:squarederror", random_state=42)
 xgb_model.fit(X_train, y_train)
-y_pred = xgb_model.predict(X_test)
-rmse = np.sqrt(mean_squared_error(y_test, y_pred))
-print(f"RMSE: {rmse}")
+y_pred = np.array(xgb_model.predict(X_test))
+y_test = np.array([*y_test])
+rmse = np.sqrt(mean_squared_error(y_test[:,5], y_pred[:,5]))
+print(f"RMSE for Goals: {rmse}")
 
 # Extras:
 # params = {
@@ -53,5 +34,4 @@ print(f"RMSE: {rmse}")
 # xgb.plot_importance(model)
 # plt.rcParams['figure.figsize'] = [5,5]
 # plt.show()
-
 
