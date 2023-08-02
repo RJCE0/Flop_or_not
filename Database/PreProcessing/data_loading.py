@@ -31,7 +31,10 @@ class FBRefDataset(Dataset):
         print("normalising...")
         scaler = StandardScaler()
         self.x = torch.Tensor(scaler.fit_transform(torch.from_numpy(xy[:, 13: ])))
-
+        # print(type(self.x))
+        print("PCA-ing...")
+        self.x = torch.Tensor(apply_pca_with_n_components(self.x, 38))
+        # print(type(self.x))
         self.y = torch.from_numpy(xy[:, :13])
         self.n_samples = xy.shape[0]        
 
@@ -57,20 +60,5 @@ if __name__ == '__main__':
     # X, y = seperate_labels_and_inputs(unseparated_data)
     # print("="*30)
     ds = FBRefDataset()
-    # x,y = ds[0]
-    # print(len(x))
-    # print("="*30)
-    # print(y)
-    # print("="*30)
 
-    dl = DataLoader(dataset=ds, batch_size=4, shuffle=False, num_workers=1)
-    dtiter = iter(dl)
-    data = next(dtiter)
-    x, y = data
-    print("="*30)
-    print(len(x))
-    print(len(y))
-    print("="*30)
-    print(x)
-    print(y)
-    print("="*30)
+    scree_plot(ds.x)
