@@ -47,11 +47,11 @@ These are the following transformations performed to the data:
 ## Data Manipulating
 In the data manipulating phase, the focus was on formatting the data into tensors for the model. We format each row of the tensor as the following. The first 13 columns contain the 14 scraped data entries minus the name for the current season. The next 13 columns are for the same player, only data for the season prior. We also supply each row with 13 other player data split into the following: 
 
-5. Forwards
-5. Midfielders
-3. Defenders   
+- 5x Forwards
+- 5x Midfielders
+- 3x Defenders   
 
-The players are ordered by *Minutes Played* since the players with the most minutes contribute most to the general stats of the team.
+The players are ordered by *Minutes Played* since the players with the most minutes contribute most to the general stats of the team. For any row entires that didn't have correct shape, i.e. there wasn't enough data for the number of Forwards, Midfielders or Defenders we required, we added PADDING (May change this)
 **This process is then repeated for all the season pairs that exist for the 2018/19 to 2022/23 Premier League seasons.**
 
 ## Data Loading
