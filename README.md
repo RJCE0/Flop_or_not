@@ -1,8 +1,9 @@
 # Flop or Not 
+<img src="https://github.com/RJCE0/Flop_or_not/blob/main/logo.PNG" width="400">
 
 A machine learning prediction model that predicts the number of **goals** a current Premier League player will score in the Upcoming **23/24 season**
------
 
+## Source
 All data has been web-scrapped from FBRef for the following premier league seasons:
 * [2018/19](https://fbref.com/en/comps/9/2018-2019/stats/2018-2019-Premier-League-Stats "Premier League player data from 2018/19")
 * [2019/20](https://fbref.com/en/comps/9/2019-2020/stats/2019-2020-Premier-League-Stats "Premier League player data from 2019/20")
@@ -51,13 +52,18 @@ In the data manipulating phase, the focus was on formatting the data into tensor
 - 5x Midfielders
 - 3x Defenders   
 
-The players are ordered by *Minutes Played* since the players with the most minutes contribute most to the general stats of the team. For any row entires that didn't have correct shape, i.e. there wasn't enough data for the number of Forwards, Midfielders or Defenders we required, we added PADDING (May change this)
+The players are ordered by *Minutes Played* since the players with the most minutes contribute most to the general stats of the team. 
 **This process is then repeated for all the season pairs that exist for the 2018/19 to 2022/23 Premier League seasons.**
 
+###### Padding
+We were at a cross-roads between a sufficient amount of data and a complete set of data. To test which outcome would influence the models more, we created two datasets, the first dataset with 0 padding (also tested -1 padding) to entries where data was missing and a second dataset with fewer entries and features as missing data entries were omitted.  
+
 ## Data Loading
+Once the data had been transformed in the cleaning and manipulating phases, we use the data loading file to firstly, seperate the labels and inputs then, apply normalisation and dimensionality reduction techniques. 
 ### Normalisation
 ### Principle Component Analysis
 
 ## Models
-
-
+We opted to experiment between two primary models for prediction, a Neural Network regression model and XGBoost with aims to compare both accuracy and speed at which they can offer reliable predictions for the number of goals a player will get in the 23/24 Premier League campaign. We used the Root Mean Squared Error (RMSE) as our metric to indicate how far off the models prediction was from the true value of the test set. 
+### Neural Network
+### XGBoost
