@@ -1,4 +1,3 @@
-# Flop or Not 
 <img src="https://github.com/RJCE0/Flop_or_not/blob/main/logo.PNG" width="400">
 
 A machine learning prediction model that predicts the number of **goals** a current Premier League player will score in the Upcoming **23/24 season**
