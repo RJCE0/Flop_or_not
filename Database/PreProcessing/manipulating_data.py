@@ -1,9 +1,13 @@
 import pandas as pd
 import numpy as np
 import csv
-from utils.common import year_pairs
+# from utils.common import year_pairs
+from .utils.common import year_pairs
 data = []
-n_features = 14
+n_features = 13
+n_fwd = 3
+n_mid = 3
+n_def = 2
 
 # Begin with tuples of (y, y-1) where y is the dtabase from year y 
 
@@ -24,6 +28,16 @@ def n_largest_with_padding(dataFrame, n, category):
             res.loc[len(res)] = minus_array
     return res
 
+def postion_split(dataFrame, paddingFlag):
+    if paddingFlag:
+        topFwds = n_largest_with_padding(dataFrame[dataFrame["Position"] == 1], n_fwd, 'Mins')
+        topMids = n_largest_with_padding(dataFrame[dataFrame["Position"] == 2], n_mid, 'Mins')
+        topDefs = n_largest_with_padding(dataFrame[dataFrame["Position"] == 3], n_def, 'Mins')
+        return topFwds, topMids, topDefs
+    topFwds = dataFrame[dataFrame["Position"] == 1].nlargest(n_fwd, 'Mins')
+    topMids = dataFrame[dataFrame["Position"] == 2].nlargest(n_mid, 'Mins')
+    topDefs = dataFrame[dataFrame["Position"] == 3].nlargest(n_def, 'Mins')
+    return topFwds, topMids, topDefs
 
 # For every year pair that we have, we want to get the first entry in the tuple which is the 
 # file name of the database for that specific year. Then once retrieved we want to go through each entry and
@@ -52,14 +66,7 @@ for year_pair in year_pairs:
             # Suggestion: Implement for other categories than Minutes? Maybe xAG?
             
             # Apply padding if less than n largest available 
-            topFwds = n_largest_with_padding(squad_stats_prev_year[squad_stats_prev_year["Position"] == 1], 5, 'Mins')
-            
-            
-            # Apply padding if less than n largest available
-            topMids = n_largest_with_padding(squad_stats_prev_year[squad_stats_prev_year["Position"] == 2], 5, 'Mins')
-
-            # Apply padding if less than n largest available
-            topDefs = n_largest_with_padding(squad_stats_prev_year[squad_stats_prev_year["Position"] == 3], 3, 'Mins')
+            topFwds, topMids, topDefs = postion_split(squad_stats_prev_year, paddingFlag=0)
 
             # Make one dataframe containing the data for a player's previous season stats and their teammates stats for the previous season
             allTogether = pd.concat([prev_year_player, topFwds, topMids, topDefs], ignore_index=True)
@@ -71,6 +78,7 @@ for year_pair in year_pairs:
             allTogether_array = np.array(allTogether).reshape(1,-1)
             allTogether_array_with_label = [list(curr_year_player) + list(*allTogether_array)]
             data.append(allTogether_array_with_label)
+
 
     
 # Function to identify the shape of the data, count how many fit and to print the row itself.
@@ -102,8 +110,10 @@ def correct_shape_filter(list, whitelist_len, flag):
     return filtered_list
 
 # Writing the data to a CSV file
-filtered_data_list = correct_shape_filter(data, 195, 1)
-with open('Database/CSVs/Dataset.csv', 'w', newline='') as file:
+tot = (n_fwd + n_mid + n_def + 2)*n_features
+filtered_data_list = correct_shape_filter(data, tot, 1)
+print(len(filtered_data_list))
+with open('/home/javonne/Flop_or_not/Database/CSVs/DatasetWithoutPaddingModded.csv', 'w', newline='') as file:
     writer = csv.writer(file, escapechar=' ', quoting=csv.QUOTE_NONE)
     for row in filtered_data_list:
         writer.writerows(row)
