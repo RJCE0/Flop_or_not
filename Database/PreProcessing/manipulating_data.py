@@ -1,9 +1,10 @@
 import pandas as pd
 import numpy as np
 import csv
-# from utils.common import year_pairs
 from .utils.common import year_pairs
-data = []
+
+
+dataset = []
 n_features = 13
 n_fwd = 3
 n_mid = 3
@@ -44,20 +45,20 @@ def postion_split(dataFrame, paddingFlag):
 # take the player data for this year and couple it with the team data for the second entry in year pair. 
 for year_pair in year_pairs:
     # (files_dict["2022-23"], files_dict["2021-22"])
-    df1 = pd.read_csv(year_pair[0])
-    df2 = pd.read_csv(year_pair[1])
-    for i in range(len(df1)):
+    df_current_year = pd.read_csv(year_pair[0])
+    df_previous_year = pd.read_csv(year_pair[1])
+    for i in range(len(df_current_year)):
         
         # Select the ith entry from the current year of players in the database
-        curr_year_player = df1.loc[i]
+        curr_year_player = df_current_year.loc[i]
         
         # Find the players stats for the previous campaign if exists 
-        prev_year_player = df2[df2["Player Name"] == curr_year_player["Player Name"]]
+        prev_year_player = df_previous_year[df_previous_year["Player Name"] == curr_year_player["Player Name"]]
         
         # If-else check for if player is in prev database if not skip player 
         if not prev_year_player.empty:
             # Find the teams squad stats for the previous campaign
-            squad_stats_prev_year = df2[df2["Club Name"] == prev_year_player["Club Name"].iloc[0]]
+            squad_stats_prev_year = df_previous_year[df_previous_year["Club Name"] == prev_year_player["Club Name"].iloc[0]]
         
             # Removing curr player from prev year squad dataset to ensure unique 15 players
             squad_stats_prev_year = squad_stats_prev_year[squad_stats_prev_year["Player Name"] != curr_year_player["Player Name"]]
@@ -66,22 +67,23 @@ for year_pair in year_pairs:
             # Suggestion: Implement for other categories than Minutes? Maybe xAG?
             
             # Apply padding if less than n largest available 
-            topFwds, topMids, topDefs = postion_split(squad_stats_prev_year, paddingFlag=0)
+            top_fwds, top_mids, top_defs = postion_split(squad_stats_prev_year, paddingFlag=0)
 
             # Make one dataframe containing the data for a player's previous season stats and their teammates stats for the previous season
-            allTogether = pd.concat([prev_year_player, topFwds, topMids, topDefs], ignore_index=True)
+            all_together = pd.concat([prev_year_player, top_fwds, top_mids, top_defs], ignore_index=True)
             curr_year_player = curr_year_player.drop(['Player Name'])
-            allTogether = allTogether.drop(columns=['Player Name'])
+            all_together = all_together.drop(columns=['Player Name'])
         
             # Combine curr player stats and the allTogether dataframe
             curr_year_player_df = curr_year_player.values
-            allTogether_array = np.array(allTogether).reshape(1,-1)
-            allTogether_array_with_label = [list(curr_year_player) + list(*allTogether_array)]
-            data.append(allTogether_array_with_label)
+            all_together_array = np.array(all_together).reshape(1,-1)
+            all_together_array_with_label = [list(curr_year_player) + list(*all_together_array)]
+            dataset.append(all_together_array_with_label)
 
 
-    
 # Function to identify the shape of the data, count how many fit and to print the row itself.
+# (Uesful to find shape because variation exists due to missing data in our csvs and we need
+# consistency)
 # fits, non_fits = 0, 0 
 # print(np.array(data))
 # for i in np.array(data, dtype=object):
@@ -111,7 +113,7 @@ def correct_shape_filter(list, whitelist_len, flag):
 
 # Writing the data to a CSV file
 tot = (n_fwd + n_mid + n_def + 2)*n_features
-filtered_data_list = correct_shape_filter(data, tot, 1)
+filtered_data_list = correct_shape_filter(dataset, tot, 1)
 print(len(filtered_data_list))
 with open('/home/javonne/Flop_or_not/Database/CSVs/DatasetWithoutPaddingModded.csv', 'w', newline='') as file:
     writer = csv.writer(file, escapechar=' ', quoting=csv.QUOTE_NONE)
