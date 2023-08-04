@@ -16,6 +16,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 # hyperparameters
 dimensions = [28, 1570, 970, 810, 510, 13]
 num_epochs = 750
+num_epochs = 800
 batch_size = 32
 learning_rate = 0.0005
 # adam hyperparameters
@@ -101,8 +102,6 @@ def train(model, num_epochs, loss_func, optimisation_func, train_loader):
     plt.ylabel("Loss")
     plt.plot(loss_list)
     plt.show()
-
-
 
 neural_newtork = NeuralNetwork(dimensions)
 neural_newtork = neural_newtork.to(device)

@@ -7,11 +7,11 @@ from sklearn.model_selection import train_test_split
 import xgboost as xgb
 import matplotlib.pyplot as plt
 from ...Database.PreProcessing.apply_pca import *
+from ...Database.PreProcessing.norm import *
 
-scaler = StandardScaler()
-X = scaler.fit_transform(X)
+
 X = apply_pca_with_n_components(X, 38)
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = z_score_normalisation(X,y, 0.2)
 train = xgb.DMatrix(X_train,  label=y_train)
 test = xgb.DMatrix(X_test, label=y_test)
 

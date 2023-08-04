@@ -60,9 +60,29 @@ We were at a cross-roads between a sufficient amount of data and a complete set 
 ## Data Loading
 Once the data had been transformed in the cleaning and manipulating phases, we use the data loading file to firstly, seperate the labels and inputs then, apply normalisation and dimensionality reduction techniques. 
 ### Normalisation
+We implemented Z-score normalisation using standard scaler and split the data using train_test_split to provide us with the input training set, input test set, label training set and label test set. we normalise the data because this helps our model to learn more easily in training. This is because it can be difficult to compare features when they are different scales. The reason for z-score normalisation in particular is because it handles outliers in data well. 
 ### Principle Component Analysis
-
+Furthermore we implemented the Principal Component Analysis along with scree plots to find the ideal number of features that truly influence the other statistics. We find the ideal number of prinicple components to be 38. 
 ## Models
 We opted to experiment between two primary models for prediction, a Neural Network regression model and XGBoost with aims to compare both accuracy and speed at which they can offer reliable predictions for the number of goals a player will get in the 23/24 Premier League campaign. We used the Root Mean Squared Error (RMSE) as our metric to indicate how far off the models prediction was from the true value of the test set. 
 ### Neural Network
+We implemented a Deep Neural Network (DNN) to predict the each of the 13 statistics that we tracked. The DNN had 4 hidden layers, and 28 input nodes due to PCA. It had 13 output nodes but we only evaluated the models performance based on the goal prediction. 
+Since this was a regression task the loss function was MSE and the Optimisation was Adam. Normalisation was vital to ensuring the model worked as expected (Which we tested using RMSE as well as directly observing the predictions).
+
+|      | w/ Padding  | w/o Padding |
+| ---- |:-----------:|:------------|
+| RMSE:| ~2.95 Goals | ~3.28 Goals |
+
 ### XGBoost
+An XGBoost model (eXtreme Gradient Boosting) is simply a tree ensemble whereby new models are added to correct the errors made by existing trees. Tree models are added sequentially until no further improvements can be made. 
+We then developed an XGBoost model to try and beat the performance of the Deep Neural Network architecture model. Again we apply PCA and Z-score normalisation to the trainig and testing data. Lastly we use the RMSE metric to identify how accurate the predicted goals were.
+
+|      | w/ Padding  | w/o Padding |
+| ---- |:-----------:|:------------|
+| RMSE:| ~3.04 Goals | ~2.82 Goals |
+
+
+## Future Work 
+- Hyperparameter optimisation using Bayesian Optimisation hyperparameter tuning
+- Implement early stopping criterion
+- Implement K-Fold cross-validation
