@@ -16,8 +16,11 @@ def seperate_labels_and_inputs(data):
 
     return labels, targets
 
-filename = "CSVs/553-mins-w-1padding.csv"
-filename = "/home/javonne/Flop_or_not/Database/CSVs/553-mins-w-1padding.csv"
+# filename = "CSVs/553-mins-w-1padding.csv"
+# filename = "/home/javonne/Flop_or_not/Database/CSVs/553-mins-w-1padding.csv"
+# filename = "/home/javonne/Flop_or_not/Database/CSVs/553-random-order-mins-w-1padding.csv"
+filename = "/home/javonne/Flop_or_not/Database/CSVs/DatasetWithoutPadding.csv"
+
 df = pd.read_csv(filename)
 
 unseparated_data = np.array(df, dtype=int)
@@ -33,11 +36,10 @@ class FBRefDataset(Dataset):
         self.x = torch.Tensor(scaler.fit_transform(torch.from_numpy(xy[:, 13: ])))
         # print(type(self.x))
         print("PCA-ing...")
-        self.x = torch.Tensor(apply_pca_with_n_components(self.x, 38))
+        self.x = torch.Tensor(apply_pca_with_n_components(self.x, 28))
         # print(type(self.x))
         self.y = torch.from_numpy(xy[:, :13])
         self.n_samples = xy.shape[0]        
-
         return None
     
     def __getitem__(self, index):
@@ -52,8 +54,8 @@ if __name__ == '__main__':
     #Applying Z-score normalization to our dataset
     # X_train, X_test, y_train, y_test = z_score_normalisation(X, y)
 
-    filename = "CSVs/553-mins-w-1padding.csv"
     filename = "/home/javonne/Flop_or_not/Database/CSVs/553-mins-w-1padding.csv"
+    filename = "/home/javonne/Flop_or_not/Database/CSVs/DatasetWithoutPadding.csv"
     df = pd.read_csv(filename)
 
     unseparated_data = np.array(df, dtype=int)
