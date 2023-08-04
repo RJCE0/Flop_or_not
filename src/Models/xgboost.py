@@ -3,7 +3,7 @@ from ...Database.PreProcessing.data_loading import X, y
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error
-from sklearn.model_selection import cross_val_score, KFold, RandomizedSearchCV, train_test_split
+from sklearn.model_selection import train_test_split
 import xgboost as xgb
 import matplotlib.pyplot as plt
 from ...Database.PreProcessing.apply_pca import *
@@ -19,6 +19,10 @@ xgb_model = xgb.XGBRegressor(objective="reg:squarederror", random_state=42)
 xgb_model.fit(X_train, y_train)
 y_pred = np.array(xgb_model.predict(X_test))
 y_test = np.array([*y_test])
+
+# Vectorised zero floor applied for goals i.e you cannot score negative goals
+y_pred[:,5] = np.maximum(0, y_pred[:,5])
+
 rmse = np.sqrt(mean_squared_error(y_test[:,5], y_pred[:,5]))
 print(f"RMSE for Goals: {rmse}")
 
